@@ -4,5 +4,5 @@ the current board position and chooses the best move from them.
 represented by a simple list instead of a list of lists each representing a row just for memory intents, winning boards
 for the engine are given a positive score of 20, 0 if the board is a draw and -20 if the engine loses on the board.
 The engine is incentivized to end as soon as possible by adding a separate score calculated by the maximum number of
-moves (10) and substract the depth at which we found the table. This makes the engine choose the endings that are
-faster.
+moves (10) and subtract the depth at which we found the table. This makes the engine choose the endings that are
+at lower depths.
