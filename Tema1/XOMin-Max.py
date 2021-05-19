@@ -4,6 +4,8 @@ values = {'X': 'O', 'O': 'X'}
 
 # This represents a table of game
 class Table:
+    hash_table_values = {}
+
     # initialisation table is the current table
     # side is the current side to move
     def __init__(self, table, side):
@@ -15,7 +17,7 @@ class Table:
     # hash function to index the tables that have been created
     def make_hash(self):
         score = 0
-        for i, var in self.table:
+        for i, var in enumerate(self.table):
             if var == 'X':
                 score += i * 40
             elif var == 'O':
@@ -26,8 +28,9 @@ class Table:
     # turn_aux means the turn it has to be calculated
     # Min or Max depending on the depth
     def calculate_values(self, turn_aux):
-        maximum = -10
-        minimum = 10
+        maximum = -100
+        minimum = 100
+
         if self.verify_end_final():
             return
 
@@ -38,21 +41,13 @@ class Table:
             for i in self.children:
                 if maximum < i.value_position:
                     maximum = i.value_position
-
-            if minimum == 10:
-                self.value_position = verify_end(self, color_bot)
-            else:
-                self.value_position = maximum
+            self.value_position = maximum
             return
         else:
             for i in self.children:
                 if minimum > i.value_position:
                     minimum = i.value_position
-
-            if minimum == -10:
-                self.value_position = verify_end(self, color_bot)
-            else:
-                self.value_position = minimum
+            self.value_position = minimum
             return
 
     # Calculates the number of moves left
@@ -103,7 +98,7 @@ class Table:
 def get_best_solution(table):
     maximum = -100
     index = 0
-    create_children(table)
+    create_children(table, 1)
     table.calculate_values(0)
 
     for i, val in enumerate(table.children):
@@ -117,8 +112,8 @@ def get_best_solution(table):
 
 
 # creates all possible moves for the current table
-def create_children(table):
-    table.value_position = verify_end(table, color_bot)
+def create_children(table, depth):
+    table.value_position = verify_end(table, color_bot) + 10 - depth
 
     if not table.verify_end_final():
         for i, var in enumerate(table.table):
@@ -126,88 +121,73 @@ def create_children(table):
                 andrei = table.table.copy()
                 andrei[i] = table.side
                 new_table = Table(andrei, values[table.side])
+                create_children(new_table, depth + 1)
                 table.children.append(new_table)
-                create_children(new_table)
 
 
 # this actually calculates the value of the position for a certain side
 # it's made to prioritise the center and the diagonal
 def verify_end(table, side):
-    heuristic = 0
-    # heuristic function for prioritization of the center square and diagonals after that
-    if table.table[4] == side:
-        if table.table[0] == side:
-            heuristic += 1
-        if table.table[2] == side :
-            heuristic += 1
-        if table.table[6] == side:
-            heuristic += 1
-        if table.table[8] == side:
-            heuristic += 1
-        heuristic += 1
-    elif table.table[4] == values[side]:
-        heuristic -= 1
-
     # Horizontal verification
     if table.table[0] != '_' and table.table[1] != '_' and table.table[2] != '_':
         if table.table[0] == table.table[1] == table.table[2]:
             if table.table[0] == side:
-                return heuristic + 5
+                return 20
             else:
-                return heuristic - 5
+                return -20
 
     if table.table[3] != '_' and table.table[4] != '_' and table.table[5] != '_':
         if table.table[3] == table.table[4] == table.table[5]:
             if table.table[3] == side:
-                return heuristic + 5
+                return 20
             else:
-                return heuristic + - 5
+                return -20
 
     if table.table[6] != '_' and table.table[7] != '_' and table.table[8] != '_':
         if table.table[6] == table.table[7] == table.table[8]:
             if table.table[6] == side:
-                return heuristic + 5
+                return 20
             else:
-                return heuristic - 5
+                return -20
 
     # Vertical verification
     if table.table[0] != '_' and table.table[3] != '_' and table.table[6] != '_':
         if table.table[0] == table.table[3] == table.table[6]:
             if table.table[0] == side:
-                return heuristic + 5
+                return 20
             else:
-                return heuristic - 5
+                return -20
 
     if table.table[1] != '_' and table.table[4] != '_' and table.table[7] != '_':
         if table.table[1] == table.table[4] == table.table[7]:
             if table.table[1] == side:
-                return heuristic + 5
+                return 20
             else:
-                return heuristic - 5
+                return -20
 
     if table.table[2] != '_' and table.table[5] != '_' and table.table[8] != '_':
         if table.table[2] == table.table[5] == table.table[8]:
             if table.table[2] == side:
-                return heuristic + 5
+                return 20
             else:
-                return heuristic - 5
+                return -20
 
     # Diagonal verification
     if table.table[0] != '_' and table.table[4] != '_' and table.table[8] != '_':
         if table.table[0] == table.table[4] == table.table[8]:
             if table.table[0] == side:
-                return heuristic + 5
+                return 20
             else:
-                return heuristic - 5
+                return -20
 
     if table.table[2] != '_' and table.table[4] != '_' and table.table[6] != '_':
         if table.table[2] == table.table[4] == table.table[6]:
             if table.table[2] == side:
-                return heuristic + 5
+                return 20
             else:
-                return heuristic + 5
+                return -20
 
-    return heuristic
+    return 0
 
 
 # table initialization
@@ -221,12 +201,13 @@ while 1:
     else:
         side_human = 'O'
         color_bot = 'X'
-
+    turn = 'X'
     # keeps the game going as long as it has
     while not table_current.has_moves_left() == 0 and not table_current.verify_end_final():
         # if it's the turn of the human or tha ai's
         if turn == side_human:
             position = int(input('Choose your square\n'))
+            # keep input till you find an empty square
             while not (9 > position > -1) or (table_current.table[position] == 'X' or
                                               table_current.table[position] == 'O'):
                 position = int(input('Choose your square\n'))
@@ -239,22 +220,23 @@ while 1:
             table_current.show_table()
             table_current.side = values[turn]
             turn = values[turn]
+
     table_current.show_table()
 
     # the final verdict
-    if verify_end(table_current, color_bot) == 2 or verify_end(table_current, color_bot) == -2:
+    if 2 >= verify_end(table_current, color_bot) >= -2:
         print("Draw")
-    elif verify_end(table_current, color_bot) < 0:
+    elif verify_end(table_current, color_bot) < -2:
         print("You won!!")
     else:
         print("You lost")
 
     # choose if you want to continue or not
-    replay = input("Do you want to try again?\n 1 = YES 2 = NO")
+    replay = input("Do you want to try again?\n 1 = YES 2 = NO\n")
     if replay == "1":
         table_current = Table(['_', '_', '_', '_', '_', '_', '_', '_', '_'], 'X')
         continue
     else:
-        print("Have a nice day!")
+        print("Have a nice day!\n")
         break
 
