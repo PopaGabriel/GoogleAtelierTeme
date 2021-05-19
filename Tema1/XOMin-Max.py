@@ -4,8 +4,6 @@ values = {'X': 'O', 'O': 'X'}
 
 # This represents a table of game
 class Table:
-    hash_table_values = {}
-
     # initialisation table is the current table
     # side is the current side to move
     def __init__(self, table, side):
@@ -41,13 +39,13 @@ class Table:
             for i in self.children:
                 if maximum < i.value_position:
                     maximum = i.value_position
-            self.value_position = maximum
+                self.value_position = maximum
             return
         else:
             for i in self.children:
                 if minimum > i.value_position:
                     minimum = i.value_position
-            self.value_position = minimum
+                self.value_position = minimum
             return
 
     # Calculates the number of moves left
@@ -113,7 +111,8 @@ def get_best_solution(table):
 
 # creates all possible moves for the current table
 def create_children(table, depth):
-    table.value_position = verify_end(table, color_bot) + 10 - depth
+    if table.verify_end_final():
+        table.value_position = verify_end(table, color_bot) + 10 - depth
 
     if not table.verify_end_final():
         for i, var in enumerate(table.table):
@@ -173,7 +172,7 @@ def verify_end(table, side):
             if table.table[2] == side:
                 return heuristic + 20
             else:
-                return heuristic + -20
+                return heuristic - 20
 
     # Diagonal verification
     if table.table[0] != '_' and table.table[4] != '_' and table.table[8] != '_':
@@ -181,14 +180,14 @@ def verify_end(table, side):
             if table.table[0] == side:
                 return heuristic + 20
             else:
-                return heuristic + -20
+                return heuristic - 20
 
     if table.table[2] != '_' and table.table[4] != '_' and table.table[6] != '_':
         if table.table[2] == table.table[4] == table.table[6]:
             if table.table[2] == side:
                 return heuristic + 20
             else:
-                return heuristic + -20
+                return heuristic - 20
 
     return 0
 
