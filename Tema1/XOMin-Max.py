@@ -128,64 +128,67 @@ def create_children(table, depth):
 # this actually calculates the value of the position for a certain side
 # it's made to prioritise the center and the diagonal
 def verify_end(table, side):
+    heuristic = 0
+    if table.table[4] == side:
+        heuristic = 1
     # Horizontal verification
     if table.table[0] != '_' and table.table[1] != '_' and table.table[2] != '_':
         if table.table[0] == table.table[1] == table.table[2]:
             if table.table[0] == side:
-                return 20
+                return heuristic + 20
             else:
-                return -20
+                return heuristic - 20
 
     if table.table[3] != '_' and table.table[4] != '_' and table.table[5] != '_':
         if table.table[3] == table.table[4] == table.table[5]:
             if table.table[3] == side:
-                return 20
+                return heuristic + 20
             else:
-                return -20
+                return heuristic - 20
 
     if table.table[6] != '_' and table.table[7] != '_' and table.table[8] != '_':
         if table.table[6] == table.table[7] == table.table[8]:
             if table.table[6] == side:
-                return 20
+                return heuristic + 20
             else:
-                return -20
+                return heuristic - 20
 
     # Vertical verification
     if table.table[0] != '_' and table.table[3] != '_' and table.table[6] != '_':
         if table.table[0] == table.table[3] == table.table[6]:
             if table.table[0] == side:
-                return 20
+                return heuristic + 20
             else:
-                return -20
+                return heuristic - 20
 
     if table.table[1] != '_' and table.table[4] != '_' and table.table[7] != '_':
         if table.table[1] == table.table[4] == table.table[7]:
             if table.table[1] == side:
-                return 20
+                return heuristic + 20
             else:
-                return -20
+                return heuristic - 20
 
     if table.table[2] != '_' and table.table[5] != '_' and table.table[8] != '_':
         if table.table[2] == table.table[5] == table.table[8]:
             if table.table[2] == side:
-                return 20
+                return heuristic + 20
             else:
-                return -20
+                return heuristic + -20
 
     # Diagonal verification
     if table.table[0] != '_' and table.table[4] != '_' and table.table[8] != '_':
         if table.table[0] == table.table[4] == table.table[8]:
             if table.table[0] == side:
-                return 20
+                return heuristic + 20
             else:
-                return -20
+                return heuristic + -20
 
     if table.table[2] != '_' and table.table[4] != '_' and table.table[6] != '_':
         if table.table[2] == table.table[4] == table.table[6]:
             if table.table[2] == side:
-                return 20
+                return heuristic + 20
             else:
-                return -20
+                return heuristic + -20
 
     return 0
 
