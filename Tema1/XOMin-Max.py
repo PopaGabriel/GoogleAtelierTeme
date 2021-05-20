@@ -12,16 +12,6 @@ class Table:
         self.children = []
         self.value_position = 0
 
-    # hash function to index the tables that have been created
-    def make_hash(self):
-        score = 0
-        for i, var in enumerate(self.table):
-            if var == 'X':
-                score += i * 40
-            elif var == 'O':
-                score += i * 50
-        return score
-
     # calculates the score for the current table
     # turn_aux means the turn it has to be calculated
     # Min or Max depending on the depth
@@ -50,7 +40,6 @@ class Table:
 
     # Calculates the number of moves left
     def has_moves_left(self):
-        nr = 0
         for i in self.table:
             if i == '_':
                 return True
@@ -208,8 +197,9 @@ while 1:
         side_human = 'O'
         color_bot = 'X'
     turn = 'X'
+
     # keeps the game going as long as it has
-    while not table_current.has_moves_left() == 0 and not table_current.verify_end_final():
+    while table_current.has_moves_left() and not table_current.verify_end_final():
         # if it's the turn of the human or tha ai's
         if turn == side_human:
             position = int(input('Choose your square\n'))
@@ -230,12 +220,12 @@ while 1:
     table_current.show_table()
 
     # the final verdict
-    if 2 >= verify_end(table_current, color_bot) >= -2:
-        print("Draw")
-    elif verify_end(table_current, color_bot) < -2:
-        print("You won!!")
-    else:
-        print("You lost")
+    # if 2 >= verify_end(table_current, color_bot) == 100:
+    #     print("Draw")
+    # elif verify_end(table_current, color_bot) < 0:
+    #     print("You won!!")
+    # else:
+    #     print("You lost")
 
     # choose if you want to continue or not
     replay = input("Do you want to try again?\n 1 = YES 2 = NO\n")
@@ -245,4 +235,3 @@ while 1:
     else:
         print("Have a nice day!\n")
         break
-
