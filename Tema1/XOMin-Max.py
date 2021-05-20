@@ -39,13 +39,13 @@ class Table:
             for i in self.children:
                 if maximum < i.value_position:
                     maximum = i.value_position
-                self.value_position = maximum
+            self.value_position = maximum
             return
         else:
             for i in self.children:
                 if minimum > i.value_position:
                     minimum = i.value_position
-                self.value_position = minimum
+            self.value_position = minimum
             return
 
     # Calculates the number of moves left
@@ -112,7 +112,11 @@ def get_best_solution(table):
 # creates all possible moves for the current table
 def create_children(table, depth):
     if table.verify_end_final():
-        table.value_position = verify_end(table, color_bot) + 10 - depth
+        value = verify_end(table, color_bot)
+        if value > 0:
+            table.value_position = verify_end(table, color_bot) + 10 - depth
+        else:
+            table.value_position = verify_end(table, color_bot) - 10 + depth
 
     if not table.verify_end_final():
         for i, var in enumerate(table.table):
