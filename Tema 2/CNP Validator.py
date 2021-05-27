@@ -47,6 +47,7 @@ def validation(cnp):
     if year > date.today().year:
         return "Time traveler alert!"
 
+    # Day validation
     if months.get(int(cnp[3] + cnp[4])) is None:
         return "Month is invalid"
 
@@ -61,8 +62,8 @@ def validation(cnp):
     if regions.get(int(cnp[7] + cnp[8])) is None:
         return 'Region not found'
 
-    control_calculation = (sum([(ord(i) - 48) * (ord(j) - 48)
-                                for i, j in zip(list(cnp[:-1]), control_string)])) % 11
+    control_calculation = (sum([(ord(i) - 48) * (ord(j) - 48) for i, j in zip(list(cnp[:-1]), control_string)])) % 11
+
     if control_calculation == 10:
         control_calculation = 1
 
