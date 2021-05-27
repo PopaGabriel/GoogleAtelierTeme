@@ -1,16 +1,16 @@
-def adunare(a, b):
+def adunare(a: float, b: float) -> float:
     return a + b
 
 
-def scadere(a, b):
+def scadere(a: float, b: float) -> float:
     return a - b
 
 
-def inmultire(a, b):
+def inmultire(a: float, b: float) -> float:
     return a * b
 
 
-def impartire(a, b):
+def impartire(a: float, b: float) -> float:
     return a / b
 
 
@@ -27,7 +27,7 @@ def calculator(first_number: float, second_number: float, command: str) -> (str,
 
     try:
         if command == '/':
-            first_number / second_number
+            c = first_number / second_number
             return "Reusit", impartire(first_number, second_number)
     except ZeroDivisionError:
         return "Alo vezi ca nu ai bagat ce trebuie", 0

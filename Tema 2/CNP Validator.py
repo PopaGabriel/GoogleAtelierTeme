@@ -3,7 +3,7 @@ from random import randrange
 
 
 class Human:
-    def __init__(self, cnp):
+    def __init__(self, cnp: str):
         self.region = regions.get(int(cnp[7] + cnp[8]))
         self.day = int(cnp[5] + cnp[6])
         self.year = build_year(int(cnp[0]), int(cnp[1] + cnp[2]))
@@ -18,11 +18,11 @@ class Human:
             """.format(self.cnp, self.region, self.year, self.month, self.day))
 
 
-def stress_test():
+def stress_test() -> [str]:
     return ["".join([chr(randrange(48, 58)) for _ in range(13)]) for _ in range(1000000)]
 
 
-def build_year(s, year_last_digits):
+def build_year(s: int, year_last_digits: int) -> int:
     if s >= 7 or s <= 2:
         return 1900 + year_last_digits
     elif s == 3 or s == 4:
@@ -31,7 +31,7 @@ def build_year(s, year_last_digits):
         return 2000 + year_last_digits
 
 
-def validation(cnp):
+def validation(cnp: str) -> str:
     if len(cnp) != 13:
         return "CNP not the right length"
 
