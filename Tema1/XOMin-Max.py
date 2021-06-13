@@ -1,12 +1,8 @@
-turn = 'X'
-values = {'X': 'O', 'O': 'X'}
-
-
 # This represents a table of game
 class Table:
     # initialisation table is the current table
     # side is the current side to move
-    def __init__(self, table, side):
+    def __init__(self, table: list[str], side: str) -> None:
         self.table = table
         self.side = side
         self.children = []
@@ -15,7 +11,7 @@ class Table:
     # calculates the score for the current table
     # turn_aux means the turn it has to be calculated
     # Min or Max depending on the depth
-    def calculate_values(self, turn_aux):
+    def calculate_values(self, turn_aux: int) -> None:
         maximum = -100
         minimum = 100
 
@@ -39,7 +35,7 @@ class Table:
             return
 
     # Calculates the number of moves left
-    def has_moves_left(self):
+    def has_moves_left(self) -> bool:
         for i in self.table:
             if i == '_':
                 return True
@@ -82,7 +78,7 @@ class Table:
 
 
 # Calculates the best move for the engine
-def get_best_solution(table):
+def get_best_solution(table: Table) -> Table:
     maximum = -100
     index = 0
     create_children(table, 1)
@@ -99,7 +95,7 @@ def get_best_solution(table):
 
 
 # creates all possible moves for the current table
-def create_children(table, depth):
+def create_children(table: Table, depth: int) -> None:
     if table.verify_end_final():
         value = verify_end(table, color_bot)
         if value > 0:
@@ -119,7 +115,7 @@ def create_children(table, depth):
 
 # this actually calculates the value of the position for a certain side
 # it's made to prioritise the center and the diagonal
-def verify_end(table, side):
+def verify_end(table: Table, side: str) -> int:
     heuristic = 0
     if table.table[4] == side:
         heuristic = 1
@@ -185,53 +181,47 @@ def verify_end(table, side):
     return 0
 
 
-# table initialization
-table_current = Table(['_', '_', '_', '_', '_', '_', '_', '_', '_'], 'X')
-
-while 1:
-    side_human = int(input("Choose your side\n 1 = X, 2 = O\n"))
-    if side_human == 1:
-        side_human = 'X'
-        color_bot = 'O'
-    else:
-        side_human = 'O'
-        color_bot = 'X'
+if __name__ == "__main__":
+    # table initialization
     turn = 'X'
+    values = {'X': 'O', 'O': 'X'}
+    table_current = Table(['_', '_', '_', '_', '_', '_', '_', '_', '_'], 'X')
 
-    # keeps the game going as long as it has
-    while table_current.has_moves_left() and not table_current.verify_end_final():
-        # if it's the turn of the human or tha ai's
-        if turn == side_human:
-            position = int(input('Choose your square\n'))
-            # keep input till you find an empty square
-            while not (9 > position > -1) or (table_current.table[position] == 'X' or
-                                              table_current.table[position] == 'O'):
-                position = int(input('Choose your square\n'))
-            table_current.table[position] = side_human
-            table_current.side = values[side_human]
-            turn = values[turn]
+    while 1:
+        side_human = int(input("Choose your side\n 1 = X, 2 = O\n"))
+        if side_human == 1:
+            side_human = 'X'
+            color_bot = 'O'
         else:
-            table_current = get_best_solution(table_current)
-            table_current.children = []
-            table_current.show_table()
-            table_current.side = values[turn]
-            turn = values[turn]
+            side_human = 'O'
+            color_bot = 'X'
+        turn = 'X'
 
-    table_current.show_table()
+        # keeps the game going as long as it has
+        while table_current.has_moves_left() and not table_current.verify_end_final():
+            # if it's the turn of the human or tha ai's
+            if turn == side_human:
+                position = int(input('Choose your square\n'))
+                # keep input till you find an empty square
+                while not (9 > position > -1) or (table_current.table[position] == 'X' or
+                                                  table_current.table[position] == 'O'):
+                    position = int(input('Choose your square\n'))
+                table_current.table[position] = side_human
+                table_current.side = values[side_human]
+                turn = values[turn]
+            else:
+                table_current = get_best_solution(table_current)
+                table_current.children = []
+                table_current.show_table()
+                table_current.side = values[turn]
+                turn = values[turn]
+        table_current.show_table()
 
-    # the final verdict
-    # if 2 >= verify_end(table_current, color_bot) == 100:
-    #     print("Draw")
-    # elif verify_end(table_current, color_bot) < 0:
-    #     print("You won!!")
-    # else:
-    #     print("You lost")
-
-    # choose if you want to continue or not
-    replay = input("Do you want to try again?\n 1 = YES 2 = NO\n")
-    if replay == "1":
-        table_current = Table(['_', '_', '_', '_', '_', '_', '_', '_', '_'], 'X')
-        continue
-    else:
-        print("Have a nice day!\n")
-        break
+        # choose if you want to continue or not
+        replay = input("Do you want to try again?\n 1 = YES 2 = NO\n")
+        if replay == "1":
+            table_current = Table(['_', '_', '_', '_', '_', '_', '_', '_', '_'], 'X')
+            continue
+        else:
+            print("Have a nice day!\n")
+            break
