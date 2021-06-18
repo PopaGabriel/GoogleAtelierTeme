@@ -65,7 +65,7 @@ def validation(cnp: str) -> str:
     if regions.get(cnp[7] + cnp[8]) is None:
         return 'Region not found'
 
-    control_calculation = (sum([(ord(i) - 48) * (ord(j) - 48) for i, j in zip(list(cnp[:-1]), control_string)])) % 11
+    control_calculation = sum([(ord(i) - 48) * (ord(j) - 48) for i, j in zip(list(cnp[:-1]), control_string)]) % 11
 
     if control_calculation == 10:
         control_calculation = 1
@@ -76,21 +76,26 @@ def validation(cnp: str) -> str:
     return "Good CNP"
 
 
+def create_cnp() -> str:
+    """
+    :return: a cnp made of random characters
+    """
+    return "".join([chr(rd.randrange(48, 58)) for _ in range(13)])
+
+
 def stress_test(number: int) -> [str]:
-
-    rd.seed(2)
-    good_cnps = (x for x in ("".join([chr(rd.randrange(48, 58)) for _ in range(13)]) for _ in range(number))
-                 if validation(cnp=x) == "Good CNP")
-
-    list_of_objects = (Human(x) for x in good_cnps)
-    for x in list_of_objects:
-        x.show()
-    pass
+    """
+    :param number: Number of random dnp to create and verify
+    :return: a list of good cnp
+    """
+    good_cnps = (Human(_) for _ in (create_cnp() for _ in range(number)) if validation(cnp=_) == "Good CNP")
+    return good_cnps
 
 
 if __name__ == "__main__":
     control_string = '279146358279'
-    months = {'01': ['January', 31], '02': ['February', 28], "03": ['March', 31], '04': ['April', 30], '05': ['May', 31],
+    months = {'01': ['January', 31], '02': ['February', 28], "03": ['March', 31], '04': ['April', 30],
+              '05': ['May', 31],
               '07': ['July', 31], '08': ['August', 30], '09': ['September', 31], '10': ['October', 30],
               '06': ['June', 30], '11': ['November', 31], '12': ['December', 30]}
     regions = {'01': 'Alba', '02': 'Arad', '03': 'Arges', '04': 'Bacau', '05': 'Bihor', '06': 'Bistrita-Nasaud',
@@ -104,7 +109,8 @@ if __name__ == "__main__":
                '43': 'Bucuresti S.3', '44': 'Bucuresti S.4', '45': 'Bucuresti S.5', '46': 'Bucuresti S.6',
                '51': 'Calarasi', '52': 'Giurgiu'}
 
-    stress_test(number=int(input("number of cnps to test\n")))
+    for x in stress_test(number=int(input("number of cnps to test\n"))):
+        x.show()
     # CNP_to_Test = input("Introduce a CNP\n")
     # print(validation(CNP_to_Test))
     # Human(CNP_to_Test).show()
