@@ -10,12 +10,12 @@ class Human:
         self.cnp = cnp
         self.month = months.get(cnp[3] + cnp[4])[0]
 
-    def show(self):
-        print("""
-            CNP = {}
-            Region = {}
-            Year::Month::Day = {}::{}::{}
-            """.format(self.cnp, self.region, self.year, self.month, self.day))
+    def __repr__(self):
+        return(f"""
+            CNP = {self.cnp}
+            Region = {self.region}
+            Year::Month::Day = {self.region}::{self.month}::{self.day}
+            """)
 
 
 def build_year(s: int, year_last_digits: int) -> int:
@@ -36,9 +36,9 @@ def validation(cnp: str) -> str:
     :param cnp: the cnp of a person
     :return: the validity of the CNP or why it's wrong
     """
-
     if len(cnp) != 13:
         return "CNP not the right length"
+
     if len([i for i in cnp if 48 <= ord(i) <= 57]) == 0:
         return "Weird characters are present"
 
@@ -47,14 +47,12 @@ def validation(cnp: str) -> str:
 
     # Year validation
     year = build_year(s=int(cnp[0]), year_last_digits=int(cnp[1] + cnp[2]))
-
     if year > date.today().year:
         return "Time traveler alert!"
 
     # Day validation
     if months.get(cnp[3] + cnp[4]) is None:
         return "Month is invalid"
-
     if int(cnp[5] + cnp[6]) > 31:
         return "Day error"
 
@@ -110,7 +108,7 @@ if __name__ == "__main__":
                '51': 'Calarasi', '52': 'Giurgiu'}
 
     for x in stress_test(number=int(input("number of cnps to test\n"))):
-        x.show()
+        print(x)
     # CNP_to_Test = input("Introduce a CNP\n")
     # print(validation(CNP_to_Test))
     # Human(CNP_to_Test).show()
