@@ -4,18 +4,17 @@ from datetime import date
 
 class Human:
     def __init__(self, cnp: str):
-        self.region = regions.get(cnp[7:9])
-        self.day = int(cnp[5:7])
-        self.year = build_year(int(cnp[0]), int(cnp[1] + cnp[2]))
+        self.region = regions.get(cnp[region])
+        self.day = int(cnp[day])
+        self.year = build_year(int(cnp[0]), int(cnp[year]))
         self.cnp = cnp
-        self.month = months.get(cnp[3:5])[0]
+        self.month = months.get(cnp[month])[0]
 
     def __repr__(self):
         return f"""
-            CNP = %r
-            Region = %r
-            Year::Month::Day = %r::%r::%r
-            """ % (self.cnp, self.region, self.year, self.month, self.day)
+        Cnp = {repr(self.cnp)} Region = {repr(self.region)} 
+        Year::Month::Day = {repr(self.year)}::{repr(self.month)}::{repr(self.day)}
+        """
 
 
 def build_year(s: int, year_last_digits: int) -> int:
@@ -36,39 +35,41 @@ def validation(cnp: str) -> str:
     :param cnp: the cnp of a person
     :return: the validity of the CNP or why it's wrong
     """
-    if cnp is None:
-        return "CNP is not existent"
-
-    if len(cnp) != 13:
+    # cnp validation
+    if cnp is None or len(cnp) != 13:
         return "CNP not the right length"
 
-    if len([i for i in cnp if 48 <= ord(i) <= 57]) == 0:
+    if cnp[0] == '0' or not all(48 <= ord(char) <= 57 for char in cnp):
         return "Weird characters are present"
 
-    if cnp[0] == '0':
-        return 'Bad first character'
+    year_actual = build_year(s=int(cnp[0]), year_last_digits=int(cnp[year]))
+    actual_month = months.get(cnp[month])
+    actual_day = int(cnp[day])
+    actual_region = regions.get(cnp[region])
 
-    # Year validation
-    year = build_year(s=int(cnp[0]), year_last_digits=int(cnp[1:3]))
-    if year > date.today().year:
+    # month validation
+    if actual_month is None:
+        return "Month is invalid"
+
+    # date validation
+    if year_actual > date.today().year or (year_actual == date.today().year and int(cnp[month]) > date.today().month)\
+            or (year_actual == date.today().year and int(cnp[month]) > date.today().month and actual_day
+                > date.today().day):
         return "Time traveler alert!"
 
-    # Day validation
-    if months.get(cnp[3:5]) is None:
-        return "Month is invalid"
-    if int(cnp[5:7]) > 31:
+    # day validation
+    if actual_day > 31 or actual_day == 0 or actual_month[1] < actual_day:
         return "Day error"
 
-    # Month validation
-    if months.get(cnp[3:5])[0] == 'February' and year % 4 == 0:
-        if int(cnp[5:7]) > 29:
+    if actual_month[0] == 'February' and year_actual % 4 == 0:
+        if actual_day > 29:
             return 'Day error February style'
 
     # Region validation
-    if regions.get(cnp[7:9]) is None:
+    if actual_region is None:
         return 'Region not found'
 
-    control_calculation = sum([(ord(i) - 48) * (ord(j) - 48) for i, j in zip(list(cnp[:-1]), control_string)]) % 11
+    control_calculation = sum((ord(i) - 48) * (ord(j) - 48) for i, j in zip(list(cnp[:-1]), control_string)) % 11
 
     # control validation
     if control_calculation == 10:
@@ -97,8 +98,6 @@ def stress_test(number: int) -> [str]:
 
 
 if __name__ == "__main__":
-    control_string = '279146358279'
-    valid_chars_in_cnp = '123456789'
     months = {'01': ['January', 31], '02': ['February', 28], "03": ['March', 31], '04': ['April', 30],
               '05': ['May', 31],
               '07': ['July', 31], '08': ['August', 30], '09': ['September', 31], '10': ['October', 30],
@@ -113,9 +112,17 @@ if __name__ == "__main__":
                '37': 'Vaslui', '38': 'Valcea', '39': 'Vrancea', '40': 'Bucuresti', '41': 'Bucuresti S.1',
                '43': 'Bucuresti S.3', '44': 'Bucuresti S.4', '45': 'Bucuresti S.5', '46': 'Bucuresti S.6',
                '51': 'Calarasi', '52': 'Giurgiu'}
+    control_string = '279146358279'
+    valid_chars_in_cnp = '0123456789'
+    day = slice(5, 7)
+    month = slice(3, 5)
+    year = slice(1, 3)
+    region = slice(7, 9)
 
+    output = open("output.txt", "w+")
     for x in stress_test(number=int(input("number of cnps to test\n"))):
-        print(x)
+        output.write(repr(x))
+    output.close()
 
     # CNP_to_Test = input("Introduce a CNP\n")
     # if validation(cnp=CNP_to_Test) == "Good CNP":
