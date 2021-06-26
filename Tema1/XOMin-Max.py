@@ -185,7 +185,7 @@ if __name__ == "__main__":
     # table initialization
     turn = 'X'
     values = {'X': 'O', 'O': 'X'}
-    table_current = Table(['_', '_', '_', '_', '_', '_', '_', '_', '_'], 'X')
+    table_current = Table(['_'] * 9, 'X')
 
     while 1:
         side_human = int(input("Choose your side\n 1 = X, 2 = O\n"))
@@ -220,7 +220,7 @@ if __name__ == "__main__":
         # choose if you want to continue or not
         replay = input("Do you want to try again?\n 1 = YES 2 = NO\n")
         if replay == "1":
-            table_current = Table(['_', '_', '_', '_', '_', '_', '_', '_', '_'], 'X')
+            table_current = Table(['_'] * 9, 'X')
             continue
         else:
             print("Have a nice day!\n")

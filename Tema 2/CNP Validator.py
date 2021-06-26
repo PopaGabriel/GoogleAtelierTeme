@@ -4,18 +4,18 @@ from datetime import date
 
 class Human:
     def __init__(self, cnp: str):
-        self.region = regions.get(cnp[7] + cnp[8])
-        self.day = int(cnp[5] + cnp[6])
+        self.region = regions.get(cnp[7:9])
+        self.day = int(cnp[5:7])
         self.year = build_year(int(cnp[0]), int(cnp[1] + cnp[2]))
         self.cnp = cnp
-        self.month = months.get(cnp[3] + cnp[4])[0]
+        self.month = months.get(cnp[3:5])[0]
 
     def __repr__(self):
-        return(f"""
-            CNP = {self.cnp}
-            Region = {self.region}
-            Year::Month::Day = {self.region}::{self.month}::{self.day}
-            """)
+        return f"""
+            CNP = %r
+            Region = %r
+            Year::Month::Day = %r::%r::%r
+            """ % (self.cnp, self.region, self.year, self.month, self.day)
 
 
 def build_year(s: int, year_last_digits: int) -> int:
@@ -36,6 +36,9 @@ def validation(cnp: str) -> str:
     :param cnp: the cnp of a person
     :return: the validity of the CNP or why it's wrong
     """
+    if cnp is None:
+        return "CNP is not existent"
+
     if len(cnp) != 13:
         return "CNP not the right length"
 
@@ -46,25 +49,28 @@ def validation(cnp: str) -> str:
         return 'Bad first character'
 
     # Year validation
-    year = build_year(s=int(cnp[0]), year_last_digits=int(cnp[1] + cnp[2]))
+    year = build_year(s=int(cnp[0]), year_last_digits=int(cnp[1:3]))
     if year > date.today().year:
         return "Time traveler alert!"
 
     # Day validation
-    if months.get(cnp[3] + cnp[4]) is None:
+    if months.get(cnp[3:5]) is None:
         return "Month is invalid"
-    if int(cnp[5] + cnp[6]) > 31:
+    if int(cnp[5:7]) > 31:
         return "Day error"
 
-    if months.get(cnp[3] + cnp[4])[0] == 'February' and year % 4 == 0:
-        if int(cnp[5] + cnp[6]) > 29:
+    # Month validation
+    if months.get(cnp[3:5])[0] == 'February' and year % 4 == 0:
+        if int(cnp[5:7]) > 29:
             return 'Day error February style'
 
-    if regions.get(cnp[7] + cnp[8]) is None:
+    # Region validation
+    if regions.get(cnp[7:9]) is None:
         return 'Region not found'
 
     control_calculation = sum([(ord(i) - 48) * (ord(j) - 48) for i, j in zip(list(cnp[:-1]), control_string)]) % 11
 
+    # control validation
     if control_calculation == 10:
         control_calculation = 1
 
@@ -78,7 +84,7 @@ def create_cnp() -> str:
     """
     :return: a cnp made of random characters
     """
-    return "".join([chr(rd.randrange(48, 58)) for _ in range(13)])
+    return "".join((rd.choice(valid_chars_in_cnp) for _ in range(13)))
 
 
 def stress_test(number: int) -> [str]:
@@ -92,6 +98,7 @@ def stress_test(number: int) -> [str]:
 
 if __name__ == "__main__":
     control_string = '279146358279'
+    valid_chars_in_cnp = '123456789'
     months = {'01': ['January', 31], '02': ['February', 28], "03": ['March', 31], '04': ['April', 30],
               '05': ['May', 31],
               '07': ['July', 31], '08': ['August', 30], '09': ['September', 31], '10': ['October', 30],
@@ -109,6 +116,9 @@ if __name__ == "__main__":
 
     for x in stress_test(number=int(input("number of cnps to test\n"))):
         print(x)
+
     # CNP_to_Test = input("Introduce a CNP\n")
-    # print(validation(CNP_to_Test))
-    # Human(CNP_to_Test).show()
+    # if validation(cnp=CNP_to_Test) == "Good CNP":
+    #     print(Human(cnp=CNP_to_Test))
+    # else:
+    #     print("Bad CNP")
