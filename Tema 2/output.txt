@@ -1,3862 +1,1281 @@
-
-        Cnp = '3120313069361' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 1812::'March'::13
-        
-        Cnp = '7860224442222' Region = 'Bucuresti S.4' 
-        Year::Month::Day = 1986::'February'::24
-        
-        Cnp = '3230219163979' Region = 'Dolj' 
-        Year::Month::Day = 1823::'February'::19
-        
-        Cnp = '8660624510663' Region = 'Calarasi' 
-        Year::Month::Day = 1966::'June'::24
-        
-        Cnp = '2880410192514' Region = 'Harghita' 
-        Year::Month::Day = 1988::'April'::10
-        
-        Cnp = '1620526181154' Region = 'Gorj' 
-        Year::Month::Day = 1962::'May'::26
-        
-        Cnp = '1790204073541' Region = 'Botosani' 
-        Year::Month::Day = 1979::'February'::4
-        
-        Cnp = '2280802066239' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 1928::'August'::2
-        
-        Cnp = '2730428510625' Region = 'Calarasi' 
-        Year::Month::Day = 1973::'April'::28
-        
-        Cnp = '3680420412880' Region = 'Bucuresti S.1' 
-        Year::Month::Day = 1868::'April'::20
-        
-        Cnp = '9001106201658' Region = 'Hunedoara' 
-        Year::Month::Day = 1900::'November'::6
-        
-        Cnp = '6200108125251' Region = 'Cluj' 
-        Year::Month::Day = 2020::'January'::8
-        
-        Cnp = '4420119437647' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1842::'January'::19
-        
-        Cnp = '4840528190897' Region = 'Harghita' 
-        Year::Month::Day = 1884::'May'::28
-        
-        Cnp = '9881118329675' Region = 'Sibiu' 
-        Year::Month::Day = 1988::'November'::18
-        
-        Cnp = '4350523376061' Region = 'Vaslui' 
-        Year::Month::Day = 1835::'May'::23
-        
-        Cnp = '9710824463577' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1971::'August'::24
-        
-        Cnp = '2201013461670' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1920::'October'::13
-        
-        Cnp = '1090410200670' Region = 'Hunedoara' 
-        Year::Month::Day = 1909::'April'::10
-        
-        Cnp = '7620810235213' Region = 'Ilfov' 
-        Year::Month::Day = 1962::'August'::10
-        
-        Cnp = '7690228518077' Region = 'Calarasi' 
-        Year::Month::Day = 1969::'February'::28
-        
-        Cnp = '8341122346060' Region = 'Teleorman' 
-        Year::Month::Day = 1934::'November'::22
-        
-        Cnp = '4500822374795' Region = 'Vaslui' 
-        Year::Month::Day = 1850::'August'::22
-        
-        Cnp = '7480907417573' Region = 'Bucuresti S.1' 
-        Year::Month::Day = 1948::'September'::7
-        
-        Cnp = '2130128282870' Region = 'Olt' 
-        Year::Month::Day = 1913::'January'::28
-        
-        Cnp = '2430729333411' Region = 'Suceava' 
-        Year::Month::Day = 1943::'July'::29
-        
-        Cnp = '8820309342119' Region = 'Teleorman' 
-        Year::Month::Day = 1982::'March'::9
-        
-        Cnp = '1760301344763' Region = 'Teleorman' 
-        Year::Month::Day = 1976::'March'::1
-        
-        Cnp = '9700123197736' Region = 'Harghita' 
-        Year::Month::Day = 1970::'January'::23
-        
-        Cnp = '1240207311170' Region = 'Salaj' 
-        Year::Month::Day = 1924::'February'::7
-        
-        Cnp = '3890812445533' Region = 'Bucuresti S.4' 
-        Year::Month::Day = 1889::'August'::12
-        
-        Cnp = '8521224211896' Region = 'Ialomita' 
-        Year::Month::Day = 1952::'December'::24
-        
-        Cnp = '9010915256580' Region = 'Mehedinti' 
-        Year::Month::Day = 1901::'September'::15
-        
-        Cnp = '9440527065743' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 1944::'May'::27
-        
-        Cnp = '3631105196526' Region = 'Harghita' 
-        Year::Month::Day = 1863::'November'::5
-        
-        Cnp = '8970209049605' Region = 'Bacau' 
-        Year::Month::Day = 1997::'February'::9
-        
-        Cnp = '2650718182096' Region = 'Gorj' 
-        Year::Month::Day = 1965::'July'::18
-        
-        Cnp = '3990503210861' Region = 'Ialomita' 
-        Year::Month::Day = 1899::'May'::3
-        
-        Cnp = '7930322283734' Region = 'Olt' 
-        Year::Month::Day = 1993::'March'::22
-        
-        Cnp = '8721022017038' Region = 'Alba' 
-        Year::Month::Day = 1972::'October'::22
-        
-        Cnp = '3170812336591' Region = 'Suceava' 
-        Year::Month::Day = 1817::'August'::12
-        
-        Cnp = '2180708014851' Region = 'Alba' 
-        Year::Month::Day = 1918::'July'::8
-        
-        Cnp = '1411128359587' Region = 'Timis' 
-        Year::Month::Day = 1941::'November'::28
-        
-        Cnp = '3930908208331' Region = 'Hunedoara' 
-        Year::Month::Day = 1893::'September'::8
-        
-        Cnp = '1041210216129' Region = 'Ialomita' 
-        Year::Month::Day = 1904::'December'::10
-        
-        Cnp = '8000810439049' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1900::'August'::10
-        
-        Cnp = '7051008260675' Region = 'Mures' 
-        Year::Month::Day = 1905::'October'::8
-        
-        Cnp = '5001128186529' Region = 'Gorj' 
-        Year::Month::Day = 2000::'November'::28
-        
-        Cnp = '4700116380675' Region = 'Valcea' 
-        Year::Month::Day = 1870::'January'::16
-        
-        Cnp = '2970512366911' Region = 'Tulcea' 
-        Year::Month::Day = 1997::'May'::12
-        
-        Cnp = '1020314417370' Region = 'Bucuresti S.1' 
-        Year::Month::Day = 1902::'March'::14
-        
-        Cnp = '8450222116403' Region = 'Caras-Severin' 
-        Year::Month::Day = 1945::'February'::22
-        
-        Cnp = '3320517057142' Region = 'Bihor' 
-        Year::Month::Day = 1832::'May'::17
-        
-        Cnp = '7740701443466' Region = 'Bucuresti S.4' 
-        Year::Month::Day = 1974::'July'::1
-        
-        Cnp = '2511128313032' Region = 'Salaj' 
-        Year::Month::Day = 1951::'November'::28
-        
-        Cnp = '2881208255232' Region = 'Mehedinti' 
-        Year::Month::Day = 1988::'December'::8
-        
-        Cnp = '9580102529891' Region = 'Giurgiu' 
-        Year::Month::Day = 1958::'January'::2
-        
-        Cnp = '4020716111891' Region = 'Caras-Severin' 
-        Year::Month::Day = 1802::'July'::16
-        
-        Cnp = '5200412169280' Region = 'Dolj' 
-        Year::Month::Day = 2020::'April'::12
-        
-        Cnp = '4730501339608' Region = 'Suceava' 
-        Year::Month::Day = 1873::'May'::1
-        
-        Cnp = '9380905342514' Region = 'Teleorman' 
-        Year::Month::Day = 1938::'September'::5
-        
-        Cnp = '8910616395336' Region = 'Vrancea' 
-        Year::Month::Day = 1991::'June'::16
-        
-        Cnp = '9900206307936' Region = 'Satu Mare' 
-        Year::Month::Day = 1990::'February'::6
-        
-        Cnp = '3401009348899' Region = 'Teleorman' 
-        Year::Month::Day = 1840::'October'::9
-        
-        Cnp = '2430313238530' Region = 'Ilfov' 
-        Year::Month::Day = 1943::'March'::13
-        
-        Cnp = '4791012386221' Region = 'Valcea' 
-        Year::Month::Day = 1879::'October'::12
-        
-        Cnp = '3530214281822' Region = 'Olt' 
-        Year::Month::Day = 1853::'February'::14
-        
-        Cnp = '7480613362190' Region = 'Tulcea' 
-        Year::Month::Day = 1948::'June'::13
-        
-        Cnp = '9551106223157' Region = 'Iasi' 
-        Year::Month::Day = 1955::'November'::6
-        
-        Cnp = '5201006374212' Region = 'Vaslui' 
-        Year::Month::Day = 2020::'October'::6
-        
-        Cnp = '4970620438210' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1897::'June'::20
-        
-        Cnp = '9300107259772' Region = 'Mehedinti' 
-        Year::Month::Day = 1930::'January'::7
-        
-        Cnp = '8400703394895' Region = 'Vrancea' 
-        Year::Month::Day = 1940::'July'::3
-        
-        Cnp = '8030103075001' Region = 'Botosani' 
-        Year::Month::Day = 1903::'January'::3
-        
-        Cnp = '1530606220959' Region = 'Iasi' 
-        Year::Month::Day = 1953::'June'::6
-        
-        Cnp = '2890811129503' Region = 'Cluj' 
-        Year::Month::Day = 1989::'August'::11
-        
-        Cnp = '9520218161640' Region = 'Dolj' 
-        Year::Month::Day = 1952::'February'::18
-        
-        Cnp = '3211204333728' Region = 'Suceava' 
-        Year::Month::Day = 1821::'December'::4
-        
-        Cnp = '2390207277276' Region = 'Neamt' 
-        Year::Month::Day = 1939::'February'::7
-        
-        Cnp = '1590701405521' Region = 'Bucuresti' 
-        Year::Month::Day = 1959::'July'::1
-        
-        Cnp = '3280424419053' Region = 'Bucuresti S.1' 
-        Year::Month::Day = 1828::'April'::24
-        
-        Cnp = '3630103405729' Region = 'Bucuresti' 
-        Year::Month::Day = 1863::'January'::3
-        
-        Cnp = '7741102169822' Region = 'Dolj' 
-        Year::Month::Day = 1974::'November'::2
-        
-        Cnp = '2440618145557' Region = 'Covasna' 
-        Year::Month::Day = 1944::'June'::18
-        
-        Cnp = '3020909288263' Region = 'Olt' 
-        Year::Month::Day = 1802::'September'::9
-        
-        Cnp = '9540931295293' Region = 'Prahova' 
-        Year::Month::Day = 1954::'September'::31
-        
-        Cnp = '8880126254881' Region = 'Mehedinti' 
-        Year::Month::Day = 1988::'January'::26
-        
-        Cnp = '3101215051307' Region = 'Bihor' 
-        Year::Month::Day = 1810::'December'::15
-        
-        Cnp = '8250929331901' Region = 'Suceava' 
-        Year::Month::Day = 1925::'September'::29
-        
-        Cnp = '3040830056204' Region = 'Bihor' 
-        Year::Month::Day = 1804::'August'::30
-        
-        Cnp = '8351208071788' Region = 'Botosani' 
-        Year::Month::Day = 1935::'December'::8
-        
-        Cnp = '2511010248476' Region = 'Maramures' 
-        Year::Month::Day = 1951::'October'::10
-        
-        Cnp = '4041120140528' Region = 'Covasna' 
-        Year::Month::Day = 1804::'November'::20
-        
-        Cnp = '2760514450699' Region = 'Bucuresti S.5' 
-        Year::Month::Day = 1976::'May'::14
-        
-        Cnp = '7481122079141' Region = 'Botosani' 
-        Year::Month::Day = 1948::'November'::22
-        
-        Cnp = '9040530103872' Region = 'Buzau' 
-        Year::Month::Day = 1904::'May'::30
-        
-        Cnp = '9691202064206' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 1969::'December'::2
-        
-        Cnp = '1881129437871' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1988::'November'::29
-        
-        Cnp = '7710523233042' Region = 'Ilfov' 
-        Year::Month::Day = 1971::'May'::23
-        
-        Cnp = '8970624202251' Region = 'Hunedoara' 
-        Year::Month::Day = 1997::'June'::24
-        
-        Cnp = '1490114187269' Region = 'Gorj' 
-        Year::Month::Day = 1949::'January'::14
-        
-        Cnp = '4250717348746' Region = 'Teleorman' 
-        Year::Month::Day = 1825::'July'::17
-        
-        Cnp = '9230114448970' Region = 'Bucuresti S.4' 
-        Year::Month::Day = 1923::'January'::14
-        
-        Cnp = '3231028276956' Region = 'Neamt' 
-        Year::Month::Day = 1823::'October'::28
-        
-        Cnp = '7161021236400' Region = 'Ilfov' 
-        Year::Month::Day = 1916::'October'::21
-        
-        Cnp = '4030418350401' Region = 'Timis' 
-        Year::Month::Day = 1803::'April'::18
-        
-        Cnp = '2690306072980' Region = 'Botosani' 
-        Year::Month::Day = 1969::'March'::6
-        
-        Cnp = '4130826428619' Region = 'Bucuresti S.2' 
-        Year::Month::Day = 1813::'August'::26
-        
-        Cnp = '4130408366767' Region = 'Tulcea' 
-        Year::Month::Day = 1813::'April'::8
-        
-        Cnp = '2200526021359' Region = 'Arad' 
-        Year::Month::Day = 1920::'May'::26
-        
-        Cnp = '5191208204102' Region = 'Hunedoara' 
-        Year::Month::Day = 2019::'December'::8
-        
-        Cnp = '1430313351607' Region = 'Timis' 
-        Year::Month::Day = 1943::'March'::13
-        
-        Cnp = '9400929221698' Region = 'Iasi' 
-        Year::Month::Day = 1940::'September'::29
-        
-        Cnp = '2141116148462' Region = 'Covasna' 
-        Year::Month::Day = 1914::'November'::16
-        
-        Cnp = '9341005147915' Region = 'Covasna' 
-        Year::Month::Day = 1934::'October'::5
-        
-        Cnp = '7730408030844' Region = 'Arges' 
-        Year::Month::Day = 1973::'April'::8
-        
-        Cnp = '7661119446900' Region = 'Bucuresti S.4' 
-        Year::Month::Day = 1966::'November'::19
-        
-        Cnp = '7740602057656' Region = 'Bihor' 
-        Year::Month::Day = 1974::'June'::2
-        
-        Cnp = '4910415296600' Region = 'Prahova' 
-        Year::Month::Day = 1891::'April'::15
-        
-        Cnp = '1840506095515' Region = 'Braila' 
-        Year::Month::Day = 1984::'May'::6
-        
-        Cnp = '8310817434978' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1931::'August'::17
-        
-        Cnp = '2160406469893' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1916::'April'::6
-        
-        Cnp = '3381118231461' Region = 'Ilfov' 
-        Year::Month::Day = 1838::'November'::18
-        
-        Cnp = '9730202258164' Region = 'Mehedinti' 
-        Year::Month::Day = 1973::'February'::2
-        
-        Cnp = '5090930143765' Region = 'Covasna' 
-        Year::Month::Day = 2009::'September'::30
-        
-        Cnp = '8850307273483' Region = 'Neamt' 
-        Year::Month::Day = 1985::'March'::7
-        
-        Cnp = '3800731031371' Region = 'Arges' 
-        Year::Month::Day = 1880::'July'::31
-        
-        Cnp = '9271005013751' Region = 'Alba' 
-        Year::Month::Day = 1927::'October'::5
-        
-        Cnp = '4460601164803' Region = 'Dolj' 
-        Year::Month::Day = 1846::'June'::1
-        
-        Cnp = '1570629244688' Region = 'Maramures' 
-        Year::Month::Day = 1957::'June'::29
-        
-        Cnp = '2831108044731' Region = 'Bacau' 
-        Year::Month::Day = 1983::'November'::8
-        
-        Cnp = '8560217105386' Region = 'Buzau' 
-        Year::Month::Day = 1956::'February'::17
-        
-        Cnp = '2481209018181' Region = 'Alba' 
-        Year::Month::Day = 1948::'December'::9
-        
-        Cnp = '8720708332264' Region = 'Suceava' 
-        Year::Month::Day = 1972::'July'::8
-        
-        Cnp = '3090724173155' Region = 'Galati' 
-        Year::Month::Day = 1809::'July'::24
-        
-        Cnp = '7630131127301' Region = 'Cluj' 
-        Year::Month::Day = 1963::'January'::31
-        
-        Cnp = '2090702135987' Region = 'Constanta' 
-        Year::Month::Day = 1909::'July'::2
-        
-        Cnp = '8930509329266' Region = 'Sibiu' 
-        Year::Month::Day = 1993::'May'::9
-        
-        Cnp = '8990210332040' Region = 'Suceava' 
-        Year::Month::Day = 1999::'February'::10
-        
-        Cnp = '1570318087713' Region = 'Brasov' 
-        Year::Month::Day = 1957::'March'::18
-        
-        Cnp = '4120727525985' Region = 'Giurgiu' 
-        Year::Month::Day = 1812::'July'::27
-        
-        Cnp = '4421019089312' Region = 'Brasov' 
-        Year::Month::Day = 1842::'October'::19
-        
-        Cnp = '4230725436903' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1823::'July'::25
-        
-        Cnp = '2700501079621' Region = 'Botosani' 
-        Year::Month::Day = 1970::'May'::1
-        
-        Cnp = '3120202047531' Region = 'Bacau' 
-        Year::Month::Day = 1812::'February'::2
-        
-        Cnp = '5100331153176' Region = 'Dambovita' 
-        Year::Month::Day = 2010::'March'::31
-        
-        Cnp = '3690817125966' Region = 'Cluj' 
-        Year::Month::Day = 1869::'August'::17
-        
-        Cnp = '2101219114286' Region = 'Caras-Severin' 
-        Year::Month::Day = 1910::'December'::19
-        
-        Cnp = '3870524369753' Region = 'Tulcea' 
-        Year::Month::Day = 1887::'May'::24
-        
-        Cnp = '6140909177921' Region = 'Galati' 
-        Year::Month::Day = 2014::'September'::9
-        
-        Cnp = '9320620027213' Region = 'Arad' 
-        Year::Month::Day = 1932::'June'::20
-        
-        Cnp = '1290314372215' Region = 'Vaslui' 
-        Year::Month::Day = 1929::'March'::14
-        
-        Cnp = '4840913272001' Region = 'Neamt' 
-        Year::Month::Day = 1884::'September'::13
-        
-        Cnp = '8970405292671' Region = 'Prahova' 
-        Year::Month::Day = 1997::'April'::5
-        
-        Cnp = '4320829018878' Region = 'Alba' 
-        Year::Month::Day = 1832::'August'::29
-        
-        Cnp = '9470301414153' Region = 'Bucuresti S.1' 
-        Year::Month::Day = 1947::'March'::1
-        
-        Cnp = '1960518076313' Region = 'Botosani' 
-        Year::Month::Day = 1996::'May'::18
-        
-        Cnp = '9901201190806' Region = 'Harghita' 
-        Year::Month::Day = 1990::'December'::1
-        
-        Cnp = '4220927517424' Region = 'Calarasi' 
-        Year::Month::Day = 1822::'September'::27
-        
-        Cnp = '2670211027432' Region = 'Arad' 
-        Year::Month::Day = 1967::'February'::11
-        
-        Cnp = '2340517428065' Region = 'Bucuresti S.2' 
-        Year::Month::Day = 1934::'May'::17
-        
-        Cnp = '4491006449286' Region = 'Bucuresti S.4' 
-        Year::Month::Day = 1849::'October'::6
-        
-        Cnp = '2410612124218' Region = 'Cluj' 
-        Year::Month::Day = 1941::'June'::12
-        
-        Cnp = '9600406297038' Region = 'Prahova' 
-        Year::Month::Day = 1960::'April'::6
-        
-        Cnp = '7080216043547' Region = 'Bacau' 
-        Year::Month::Day = 1908::'February'::16
-        
-        Cnp = '2150124515591' Region = 'Calarasi' 
-        Year::Month::Day = 1915::'January'::24
-        
-        Cnp = '4050922025281' Region = 'Arad' 
-        Year::Month::Day = 1805::'September'::22
-        
-        Cnp = '9490312373737' Region = 'Vaslui' 
-        Year::Month::Day = 1949::'March'::12
-        
-        Cnp = '1890430279733' Region = 'Neamt' 
-        Year::Month::Day = 1989::'April'::30
-        
-        Cnp = '3330114407246' Region = 'Bucuresti' 
-        Year::Month::Day = 1833::'January'::14
-        
-        Cnp = '2610711331423' Region = 'Suceava' 
-        Year::Month::Day = 1961::'July'::11
-        
-        Cnp = '7230406212319' Region = 'Ialomita' 
-        Year::Month::Day = 1923::'April'::6
-        
-        Cnp = '1980607049634' Region = 'Bacau' 
-        Year::Month::Day = 1998::'June'::7
-        
-        Cnp = '4860815460817' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1886::'August'::15
-        
-        Cnp = '4340408174922' Region = 'Galati' 
-        Year::Month::Day = 1834::'April'::8
-        
-        Cnp = '9100412350631' Region = 'Timis' 
-        Year::Month::Day = 1910::'April'::12
-        
-        Cnp = '2000823210447' Region = 'Ialomita' 
-        Year::Month::Day = 1900::'August'::23
-        
-        Cnp = '2890428031966' Region = 'Arges' 
-        Year::Month::Day = 1989::'April'::28
-        
-        Cnp = '2170610172995' Region = 'Galati' 
-        Year::Month::Day = 1917::'June'::10
-        
-        Cnp = '3350402049458' Region = 'Bacau' 
-        Year::Month::Day = 1835::'April'::2
-        
-        Cnp = '2040417185315' Region = 'Gorj' 
-        Year::Month::Day = 1904::'April'::17
-        
-        Cnp = '2760613460523' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1976::'June'::13
-        
-        Cnp = '9520118468741' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1952::'January'::18
-        
-        Cnp = '1780814510331' Region = 'Calarasi' 
-        Year::Month::Day = 1978::'August'::14
-        
-        Cnp = '1930815226154' Region = 'Iasi' 
-        Year::Month::Day = 1993::'August'::15
-        
-        Cnp = '1411106222469' Region = 'Iasi' 
-        Year::Month::Day = 1941::'November'::6
-        
-        Cnp = '3220907116536' Region = 'Caras-Severin' 
-        Year::Month::Day = 1822::'September'::7
-        
-        Cnp = '1871013016003' Region = 'Alba' 
-        Year::Month::Day = 1987::'October'::13
-        
-        Cnp = '8520521102572' Region = 'Buzau' 
-        Year::Month::Day = 1952::'May'::21
-        
-        Cnp = '1440924138612' Region = 'Constanta' 
-        Year::Month::Day = 1944::'September'::24
-        
-        Cnp = '7821112255959' Region = 'Mehedinti' 
-        Year::Month::Day = 1982::'November'::12
-        
-        Cnp = '3070819057441' Region = 'Bihor' 
-        Year::Month::Day = 1807::'August'::19
-        
-        Cnp = '2151011158604' Region = 'Dambovita' 
-        Year::Month::Day = 1915::'October'::11
-        
-        Cnp = '7790111261040' Region = 'Mures' 
-        Year::Month::Day = 1979::'January'::11
-        
-        Cnp = '2951117081802' Region = 'Brasov' 
-        Year::Month::Day = 1995::'November'::17
-        
-        Cnp = '9361225156595' Region = 'Dambovita' 
-        Year::Month::Day = 1936::'December'::25
-        
-        Cnp = '3710108302917' Region = 'Satu Mare' 
-        Year::Month::Day = 1871::'January'::8
-        
-        Cnp = '2110902137428' Region = 'Constanta' 
-        Year::Month::Day = 1911::'September'::2
-        
-        Cnp = '7100910177487' Region = 'Galati' 
-        Year::Month::Day = 1910::'September'::10
-        
-        Cnp = '8331204460464' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1933::'December'::4
-        
-        Cnp = '9240730081901' Region = 'Brasov' 
-        Year::Month::Day = 1924::'July'::30
-        
-        Cnp = '1031106431958' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1903::'November'::6
-        
-        Cnp = '1631208433811' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1963::'December'::8
-        
-        Cnp = '6070108099962' Region = 'Braila' 
-        Year::Month::Day = 2007::'January'::8
-        
-        Cnp = '4990303247869' Region = 'Maramures' 
-        Year::Month::Day = 1899::'March'::3
-        
-        Cnp = '4900424397433' Region = 'Vrancea' 
-        Year::Month::Day = 1890::'April'::24
-        
-        Cnp = '8010508240909' Region = 'Maramures' 
-        Year::Month::Day = 1901::'May'::8
-        
-        Cnp = '3670513314087' Region = 'Salaj' 
-        Year::Month::Day = 1867::'May'::13
-        
-        Cnp = '3410430213168' Region = 'Ialomita' 
-        Year::Month::Day = 1841::'April'::30
-        
-        Cnp = '4970713315001' Region = 'Salaj' 
-        Year::Month::Day = 1897::'July'::13
-        
-        Cnp = '8471206082161' Region = 'Brasov' 
-        Year::Month::Day = 1947::'December'::6
-        
-        Cnp = '4370730238474' Region = 'Ilfov' 
-        Year::Month::Day = 1837::'July'::30
-        
-        Cnp = '9960725147894' Region = 'Covasna' 
-        Year::Month::Day = 1996::'July'::25
-        
-        Cnp = '7901213036523' Region = 'Arges' 
-        Year::Month::Day = 1990::'December'::13
-        
-        Cnp = '3000712266014' Region = 'Mures' 
-        Year::Month::Day = 1800::'July'::12
-        
-        Cnp = '3620904404077' Region = 'Bucuresti' 
-        Year::Month::Day = 1862::'September'::4
-        
-        Cnp = '9280614211087' Region = 'Ialomita' 
-        Year::Month::Day = 1928::'June'::14
-        
-        Cnp = '7520104255141' Region = 'Mehedinti' 
-        Year::Month::Day = 1952::'January'::4
-        
-        Cnp = '4481212428881' Region = 'Bucuresti S.2' 
-        Year::Month::Day = 1848::'December'::12
-        
-        Cnp = '2330420242224' Region = 'Maramures' 
-        Year::Month::Day = 1933::'April'::20
-        
-        Cnp = '2011030205341' Region = 'Hunedoara' 
-        Year::Month::Day = 1901::'October'::30
-        
-        Cnp = '4960725183416' Region = 'Gorj' 
-        Year::Month::Day = 1896::'July'::25
-        
-        Cnp = '8341005420426' Region = 'Bucuresti S.2' 
-        Year::Month::Day = 1934::'October'::5
-        
-        Cnp = '9301215054592' Region = 'Bihor' 
-        Year::Month::Day = 1930::'December'::15
-        
-        Cnp = '3110712368914' Region = 'Tulcea' 
-        Year::Month::Day = 1811::'July'::12
-        
-        Cnp = '9271021097368' Region = 'Braila' 
-        Year::Month::Day = 1927::'October'::21
-        
-        Cnp = '1011223328844' Region = 'Sibiu' 
-        Year::Month::Day = 1901::'December'::23
-        
-        Cnp = '3311005017358' Region = 'Alba' 
-        Year::Month::Day = 1831::'October'::5
-        
-        Cnp = '8981128458899' Region = 'Bucuresti S.5' 
-        Year::Month::Day = 1998::'November'::28
-        
-        Cnp = '2691002378281' Region = 'Vaslui' 
-        Year::Month::Day = 1969::'October'::2
-        
-        Cnp = '7800402057521' Region = 'Bihor' 
-        Year::Month::Day = 1980::'April'::2
-        
-        Cnp = '2200618167613' Region = 'Dolj' 
-        Year::Month::Day = 1920::'June'::18
-        
-        Cnp = '6151025408832' Region = 'Bucuresti' 
-        Year::Month::Day = 2015::'October'::25
-        
-        Cnp = '9120116420341' Region = 'Bucuresti S.2' 
-        Year::Month::Day = 1912::'January'::16
-        
-        Cnp = '9631019412472' Region = 'Bucuresti S.1' 
-        Year::Month::Day = 1963::'October'::19
-        
-        Cnp = '4580114317877' Region = 'Salaj' 
-        Year::Month::Day = 1858::'January'::14
-        
-        Cnp = '7710331241938' Region = 'Maramures' 
-        Year::Month::Day = 1971::'March'::31
-        
-        Cnp = '8480727404808' Region = 'Bucuresti' 
-        Year::Month::Day = 1948::'July'::27
-        
-        Cnp = '5100103031845' Region = 'Arges' 
-        Year::Month::Day = 2010::'January'::3
-        
-        Cnp = '2840108380662' Region = 'Valcea' 
-        Year::Month::Day = 1984::'January'::8
-        
-        Cnp = '2200429069269' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 1920::'April'::29
-        
-        Cnp = '9640720355564' Region = 'Timis' 
-        Year::Month::Day = 1964::'July'::20
-        
-        Cnp = '7380225462697' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1938::'February'::25
-        
-        Cnp = '8031220311466' Region = 'Salaj' 
-        Year::Month::Day = 1903::'December'::20
-        
-        Cnp = '4060702287649' Region = 'Olt' 
-        Year::Month::Day = 1806::'July'::2
-        
-        Cnp = '4820325514665' Region = 'Calarasi' 
-        Year::Month::Day = 1882::'March'::25
-        
-        Cnp = '8891212122861' Region = 'Cluj' 
-        Year::Month::Day = 1989::'December'::12
-        
-        Cnp = '2480508443390' Region = 'Bucuresti S.4' 
-        Year::Month::Day = 1948::'May'::8
-        
-        Cnp = '9910604159627' Region = 'Dambovita' 
-        Year::Month::Day = 1991::'June'::4
-        
-        Cnp = '3340717056865' Region = 'Bihor' 
-        Year::Month::Day = 1834::'July'::17
-        
-        Cnp = '7450607143843' Region = 'Covasna' 
-        Year::Month::Day = 1945::'June'::7
-        
-        Cnp = '6120711063787' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 2012::'July'::11
-        
-        Cnp = '4100801412830' Region = 'Bucuresti S.1' 
-        Year::Month::Day = 1810::'August'::1
-        
-        Cnp = '1951213084931' Region = 'Brasov' 
-        Year::Month::Day = 1995::'December'::13
-        
-        Cnp = '1710911086339' Region = 'Brasov' 
-        Year::Month::Day = 1971::'September'::11
-        
-        Cnp = '2920507124441' Region = 'Cluj' 
-        Year::Month::Day = 1992::'May'::7
-        
-        Cnp = '1641112065933' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 1964::'November'::12
-        
-        Cnp = '9200128329141' Region = 'Sibiu' 
-        Year::Month::Day = 1920::'January'::28
-        
-        Cnp = '8760320353761' Region = 'Timis' 
-        Year::Month::Day = 1976::'March'::20
-        
-        Cnp = '1120204463684' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1912::'February'::4
-        
-        Cnp = '2321201146013' Region = 'Covasna' 
-        Year::Month::Day = 1932::'December'::1
-        
-        Cnp = '1340816400425' Region = 'Bucuresti' 
-        Year::Month::Day = 1934::'August'::16
-        
-        Cnp = '9650610468042' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1965::'June'::10
-        
-        Cnp = '5020604280700' Region = 'Olt' 
-        Year::Month::Day = 2002::'June'::4
-        
-        Cnp = '2750919081408' Region = 'Brasov' 
-        Year::Month::Day = 1975::'September'::19
-        
-        Cnp = '3660227227138' Region = 'Iasi' 
-        Year::Month::Day = 1866::'February'::27
-        
-        Cnp = '7171112344184' Region = 'Teleorman' 
-        Year::Month::Day = 1917::'November'::12
-        
-        Cnp = '5120805339218' Region = 'Suceava' 
-        Year::Month::Day = 2012::'August'::5
-        
-        Cnp = '2170514082100' Region = 'Brasov' 
-        Year::Month::Day = 1917::'May'::14
-        
-        Cnp = '8650715420175' Region = 'Bucuresti S.2' 
-        Year::Month::Day = 1965::'July'::15
-        
-        Cnp = '1080316433516' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1908::'March'::16
-        
-        Cnp = '8060120020302' Region = 'Arad' 
-        Year::Month::Day = 1906::'January'::20
-        
-        Cnp = '2420506395180' Region = 'Vrancea' 
-        Year::Month::Day = 1942::'May'::6
-        
-        Cnp = '8711204114655' Region = 'Caras-Severin' 
-        Year::Month::Day = 1971::'December'::4
-        
-        Cnp = '8000522181477' Region = 'Gorj' 
-        Year::Month::Day = 1900::'May'::22
-        
-        Cnp = '4390526081823' Region = 'Brasov' 
-        Year::Month::Day = 1839::'May'::26
-        
-        Cnp = '4230315189450' Region = 'Gorj' 
-        Year::Month::Day = 1823::'March'::15
-        
-        Cnp = '9860426284388' Region = 'Olt' 
-        Year::Month::Day = 1986::'April'::26
-        
-        Cnp = '7260314031356' Region = 'Arges' 
-        Year::Month::Day = 1926::'March'::14
-        
-        Cnp = '4910212194658' Region = 'Harghita' 
-        Year::Month::Day = 1891::'February'::12
-        
-        Cnp = '7610730019072' Region = 'Alba' 
-        Year::Month::Day = 1961::'July'::30
-        
-        Cnp = '1820523145819' Region = 'Covasna' 
-        Year::Month::Day = 1982::'May'::23
-        
-        Cnp = '1060719453189' Region = 'Bucuresti S.5' 
-        Year::Month::Day = 1906::'July'::19
-        
-        Cnp = '9210403108472' Region = 'Buzau' 
-        Year::Month::Day = 1921::'April'::3
-        
-        Cnp = '4750513160425' Region = 'Dolj' 
-        Year::Month::Day = 1875::'May'::13
-        
-        Cnp = '9251004462761' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1925::'October'::4
-        
-        Cnp = '6141027207126' Region = 'Hunedoara' 
-        Year::Month::Day = 2014::'October'::27
-        
-        Cnp = '4070307359546' Region = 'Timis' 
-        Year::Month::Day = 1807::'March'::7
-        
-        Cnp = '8001008185309' Region = 'Gorj' 
-        Year::Month::Day = 1900::'October'::8
-        
-        Cnp = '8280930164163' Region = 'Dolj' 
-        Year::Month::Day = 1928::'September'::30
-        
-        Cnp = '2481115451971' Region = 'Bucuresti S.5' 
-        Year::Month::Day = 1948::'November'::15
-        
-        Cnp = '9240828125352' Region = 'Cluj' 
-        Year::Month::Day = 1924::'August'::28
-        
-        Cnp = '2651222061521' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 1965::'December'::22
-        
-        Cnp = '9370518067541' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 1937::'May'::18
-        
-        Cnp = '4801105152853' Region = 'Dambovita' 
-        Year::Month::Day = 1880::'November'::5
-        
-        Cnp = '7501225063963' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 1950::'December'::25
-        
-        Cnp = '7210913111776' Region = 'Caras-Severin' 
-        Year::Month::Day = 1921::'September'::13
-        
-        Cnp = '3860215456876' Region = 'Bucuresti S.5' 
-        Year::Month::Day = 1886::'February'::15
-        
-        Cnp = '8390123097674' Region = 'Braila' 
-        Year::Month::Day = 1939::'January'::23
-        
-        Cnp = '9640402093826' Region = 'Braila' 
-        Year::Month::Day = 1964::'April'::2
-        
-        Cnp = '9840122461645' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1984::'January'::22
-        
-        Cnp = '3840925374869' Region = 'Vaslui' 
-        Year::Month::Day = 1884::'September'::25
-        
-        Cnp = '8720125381665' Region = 'Valcea' 
-        Year::Month::Day = 1972::'January'::25
-        
-        Cnp = '3260101136749' Region = 'Constanta' 
-        Year::Month::Day = 1826::'January'::1
-        
-        Cnp = '7110321515386' Region = 'Calarasi' 
-        Year::Month::Day = 1911::'March'::21
-        
-        Cnp = '2731210454607' Region = 'Bucuresti S.5' 
-        Year::Month::Day = 1973::'December'::10
-        
-        Cnp = '4730713421967' Region = 'Bucuresti S.2' 
-        Year::Month::Day = 1873::'July'::13
-        
-        Cnp = '4840528460821' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1884::'May'::28
-        
-        Cnp = '6100807072414' Region = 'Botosani' 
-        Year::Month::Day = 2010::'August'::7
-        
-        Cnp = '9030217216617' Region = 'Ialomita' 
-        Year::Month::Day = 1903::'February'::17
-        
-        Cnp = '2080519463427' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1908::'May'::19
-        
-        Cnp = '4590103360918' Region = 'Tulcea' 
-        Year::Month::Day = 1859::'January'::3
-        
-        Cnp = '1180416269923' Region = 'Mures' 
-        Year::Month::Day = 1918::'April'::16
-        
-        Cnp = '9120214085035' Region = 'Brasov' 
-        Year::Month::Day = 1912::'February'::14
-        
-        Cnp = '1491129373212' Region = 'Vaslui' 
-        Year::Month::Day = 1949::'November'::29
-        
-        Cnp = '7461217315692' Region = 'Salaj' 
-        Year::Month::Day = 1946::'December'::17
-        
-        Cnp = '2290302387343' Region = 'Valcea' 
-        Year::Month::Day = 1929::'March'::2
-        
-        Cnp = '4480405108858' Region = 'Buzau' 
-        Year::Month::Day = 1848::'April'::5
-        
-        Cnp = '9180225442458' Region = 'Bucuresti S.4' 
-        Year::Month::Day = 1918::'February'::25
-        
-        Cnp = '3180811158772' Region = 'Dambovita' 
-        Year::Month::Day = 1818::'August'::11
-        
-        Cnp = '2210201256511' Region = 'Mehedinti' 
-        Year::Month::Day = 1921::'February'::1
-        
-        Cnp = '8541201239809' Region = 'Ilfov' 
-        Year::Month::Day = 1954::'December'::1
-        
-        Cnp = '3300119313785' Region = 'Salaj' 
-        Year::Month::Day = 1830::'January'::19
-        
-        Cnp = '8220217225801' Region = 'Iasi' 
-        Year::Month::Day = 1922::'February'::17
-        
-        Cnp = '8210217032695' Region = 'Arges' 
-        Year::Month::Day = 1921::'February'::17
-        
-        Cnp = '4470219049513' Region = 'Bacau' 
-        Year::Month::Day = 1847::'February'::19
-        
-        Cnp = '2900924069276' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 1990::'September'::24
-        
-        Cnp = '3350606206856' Region = 'Hunedoara' 
-        Year::Month::Day = 1835::'June'::6
-        
-        Cnp = '1080405168957' Region = 'Dolj' 
-        Year::Month::Day = 1908::'April'::5
-        
-        Cnp = '7070117110107' Region = 'Caras-Severin' 
-        Year::Month::Day = 1907::'January'::17
-        
-        Cnp = '7730215434452' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1973::'February'::15
-        
-        Cnp = '3120308229247' Region = 'Iasi' 
-        Year::Month::Day = 1812::'March'::8
-        
-        Cnp = '2131118184391' Region = 'Gorj' 
-        Year::Month::Day = 1913::'November'::18
-        
-        Cnp = '1661124411716' Region = 'Bucuresti S.1' 
-        Year::Month::Day = 1966::'November'::24
-        
-        Cnp = '2600916096601' Region = 'Braila' 
-        Year::Month::Day = 1960::'September'::16
-        
-        Cnp = '8520417153471' Region = 'Dambovita' 
-        Year::Month::Day = 1952::'April'::17
-        
-        Cnp = '5200824086635' Region = 'Brasov' 
-        Year::Month::Day = 2020::'August'::24
-        
-        Cnp = '7950206226114' Region = 'Iasi' 
-        Year::Month::Day = 1995::'February'::6
-        
-        Cnp = '6120429126944' Region = 'Cluj' 
-        Year::Month::Day = 2012::'April'::29
-        
-        Cnp = '9000905375201' Region = 'Vaslui' 
-        Year::Month::Day = 1900::'September'::5
-        
-        Cnp = '9340730180070' Region = 'Gorj' 
-        Year::Month::Day = 1934::'July'::30
-        
-        Cnp = '7501202518302' Region = 'Calarasi' 
-        Year::Month::Day = 1950::'December'::2
-        
-        Cnp = '2430325040455' Region = 'Bacau' 
-        Year::Month::Day = 1943::'March'::25
-        
-        Cnp = '9611203517352' Region = 'Calarasi' 
-        Year::Month::Day = 1961::'December'::3
-        
-        Cnp = '4300402084141' Region = 'Brasov' 
-        Year::Month::Day = 1830::'April'::2
-        
-        Cnp = '7760610208421' Region = 'Hunedoara' 
-        Year::Month::Day = 1976::'June'::10
-        
-        Cnp = '1640915242471' Region = 'Maramures' 
-        Year::Month::Day = 1964::'September'::15
-        
-        Cnp = '8320730198576' Region = 'Harghita' 
-        Year::Month::Day = 1932::'July'::30
-        
-        Cnp = '6100916516695' Region = 'Calarasi' 
-        Year::Month::Day = 2010::'September'::16
-        
-        Cnp = '8561220365212' Region = 'Tulcea' 
-        Year::Month::Day = 1956::'December'::20
-        
-        Cnp = '3390721296812' Region = 'Prahova' 
-        Year::Month::Day = 1839::'July'::21
-        
-        Cnp = '9310414285343' Region = 'Olt' 
-        Year::Month::Day = 1931::'April'::14
-        
-        Cnp = '3470819139844' Region = 'Constanta' 
-        Year::Month::Day = 1847::'August'::19
-        
-        Cnp = '1280528319383' Region = 'Salaj' 
-        Year::Month::Day = 1928::'May'::28
-        
-        Cnp = '3450430024541' Region = 'Arad' 
-        Year::Month::Day = 1845::'April'::30
-        
-        Cnp = '9740619094084' Region = 'Braila' 
-        Year::Month::Day = 1974::'June'::19
-        
-        Cnp = '9381019348317' Region = 'Teleorman' 
-        Year::Month::Day = 1938::'October'::19
-        
-        Cnp = '8581024010231' Region = 'Alba' 
-        Year::Month::Day = 1958::'October'::24
-        
-        Cnp = '3860808202632' Region = 'Hunedoara' 
-        Year::Month::Day = 1886::'August'::8
-        
-        Cnp = '4940630430727' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1894::'June'::30
-        
-        Cnp = '8460324233471' Region = 'Ilfov' 
-        Year::Month::Day = 1946::'March'::24
-        
-        Cnp = '8250210024804' Region = 'Arad' 
-        Year::Month::Day = 1925::'February'::10
-        
-        Cnp = '2340429180746' Region = 'Gorj' 
-        Year::Month::Day = 1934::'April'::29
-        
-        Cnp = '4151004293373' Region = 'Prahova' 
-        Year::Month::Day = 1815::'October'::4
-        
-        Cnp = '3620612178101' Region = 'Galati' 
-        Year::Month::Day = 1862::'June'::12
-        
-        Cnp = '9560126439494' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1956::'January'::26
-        
-        Cnp = '5130221059418' Region = 'Bihor' 
-        Year::Month::Day = 2013::'February'::21
-        
-        Cnp = '1800506033734' Region = 'Arges' 
-        Year::Month::Day = 1980::'May'::6
-        
-        Cnp = '3420826087806' Region = 'Brasov' 
-        Year::Month::Day = 1842::'August'::26
-        
-        Cnp = '7330108392259' Region = 'Vrancea' 
-        Year::Month::Day = 1933::'January'::8
-        
-        Cnp = '4850202280191' Region = 'Olt' 
-        Year::Month::Day = 1885::'February'::2
-        
-        Cnp = '7760710149104' Region = 'Covasna' 
-        Year::Month::Day = 1976::'July'::10
-        
-        Cnp = '2521220106672' Region = 'Buzau' 
-        Year::Month::Day = 1952::'December'::20
-        
-        Cnp = '8800124057123' Region = 'Bihor' 
-        Year::Month::Day = 1980::'January'::24
-        
-        Cnp = '7870412454076' Region = 'Bucuresti S.5' 
-        Year::Month::Day = 1987::'April'::12
-        
-        Cnp = '3600208368099' Region = 'Tulcea' 
-        Year::Month::Day = 1860::'February'::8
-        
-        Cnp = '8890310184268' Region = 'Gorj' 
-        Year::Month::Day = 1989::'March'::10
-        
-        Cnp = '8140809166631' Region = 'Dolj' 
-        Year::Month::Day = 1914::'August'::9
-        
-        Cnp = '4480202170488' Region = 'Galati' 
-        Year::Month::Day = 1848::'February'::2
-        
-        Cnp = '2100805300576' Region = 'Satu Mare' 
-        Year::Month::Day = 1910::'August'::5
-        
-        Cnp = '7731017230551' Region = 'Ilfov' 
-        Year::Month::Day = 1973::'October'::17
-        
-        Cnp = '3350420358866' Region = 'Timis' 
-        Year::Month::Day = 1835::'April'::20
-        
-        Cnp = '5120827223983' Region = 'Iasi' 
-        Year::Month::Day = 2012::'August'::27
-        
-        Cnp = '3241201011749' Region = 'Alba' 
-        Year::Month::Day = 1824::'December'::1
-        
-        Cnp = '1520709218116' Region = 'Ialomita' 
-        Year::Month::Day = 1952::'July'::9
-        
-        Cnp = '8400407384732' Region = 'Valcea' 
-        Year::Month::Day = 1940::'April'::7
-        
-        Cnp = '8020720370141' Region = 'Vaslui' 
-        Year::Month::Day = 1902::'July'::20
-        
-        Cnp = '4231205335095' Region = 'Suceava' 
-        Year::Month::Day = 1823::'December'::5
-        
-        Cnp = '3590402413344' Region = 'Bucuresti S.1' 
-        Year::Month::Day = 1859::'April'::2
-        
-        Cnp = '3600612353221' Region = 'Timis' 
-        Year::Month::Day = 1860::'June'::12
-        
-        Cnp = '8380907414186' Region = 'Bucuresti S.1' 
-        Year::Month::Day = 1938::'September'::7
-        
-        Cnp = '9420331184113' Region = 'Gorj' 
-        Year::Month::Day = 1942::'March'::31
-        
-        Cnp = '2000401074253' Region = 'Botosani' 
-        Year::Month::Day = 1900::'April'::1
-        
-        Cnp = '9300808231069' Region = 'Ilfov' 
-        Year::Month::Day = 1930::'August'::8
-        
-        Cnp = '1670413350452' Region = 'Timis' 
-        Year::Month::Day = 1967::'April'::13
-        
-        Cnp = '2020214096764' Region = 'Braila' 
-        Year::Month::Day = 1902::'February'::14
-        
-        Cnp = '1110305332141' Region = 'Suceava' 
-        Year::Month::Day = 1911::'March'::5
-        
-        Cnp = '1131101328265' Region = 'Sibiu' 
-        Year::Month::Day = 1913::'November'::1
-        
-        Cnp = '2760711018767' Region = 'Alba' 
-        Year::Month::Day = 1976::'July'::11
-        
-        Cnp = '1310506431161' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1931::'May'::6
-        
-        Cnp = '3370803364831' Region = 'Tulcea' 
-        Year::Month::Day = 1837::'August'::3
-        
-        Cnp = '8750722267454' Region = 'Mures' 
-        Year::Month::Day = 1975::'July'::22
-        
-        Cnp = '2920628401125' Region = 'Bucuresti' 
-        Year::Month::Day = 1992::'June'::28
-        
-        Cnp = '1480326102325' Region = 'Buzau' 
-        Year::Month::Day = 1948::'March'::26
-        
-        Cnp = '2870425185214' Region = 'Gorj' 
-        Year::Month::Day = 1987::'April'::25
-        
-        Cnp = '9410807024799' Region = 'Arad' 
-        Year::Month::Day = 1941::'August'::7
-        
-        Cnp = '7870127520563' Region = 'Giurgiu' 
-        Year::Month::Day = 1987::'January'::27
-        
-        Cnp = '2900929308884' Region = 'Satu Mare' 
-        Year::Month::Day = 1990::'September'::29
-        
-        Cnp = '2300207229720' Region = 'Iasi' 
-        Year::Month::Day = 1930::'February'::7
-        
-        Cnp = '2040618432130' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1904::'June'::18
-        
-        Cnp = '1481121230141' Region = 'Ilfov' 
-        Year::Month::Day = 1948::'November'::21
-        
-        Cnp = '7790615131350' Region = 'Constanta' 
-        Year::Month::Day = 1979::'June'::15
-        
-        Cnp = '1851019216037' Region = 'Ialomita' 
-        Year::Month::Day = 1985::'October'::19
-        
-        Cnp = '4891028085804' Region = 'Brasov' 
-        Year::Month::Day = 1889::'October'::28
-        
-        Cnp = '3400612079011' Region = 'Botosani' 
-        Year::Month::Day = 1840::'June'::12
-        
-        Cnp = '3021021176396' Region = 'Galati' 
-        Year::Month::Day = 1802::'October'::21
-        
-        Cnp = '9880308132030' Region = 'Constanta' 
-        Year::Month::Day = 1988::'March'::8
-        
-        Cnp = '2450315076010' Region = 'Botosani' 
-        Year::Month::Day = 1945::'March'::15
-        
-        Cnp = '2711126265406' Region = 'Mures' 
-        Year::Month::Day = 1971::'November'::26
-        
-        Cnp = '8871108155974' Region = 'Dambovita' 
-        Year::Month::Day = 1987::'November'::8
-        
-        Cnp = '5200926458618' Region = 'Bucuresti S.5' 
-        Year::Month::Day = 2020::'September'::26
-        
-        Cnp = '5100121292441' Region = 'Prahova' 
-        Year::Month::Day = 2010::'January'::21
-        
-        Cnp = '7580710340610' Region = 'Teleorman' 
-        Year::Month::Day = 1958::'July'::10
-        
-        Cnp = '8081104528630' Region = 'Giurgiu' 
-        Year::Month::Day = 1908::'November'::4
-        
-        Cnp = '4510114362211' Region = 'Tulcea' 
-        Year::Month::Day = 1851::'January'::14
-        
-        Cnp = '3840605073837' Region = 'Botosani' 
-        Year::Month::Day = 1884::'June'::5
-        
-        Cnp = '7080211343231' Region = 'Teleorman' 
-        Year::Month::Day = 1908::'February'::11
-        
-        Cnp = '3730127384163' Region = 'Valcea' 
-        Year::Month::Day = 1873::'January'::27
-        
-        Cnp = '2310720466297' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1931::'July'::20
-        
-        Cnp = '9721216441736' Region = 'Bucuresti S.4' 
-        Year::Month::Day = 1972::'December'::16
-        
-        Cnp = '4100417444753' Region = 'Bucuresti S.4' 
-        Year::Month::Day = 1810::'April'::17
-        
-        Cnp = '7690730237940' Region = 'Ilfov' 
-        Year::Month::Day = 1969::'July'::30
-        
-        Cnp = '5141209292536' Region = 'Prahova' 
-        Year::Month::Day = 2014::'December'::9
-        
-        Cnp = '1260802165823' Region = 'Dolj' 
-        Year::Month::Day = 1926::'August'::2
-        
-        Cnp = '8231110060524' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 1923::'November'::10
-        
-        Cnp = '1250910366344' Region = 'Tulcea' 
-        Year::Month::Day = 1925::'September'::10
-        
-        Cnp = '9180208518651' Region = 'Calarasi' 
-        Year::Month::Day = 1918::'February'::8
-        
-        Cnp = '9400329077715' Region = 'Botosani' 
-        Year::Month::Day = 1940::'March'::29
-        
-        Cnp = '4440503388797' Region = 'Valcea' 
-        Year::Month::Day = 1844::'May'::3
-        
-        Cnp = '1090405392007' Region = 'Vrancea' 
-        Year::Month::Day = 1909::'April'::5
-        
-        Cnp = '6080809287430' Region = 'Olt' 
-        Year::Month::Day = 2008::'August'::9
-        
-        Cnp = '2360426395539' Region = 'Vrancea' 
-        Year::Month::Day = 1936::'April'::26
-        
-        Cnp = '8980601380899' Region = 'Valcea' 
-        Year::Month::Day = 1998::'June'::1
-        
-        Cnp = '6101227380251' Region = 'Valcea' 
-        Year::Month::Day = 2010::'December'::27
-        
-        Cnp = '7470502314382' Region = 'Salaj' 
-        Year::Month::Day = 1947::'May'::2
-        
-        Cnp = '2470901166415' Region = 'Dolj' 
-        Year::Month::Day = 1947::'September'::1
-        
-        Cnp = '9840824042565' Region = 'Bacau' 
-        Year::Month::Day = 1984::'August'::24
-        
-        Cnp = '7250313200545' Region = 'Hunedoara' 
-        Year::Month::Day = 1925::'March'::13
-        
-        Cnp = '4830114241927' Region = 'Maramures' 
-        Year::Month::Day = 1883::'January'::14
-        
-        Cnp = '8551028282854' Region = 'Olt' 
-        Year::Month::Day = 1955::'October'::28
-        
-        Cnp = '8730110514061' Region = 'Calarasi' 
-        Year::Month::Day = 1973::'January'::10
-        
-        Cnp = '8240516270975' Region = 'Neamt' 
-        Year::Month::Day = 1924::'May'::16
-        
-        Cnp = '2850903212357' Region = 'Ialomita' 
-        Year::Month::Day = 1985::'September'::3
-        
-        Cnp = '7580328299275' Region = 'Prahova' 
-        Year::Month::Day = 1958::'March'::28
-        
-        Cnp = '8010306359920' Region = 'Timis' 
-        Year::Month::Day = 1901::'March'::6
-        
-        Cnp = '4091015394139' Region = 'Vrancea' 
-        Year::Month::Day = 1809::'October'::15
-        
-        Cnp = '8440909169275' Region = 'Dolj' 
-        Year::Month::Day = 1944::'September'::9
-        
-        Cnp = '9151208522187' Region = 'Giurgiu' 
-        Year::Month::Day = 1915::'December'::8
-        
-        Cnp = '3250203372935' Region = 'Vaslui' 
-        Year::Month::Day = 1825::'February'::3
-        
-        Cnp = '4421023252631' Region = 'Mehedinti' 
-        Year::Month::Day = 1842::'October'::23
-        
-        Cnp = '1660826233598' Region = 'Ilfov' 
-        Year::Month::Day = 1966::'August'::26
-        
-        Cnp = '1200905122231' Region = 'Cluj' 
-        Year::Month::Day = 1920::'September'::5
-        
-        Cnp = '4751207451082' Region = 'Bucuresti S.5' 
-        Year::Month::Day = 1875::'December'::7
-        
-        Cnp = '4601110248842' Region = 'Maramures' 
-        Year::Month::Day = 1860::'November'::10
-        
-        Cnp = '1011019053732' Region = 'Bihor' 
-        Year::Month::Day = 1901::'October'::19
-        
-        Cnp = '7120609523240' Region = 'Giurgiu' 
-        Year::Month::Day = 1912::'June'::9
-        
-        Cnp = '9910906065434' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 1991::'September'::6
-        
-        Cnp = '8431222225352' Region = 'Iasi' 
-        Year::Month::Day = 1943::'December'::22
-        
-        Cnp = '2280921224915' Region = 'Iasi' 
-        Year::Month::Day = 1928::'September'::21
-        
-        Cnp = '9071014515756' Region = 'Calarasi' 
-        Year::Month::Day = 1907::'October'::14
-        
-        Cnp = '3810426304040' Region = 'Satu Mare' 
-        Year::Month::Day = 1881::'April'::26
-        
-        Cnp = '8520203306388' Region = 'Satu Mare' 
-        Year::Month::Day = 1952::'February'::3
-        
-        Cnp = '7680411244013' Region = 'Maramures' 
-        Year::Month::Day = 1968::'April'::11
-        
-        Cnp = '3880702041792' Region = 'Bacau' 
-        Year::Month::Day = 1888::'July'::2
-        
-        Cnp = '9650817236458' Region = 'Ilfov' 
-        Year::Month::Day = 1965::'August'::17
-        
-        Cnp = '9400602059686' Region = 'Bihor' 
-        Year::Month::Day = 1940::'June'::2
-        
-        Cnp = '2360603160713' Region = 'Dolj' 
-        Year::Month::Day = 1936::'June'::3
-        
-        Cnp = '3290402136835' Region = 'Constanta' 
-        Year::Month::Day = 1829::'April'::2
-        
-        Cnp = '8950516382666' Region = 'Valcea' 
-        Year::Month::Day = 1995::'May'::16
-        
-        Cnp = '1441203086807' Region = 'Brasov' 
-        Year::Month::Day = 1944::'December'::3
-        
-        Cnp = '7080113436082' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1908::'January'::13
-        
-        Cnp = '9270913114053' Region = 'Caras-Severin' 
-        Year::Month::Day = 1927::'September'::13
-        
-        Cnp = '2971113195292' Region = 'Harghita' 
-        Year::Month::Day = 1997::'November'::13
-        
-        Cnp = '8910212111109' Region = 'Caras-Severin' 
-        Year::Month::Day = 1991::'February'::12
-        
-        Cnp = '8300302155131' Region = 'Dambovita' 
-        Year::Month::Day = 1930::'March'::2
-        
-        Cnp = '2430715176507' Region = 'Galati' 
-        Year::Month::Day = 1943::'July'::15
-        
-        Cnp = '8241002138059' Region = 'Constanta' 
-        Year::Month::Day = 1924::'October'::2
-        
-        Cnp = '6010906463305' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 2001::'September'::6
-        
-        Cnp = '2410707221921' Region = 'Iasi' 
-        Year::Month::Day = 1941::'July'::7
-        
-        Cnp = '8131123334926' Region = 'Suceava' 
-        Year::Month::Day = 1913::'November'::23
-        
-        Cnp = '4471109074227' Region = 'Botosani' 
-        Year::Month::Day = 1847::'November'::9
-        
-        Cnp = '9460314258332' Region = 'Mehedinti' 
-        Year::Month::Day = 1946::'March'::14
-        
-        Cnp = '2040101231411' Region = 'Ilfov' 
-        Year::Month::Day = 1904::'January'::1
-        
-        Cnp = '4820607453241' Region = 'Bucuresti S.5' 
-        Year::Month::Day = 1882::'June'::7
-        
-        Cnp = '1620414251891' Region = 'Mehedinti' 
-        Year::Month::Day = 1962::'April'::14
-        
-        Cnp = '6060130405948' Region = 'Bucuresti' 
-        Year::Month::Day = 2006::'January'::30
-        
-        Cnp = '8351223415007' Region = 'Bucuresti S.1' 
-        Year::Month::Day = 1935::'December'::23
-        
-        Cnp = '8840509015606' Region = 'Alba' 
-        Year::Month::Day = 1984::'May'::9
-        
-        Cnp = '8570227266291' Region = 'Mures' 
-        Year::Month::Day = 1957::'February'::27
-        
-        Cnp = '8900101248220' Region = 'Maramures' 
-        Year::Month::Day = 1990::'January'::1
-        
-        Cnp = '6131015064951' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 2013::'October'::15
-        
-        Cnp = '9320723296758' Region = 'Prahova' 
-        Year::Month::Day = 1932::'July'::23
-        
-        Cnp = '9980713271141' Region = 'Neamt' 
-        Year::Month::Day = 1998::'July'::13
-        
-        Cnp = '2760809400771' Region = 'Bucuresti' 
-        Year::Month::Day = 1976::'August'::9
-        
-        Cnp = '3210715522821' Region = 'Giurgiu' 
-        Year::Month::Day = 1821::'July'::15
-        
-        Cnp = '4461105517011' Region = 'Calarasi' 
-        Year::Month::Day = 1846::'November'::5
-        
-        Cnp = '9480614066545' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 1948::'June'::14
-        
-        Cnp = '9620304186728' Region = 'Gorj' 
-        Year::Month::Day = 1962::'March'::4
-        
-        Cnp = '8030713092032' Region = 'Braila' 
-        Year::Month::Day = 1903::'July'::13
-        
-        Cnp = '4060427331447' Region = 'Suceava' 
-        Year::Month::Day = 1806::'April'::27
-        
-        Cnp = '5100120158681' Region = 'Dambovita' 
-        Year::Month::Day = 2010::'January'::20
-        
-        Cnp = '9480108132388' Region = 'Constanta' 
-        Year::Month::Day = 1948::'January'::8
-        
-        Cnp = '2181114071069' Region = 'Botosani' 
-        Year::Month::Day = 1918::'November'::14
-        
-        Cnp = '8970521289611' Region = 'Olt' 
-        Year::Month::Day = 1997::'May'::21
-        
-        Cnp = '3690824166200' Region = 'Dolj' 
-        Year::Month::Day = 1869::'August'::24
-        
-        Cnp = '2220222217815' Region = 'Ialomita' 
-        Year::Month::Day = 1922::'February'::22
-        
-        Cnp = '1960318191631' Region = 'Harghita' 
-        Year::Month::Day = 1996::'March'::18
-        
-        Cnp = '9070327316912' Region = 'Salaj' 
-        Year::Month::Day = 1907::'March'::27
-        
-        Cnp = '8251011112038' Region = 'Caras-Severin' 
-        Year::Month::Day = 1925::'October'::11
-        
-        Cnp = '9591018223122' Region = 'Iasi' 
-        Year::Month::Day = 1959::'October'::18
-        
-        Cnp = '1270902154164' Region = 'Dambovita' 
-        Year::Month::Day = 1927::'September'::2
-        
-        Cnp = '3690426239226' Region = 'Ilfov' 
-        Year::Month::Day = 1869::'April'::26
-        
-        Cnp = '8530206236437' Region = 'Ilfov' 
-        Year::Month::Day = 1953::'February'::6
-        
-        Cnp = '1890416519288' Region = 'Calarasi' 
-        Year::Month::Day = 1989::'April'::16
-        
-        Cnp = '3771118222250' Region = 'Iasi' 
-        Year::Month::Day = 1877::'November'::18
-        
-        Cnp = '2621121034639' Region = 'Arges' 
-        Year::Month::Day = 1962::'November'::21
-        
-        Cnp = '1720330068578' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 1972::'March'::30
-        
-        Cnp = '4100829430009' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1810::'August'::29
-        
-        Cnp = '7350703015433' Region = 'Alba' 
-        Year::Month::Day = 1935::'July'::3
-        
-        Cnp = '1780906163111' Region = 'Dolj' 
-        Year::Month::Day = 1978::'September'::6
-        
-        Cnp = '1440409356449' Region = 'Timis' 
-        Year::Month::Day = 1944::'April'::9
-        
-        Cnp = '9390101250263' Region = 'Mehedinti' 
-        Year::Month::Day = 1939::'January'::1
-        
-        Cnp = '1941003323953' Region = 'Sibiu' 
-        Year::Month::Day = 1994::'October'::3
-        
-        Cnp = '2430210346000' Region = 'Teleorman' 
-        Year::Month::Day = 1943::'February'::10
-        
-        Cnp = '1500530214416' Region = 'Ialomita' 
-        Year::Month::Day = 1950::'May'::30
-        
-        Cnp = '9240609052762' Region = 'Bihor' 
-        Year::Month::Day = 1924::'June'::9
-        
-        Cnp = '4801218370131' Region = 'Vaslui' 
-        Year::Month::Day = 1880::'December'::18
-        
-        Cnp = '1290830163999' Region = 'Dolj' 
-        Year::Month::Day = 1929::'August'::30
-        
-        Cnp = '4761228171781' Region = 'Galati' 
-        Year::Month::Day = 1876::'December'::28
-        
-        Cnp = '3870406345218' Region = 'Teleorman' 
-        Year::Month::Day = 1887::'April'::6
-        
-        Cnp = '8560920126093' Region = 'Cluj' 
-        Year::Month::Day = 1956::'September'::20
-        
-        Cnp = '4891206053826' Region = 'Bihor' 
-        Year::Month::Day = 1889::'December'::6
-        
-        Cnp = '7061111317754' Region = 'Salaj' 
-        Year::Month::Day = 1906::'November'::11
-        
-        Cnp = '2240221238049' Region = 'Ilfov' 
-        Year::Month::Day = 1924::'February'::21
-        
-        Cnp = '4101207043903' Region = 'Bacau' 
-        Year::Month::Day = 1810::'December'::7
-        
-        Cnp = '2240511510356' Region = 'Calarasi' 
-        Year::Month::Day = 1924::'May'::11
-        
-        Cnp = '3001123251672' Region = 'Mehedinti' 
-        Year::Month::Day = 1800::'November'::23
-        
-        Cnp = '1030329096085' Region = 'Braila' 
-        Year::Month::Day = 1903::'March'::29
-        
-        Cnp = '2300710143249' Region = 'Covasna' 
-        Year::Month::Day = 1930::'July'::10
-        
-        Cnp = '1680930418443' Region = 'Bucuresti S.1' 
-        Year::Month::Day = 1968::'September'::30
-        
-        Cnp = '6021214032526' Region = 'Arges' 
-        Year::Month::Day = 2002::'December'::14
-        
-        Cnp = '3150325340562' Region = 'Teleorman' 
-        Year::Month::Day = 1815::'March'::25
-        
-        Cnp = '3450702308546' Region = 'Satu Mare' 
-        Year::Month::Day = 1845::'July'::2
-        
-        Cnp = '1430218207842' Region = 'Hunedoara' 
-        Year::Month::Day = 1943::'February'::18
-        
-        Cnp = '2240519092998' Region = 'Braila' 
-        Year::Month::Day = 1924::'May'::19
-        
-        Cnp = '7460902149620' Region = 'Covasna' 
-        Year::Month::Day = 1946::'September'::2
-        
-        Cnp = '8390904016624' Region = 'Alba' 
-        Year::Month::Day = 1939::'September'::4
-        
-        Cnp = '6080731329401' Region = 'Sibiu' 
-        Year::Month::Day = 2008::'July'::31
-        
-        Cnp = '3700616322698' Region = 'Sibiu' 
-        Year::Month::Day = 1870::'June'::16
-        
-        Cnp = '7000118272753' Region = 'Neamt' 
-        Year::Month::Day = 1900::'January'::18
-        
-        Cnp = '4480904268861' Region = 'Mures' 
-        Year::Month::Day = 1848::'September'::4
-        
-        Cnp = '5011125207463' Region = 'Hunedoara' 
-        Year::Month::Day = 2001::'November'::25
-        
-        Cnp = '3821120339895' Region = 'Suceava' 
-        Year::Month::Day = 1882::'November'::20
-        
-        Cnp = '4381230212955' Region = 'Ialomita' 
-        Year::Month::Day = 1838::'December'::30
-        
-        Cnp = '8800504448584' Region = 'Bucuresti S.4' 
-        Year::Month::Day = 1980::'May'::4
-        
-        Cnp = '9380521394704' Region = 'Vrancea' 
-        Year::Month::Day = 1938::'May'::21
-        
-        Cnp = '7850706334405' Region = 'Suceava' 
-        Year::Month::Day = 1985::'July'::6
-        
-        Cnp = '8610806210089' Region = 'Ialomita' 
-        Year::Month::Day = 1961::'August'::6
-        
-        Cnp = '4250102174871' Region = 'Galati' 
-        Year::Month::Day = 1825::'January'::2
-        
-        Cnp = '3461227209231' Region = 'Hunedoara' 
-        Year::Month::Day = 1846::'December'::27
-        
-        Cnp = '9310921038672' Region = 'Arges' 
-        Year::Month::Day = 1931::'September'::21
-        
-        Cnp = '1320804404118' Region = 'Bucuresti' 
-        Year::Month::Day = 1932::'August'::4
-        
-        Cnp = '3080924354716' Region = 'Timis' 
-        Year::Month::Day = 1808::'September'::24
-        
-        Cnp = '3410309314062' Region = 'Salaj' 
-        Year::Month::Day = 1841::'March'::9
-        
-        Cnp = '8650524261746' Region = 'Mures' 
-        Year::Month::Day = 1965::'May'::24
-        
-        Cnp = '9700119419471' Region = 'Bucuresti S.1' 
-        Year::Month::Day = 1970::'January'::19
-        
-        Cnp = '9000706055258' Region = 'Bihor' 
-        Year::Month::Day = 1900::'July'::6
-        
-        Cnp = '3820112300087' Region = 'Satu Mare' 
-        Year::Month::Day = 1882::'January'::12
-        
-        Cnp = '3900217411731' Region = 'Bucuresti S.1' 
-        Year::Month::Day = 1890::'February'::17
-        
-        Cnp = '2170614390697' Region = 'Vrancea' 
-        Year::Month::Day = 1917::'June'::14
-        
-        Cnp = '8271008105601' Region = 'Buzau' 
-        Year::Month::Day = 1927::'October'::8
-        
-        Cnp = '1390425070830' Region = 'Botosani' 
-        Year::Month::Day = 1939::'April'::25
-        
-        Cnp = '1680529084478' Region = 'Brasov' 
-        Year::Month::Day = 1968::'May'::29
-        
-        Cnp = '8060802143825' Region = 'Covasna' 
-        Year::Month::Day = 1906::'August'::2
-        
-        Cnp = '7620522147164' Region = 'Covasna' 
-        Year::Month::Day = 1962::'May'::22
-        
-        Cnp = '7640717216263' Region = 'Ialomita' 
-        Year::Month::Day = 1964::'July'::17
-        
-        Cnp = '3691204234419' Region = 'Ilfov' 
-        Year::Month::Day = 1869::'December'::4
-        
-        Cnp = '8240426196185' Region = 'Harghita' 
-        Year::Month::Day = 1924::'April'::26
-        
-        Cnp = '3100628114831' Region = 'Caras-Severin' 
-        Year::Month::Day = 1810::'June'::28
-        
-        Cnp = '1481021036158' Region = 'Arges' 
-        Year::Month::Day = 1948::'October'::21
-        
-        Cnp = '2520719399150' Region = 'Vrancea' 
-        Year::Month::Day = 1952::'July'::19
-        
-        Cnp = '9041130237266' Region = 'Ilfov' 
-        Year::Month::Day = 1904::'November'::30
-        
-        Cnp = '7341106164791' Region = 'Dolj' 
-        Year::Month::Day = 1934::'November'::6
-        
-        Cnp = '1561122083737' Region = 'Brasov' 
-        Year::Month::Day = 1956::'November'::22
-        
-        Cnp = '3520717375411' Region = 'Vaslui' 
-        Year::Month::Day = 1852::'July'::17
-        
-        Cnp = '2930212031501' Region = 'Arges' 
-        Year::Month::Day = 1993::'February'::12
-        
-        Cnp = '9010218042643' Region = 'Bacau' 
-        Year::Month::Day = 1901::'February'::18
-        
-        Cnp = '3811111222971' Region = 'Iasi' 
-        Year::Month::Day = 1881::'November'::11
-        
-        Cnp = '4111226462273' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1811::'December'::26
-        
-        Cnp = '9111118138645' Region = 'Constanta' 
-        Year::Month::Day = 1911::'November'::18
-        
-        Cnp = '2820625332269' Region = 'Suceava' 
-        Year::Month::Day = 1982::'June'::25
-        
-        Cnp = '7600129172093' Region = 'Galati' 
-        Year::Month::Day = 1960::'January'::29
-        
-        Cnp = '1591227436154' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1959::'December'::27
-        
-        Cnp = '3280424265766' Region = 'Mures' 
-        Year::Month::Day = 1828::'April'::24
-        
-        Cnp = '3390206072103' Region = 'Botosani' 
-        Year::Month::Day = 1839::'February'::6
-        
-        Cnp = '3330315014418' Region = 'Alba' 
-        Year::Month::Day = 1833::'March'::15
-        
-        Cnp = '1110618161815' Region = 'Dolj' 
-        Year::Month::Day = 1911::'June'::18
-        
-        Cnp = '8100120057128' Region = 'Bihor' 
-        Year::Month::Day = 1910::'January'::20
-        
-        Cnp = '8281108343198' Region = 'Teleorman' 
-        Year::Month::Day = 1928::'November'::8
-        
-        Cnp = '8470108295365' Region = 'Prahova' 
-        Year::Month::Day = 1947::'January'::8
-        
-        Cnp = '4080727033399' Region = 'Arges' 
-        Year::Month::Day = 1808::'July'::27
-        
-        Cnp = '8360206102582' Region = 'Buzau' 
-        Year::Month::Day = 1936::'February'::6
-        
-        Cnp = '4921012280115' Region = 'Olt' 
-        Year::Month::Day = 1892::'October'::12
-        
-        Cnp = '3191006202962' Region = 'Hunedoara' 
-        Year::Month::Day = 1819::'October'::6
-        
-        Cnp = '8480214232901' Region = 'Ilfov' 
-        Year::Month::Day = 1948::'February'::14
-        
-        Cnp = '2101109378084' Region = 'Vaslui' 
-        Year::Month::Day = 1910::'November'::9
-        
-        Cnp = '2831106014486' Region = 'Alba' 
-        Year::Month::Day = 1983::'November'::6
-        
-        Cnp = '4960729176837' Region = 'Galati' 
-        Year::Month::Day = 1896::'July'::29
-        
-        Cnp = '1710330415373' Region = 'Bucuresti S.1' 
-        Year::Month::Day = 1971::'March'::30
-        
-        Cnp = '8350914457011' Region = 'Bucuresti S.5' 
-        Year::Month::Day = 1935::'September'::14
-        
-        Cnp = '1961225403179' Region = 'Bucuresti' 
-        Year::Month::Day = 1996::'December'::25
-        
-        Cnp = '7960521310280' Region = 'Salaj' 
-        Year::Month::Day = 1996::'May'::21
-        
-        Cnp = '2120601109117' Region = 'Buzau' 
-        Year::Month::Day = 1912::'June'::1
-        
-        Cnp = '6170119431502' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 2017::'January'::19
-        
-        Cnp = '4770223130581' Region = 'Constanta' 
-        Year::Month::Day = 1877::'February'::23
-        
-        Cnp = '4440813318709' Region = 'Salaj' 
-        Year::Month::Day = 1844::'August'::13
-        
-        Cnp = '7731027039361' Region = 'Arges' 
-        Year::Month::Day = 1973::'October'::27
-        
-        Cnp = '3111128223410' Region = 'Iasi' 
-        Year::Month::Day = 1811::'November'::28
-        
-        Cnp = '2951118247590' Region = 'Maramures' 
-        Year::Month::Day = 1995::'November'::18
-        
-        Cnp = '9880131199977' Region = 'Harghita' 
-        Year::Month::Day = 1988::'January'::31
-        
-        Cnp = '4410819451621' Region = 'Bucuresti S.5' 
-        Year::Month::Day = 1841::'August'::19
-        
-        Cnp = '2950228359068' Region = 'Timis' 
-        Year::Month::Day = 1995::'February'::28
-        
-        Cnp = '2690225241972' Region = 'Maramures' 
-        Year::Month::Day = 1969::'February'::25
-        
-        Cnp = '2960919246213' Region = 'Maramures' 
-        Year::Month::Day = 1996::'September'::19
-        
-        Cnp = '8520527057983' Region = 'Bihor' 
-        Year::Month::Day = 1952::'May'::27
-        
-        Cnp = '2050430047331' Region = 'Bacau' 
-        Year::Month::Day = 1905::'April'::30
-        
-        Cnp = '3590401066505' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 1859::'April'::1
-        
-        Cnp = '2190101254601' Region = 'Mehedinti' 
-        Year::Month::Day = 1919::'January'::1
-        
-        Cnp = '9260122412358' Region = 'Bucuresti S.1' 
-        Year::Month::Day = 1926::'January'::22
-        
-        Cnp = '9780803115283' Region = 'Caras-Severin' 
-        Year::Month::Day = 1978::'August'::3
-        
-        Cnp = '5091008524406' Region = 'Giurgiu' 
-        Year::Month::Day = 2009::'October'::8
-        
-        Cnp = '7740729357952' Region = 'Timis' 
-        Year::Month::Day = 1974::'July'::29
-        
-        Cnp = '6160901213637' Region = 'Ialomita' 
-        Year::Month::Day = 2016::'September'::1
-        
-        Cnp = '7421130278131' Region = 'Neamt' 
-        Year::Month::Day = 1942::'November'::30
-        
-        Cnp = '3421128031826' Region = 'Arges' 
-        Year::Month::Day = 1842::'November'::28
-        
-        Cnp = '4280328433891' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1828::'March'::28
-        
-        Cnp = '8340309288717' Region = 'Olt' 
-        Year::Month::Day = 1934::'March'::9
-        
-        Cnp = '2521224200431' Region = 'Hunedoara' 
-        Year::Month::Day = 1952::'December'::24
-        
-        Cnp = '2800220409788' Region = 'Bucuresti' 
-        Year::Month::Day = 1980::'February'::20
-        
-        Cnp = '9800913097010' Region = 'Braila' 
-        Year::Month::Day = 1980::'September'::13
-        
-        Cnp = '5091228145277' Region = 'Covasna' 
-        Year::Month::Day = 2009::'December'::28
-        
-        Cnp = '2681011306415' Region = 'Satu Mare' 
-        Year::Month::Day = 1968::'October'::11
-        
-        Cnp = '9920509361627' Region = 'Tulcea' 
-        Year::Month::Day = 1992::'May'::9
-        
-        Cnp = '7900904330771' Region = 'Suceava' 
-        Year::Month::Day = 1990::'September'::4
-        
-        Cnp = '5130118060697' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 2013::'January'::18
-        
-        Cnp = '8340210141793' Region = 'Covasna' 
-        Year::Month::Day = 1934::'February'::10
-        
-        Cnp = '7351218083926' Region = 'Brasov' 
-        Year::Month::Day = 1935::'December'::18
-        
-        Cnp = '1971102525134' Region = 'Giurgiu' 
-        Year::Month::Day = 1997::'November'::2
-        
-        Cnp = '6050507038057' Region = 'Arges' 
-        Year::Month::Day = 2005::'May'::7
-        
-        Cnp = '3190524437156' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1819::'May'::24
-        
-        Cnp = '9600124061807' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 1960::'January'::24
-        
-        Cnp = '8151103078221' Region = 'Botosani' 
-        Year::Month::Day = 1915::'November'::3
-        
-        Cnp = '2760729117951' Region = 'Caras-Severin' 
-        Year::Month::Day = 1976::'July'::29
-        
-        Cnp = '1050720426396' Region = 'Bucuresti S.2' 
-        Year::Month::Day = 1905::'July'::20
-        
-        Cnp = '6121002032743' Region = 'Arges' 
-        Year::Month::Day = 2012::'October'::2
-        
-        Cnp = '3620227457400' Region = 'Bucuresti S.5' 
-        Year::Month::Day = 1862::'February'::27
-        
-        Cnp = '6090704283751' Region = 'Olt' 
-        Year::Month::Day = 2009::'July'::4
-        
-        Cnp = '4760219119525' Region = 'Caras-Severin' 
-        Year::Month::Day = 1876::'February'::19
-        
-        Cnp = '4370718338533' Region = 'Suceava' 
-        Year::Month::Day = 1837::'July'::18
-        
-        Cnp = '4990515111624' Region = 'Caras-Severin' 
-        Year::Month::Day = 1899::'May'::15
-        
-        Cnp = '4340522417037' Region = 'Bucuresti S.1' 
-        Year::Month::Day = 1834::'May'::22
-        
-        Cnp = '9351030053305' Region = 'Bihor' 
-        Year::Month::Day = 1935::'October'::30
-        
-        Cnp = '9880529329968' Region = 'Sibiu' 
-        Year::Month::Day = 1988::'May'::29
-        
-        Cnp = '9580731148496' Region = 'Covasna' 
-        Year::Month::Day = 1958::'July'::31
-        
-        Cnp = '9200514048181' Region = 'Bacau' 
-        Year::Month::Day = 1920::'May'::14
-        
-        Cnp = '5130308466284' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 2013::'March'::8
-        
-        Cnp = '1960930440056' Region = 'Bucuresti S.4' 
-        Year::Month::Day = 1996::'September'::30
-        
-        Cnp = '1640620064904' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 1964::'June'::20
-        
-        Cnp = '3561110169175' Region = 'Dolj' 
-        Year::Month::Day = 1856::'November'::10
-        
-        Cnp = '9170724526778' Region = 'Giurgiu' 
-        Year::Month::Day = 1917::'July'::24
-        
-        Cnp = '4330718433528' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1833::'July'::18
-        
-        Cnp = '7110920314974' Region = 'Salaj' 
-        Year::Month::Day = 1911::'September'::20
-        
-        Cnp = '3100724452606' Region = 'Bucuresti S.5' 
-        Year::Month::Day = 1810::'July'::24
-        
-        Cnp = '2720408513787' Region = 'Calarasi' 
-        Year::Month::Day = 1972::'April'::8
-        
-        Cnp = '8360716182787' Region = 'Gorj' 
-        Year::Month::Day = 1936::'July'::16
-        
-        Cnp = '1881023106442' Region = 'Buzau' 
-        Year::Month::Day = 1988::'October'::23
-        
-        Cnp = '8880721319526' Region = 'Salaj' 
-        Year::Month::Day = 1988::'July'::21
-        
-        Cnp = '4160316390734' Region = 'Vrancea' 
-        Year::Month::Day = 1816::'March'::16
-        
-        Cnp = '4390723467894' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1839::'July'::23
-        
-        Cnp = '1140529118570' Region = 'Caras-Severin' 
-        Year::Month::Day = 1914::'May'::29
-        
-        Cnp = '3440110444075' Region = 'Bucuresti S.4' 
-        Year::Month::Day = 1844::'January'::10
-        
-        Cnp = '9590330321544' Region = 'Sibiu' 
-        Year::Month::Day = 1959::'March'::30
-        
-        Cnp = '4660503448900' Region = 'Bucuresti S.4' 
-        Year::Month::Day = 1866::'May'::3
-        
-        Cnp = '9390207378961' Region = 'Vaslui' 
-        Year::Month::Day = 1939::'February'::7
-        
-        Cnp = '5200401025564' Region = 'Arad' 
-        Year::Month::Day = 2020::'April'::1
-        
-        Cnp = '3281021245524' Region = 'Maramures' 
-        Year::Month::Day = 1828::'October'::21
-        
-        Cnp = '3620930036311' Region = 'Arges' 
-        Year::Month::Day = 1862::'September'::30
-        
-        Cnp = '4740410077551' Region = 'Botosani' 
-        Year::Month::Day = 1874::'April'::10
-        
-        Cnp = '4531131515306' Region = 'Calarasi' 
-        Year::Month::Day = 1853::'November'::31
-        
-        Cnp = '6091212040513' Region = 'Bacau' 
-        Year::Month::Day = 2009::'December'::12
-        
-        Cnp = '4001123146401' Region = 'Covasna' 
-        Year::Month::Day = 1800::'November'::23
-        
-        Cnp = '3740220378748' Region = 'Vaslui' 
-        Year::Month::Day = 1874::'February'::20
-        
-        Cnp = '4921007270263' Region = 'Neamt' 
-        Year::Month::Day = 1892::'October'::7
-        
-        Cnp = '9000204420032' Region = 'Bucuresti S.2' 
-        Year::Month::Day = 1900::'February'::4
-        
-        Cnp = '2900228265193' Region = 'Mures' 
-        Year::Month::Day = 1990::'February'::28
-        
-        Cnp = '1560310325293' Region = 'Sibiu' 
-        Year::Month::Day = 1956::'March'::10
-        
-        Cnp = '4890612364085' Region = 'Tulcea' 
-        Year::Month::Day = 1889::'June'::12
-        
-        Cnp = '8550218166538' Region = 'Dolj' 
-        Year::Month::Day = 1955::'February'::18
-        
-        Cnp = '8820727051401' Region = 'Bihor' 
-        Year::Month::Day = 1982::'July'::27
-        
-        Cnp = '8461221304600' Region = 'Satu Mare' 
-        Year::Month::Day = 1946::'December'::21
-        
-        Cnp = '4970810207172' Region = 'Hunedoara' 
-        Year::Month::Day = 1897::'August'::10
-        
-        Cnp = '6090207119106' Region = 'Caras-Severin' 
-        Year::Month::Day = 2009::'February'::7
-        
-        Cnp = '2830214187033' Region = 'Gorj' 
-        Year::Month::Day = 1983::'February'::14
-        
-        Cnp = '1990222332858' Region = 'Suceava' 
-        Year::Month::Day = 1999::'February'::22
-        
-        Cnp = '1470508439773' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1947::'May'::8
-        
-        Cnp = '9871226512493' Region = 'Calarasi' 
-        Year::Month::Day = 1987::'December'::26
-        
-        Cnp = '3090318448165' Region = 'Bucuresti S.4' 
-        Year::Month::Day = 1809::'March'::18
-        
-        Cnp = '2060228334989' Region = 'Suceava' 
-        Year::Month::Day = 1906::'February'::28
-        
-        Cnp = '4230126050221' Region = 'Bihor' 
-        Year::Month::Day = 1823::'January'::26
-        
-        Cnp = '4230904457171' Region = 'Bucuresti S.5' 
-        Year::Month::Day = 1823::'September'::4
-        
-        Cnp = '8060301515904' Region = 'Calarasi' 
-        Year::Month::Day = 1906::'March'::1
-        
-        Cnp = '3920822244780' Region = 'Maramures' 
-        Year::Month::Day = 1892::'August'::22
-        
-        Cnp = '9761125425191' Region = 'Bucuresti S.2' 
-        Year::Month::Day = 1976::'November'::25
-        
-        Cnp = '9640818055894' Region = 'Bihor' 
-        Year::Month::Day = 1964::'August'::18
-        
-        Cnp = '1551215102764' Region = 'Buzau' 
-        Year::Month::Day = 1955::'December'::15
-        
-        Cnp = '1591108344274' Region = 'Teleorman' 
-        Year::Month::Day = 1959::'November'::8
-        
-        Cnp = '8050629129703' Region = 'Cluj' 
-        Year::Month::Day = 1905::'June'::29
-        
-        Cnp = '8270128351564' Region = 'Timis' 
-        Year::Month::Day = 1927::'January'::28
-        
-        Cnp = '2511022251199' Region = 'Mehedinti' 
-        Year::Month::Day = 1951::'October'::22
-        
-        Cnp = '5070820048061' Region = 'Bacau' 
-        Year::Month::Day = 2007::'August'::20
-        
-        Cnp = '3860214195359' Region = 'Harghita' 
-        Year::Month::Day = 1886::'February'::14
-        
-        Cnp = '2180911225271' Region = 'Iasi' 
-        Year::Month::Day = 1918::'September'::11
-        
-        Cnp = '1530217385159' Region = 'Valcea' 
-        Year::Month::Day = 1953::'February'::17
-        
-        Cnp = '1390916279989' Region = 'Neamt' 
-        Year::Month::Day = 1939::'September'::16
-        
-        Cnp = '2821218463581' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1982::'December'::18
-        
-        Cnp = '1460628010244' Region = 'Alba' 
-        Year::Month::Day = 1946::'June'::28
-        
-        Cnp = '5070127122302' Region = 'Cluj' 
-        Year::Month::Day = 2007::'January'::27
-        
-        Cnp = '9170616347941' Region = 'Teleorman' 
-        Year::Month::Day = 1917::'June'::16
-        
-        Cnp = '7590828441464' Region = 'Bucuresti S.4' 
-        Year::Month::Day = 1959::'August'::28
-        
-        Cnp = '1150416153889' Region = 'Dambovita' 
-        Year::Month::Day = 1915::'April'::16
-        
-        Cnp = '3430422323107' Region = 'Sibiu' 
-        Year::Month::Day = 1843::'April'::22
-        
-        Cnp = '8271102020781' Region = 'Arad' 
-        Year::Month::Day = 1927::'November'::2
-        
-        Cnp = '7551028399101' Region = 'Vrancea' 
-        Year::Month::Day = 1955::'October'::28
-        
-        Cnp = '3250126233189' Region = 'Ilfov' 
-        Year::Month::Day = 1825::'January'::26
-        
-        Cnp = '2840520120305' Region = 'Cluj' 
-        Year::Month::Day = 1984::'May'::20
-        
-        Cnp = '4120630355112' Region = 'Timis' 
-        Year::Month::Day = 1812::'June'::30
-        
-        Cnp = '9020215190501' Region = 'Harghita' 
-        Year::Month::Day = 1902::'February'::15
-        
-        Cnp = '7000108517095' Region = 'Calarasi' 
-        Year::Month::Day = 1900::'January'::8
-        
-        Cnp = '9500107418521' Region = 'Bucuresti S.1' 
-        Year::Month::Day = 1950::'January'::7
-        
-        Cnp = '4860113303231' Region = 'Satu Mare' 
-        Year::Month::Day = 1886::'January'::13
-        
-        Cnp = '3340820175416' Region = 'Galati' 
-        Year::Month::Day = 1834::'August'::20
-        
-        Cnp = '4170926176931' Region = 'Galati' 
-        Year::Month::Day = 1817::'September'::26
-        
-        Cnp = '1411105120783' Region = 'Cluj' 
-        Year::Month::Day = 1941::'November'::5
-        
-        Cnp = '1480512403970' Region = 'Bucuresti' 
-        Year::Month::Day = 1948::'May'::12
-        
-        Cnp = '9440629301024' Region = 'Satu Mare' 
-        Year::Month::Day = 1944::'June'::29
-        
-        Cnp = '4721224120366' Region = 'Cluj' 
-        Year::Month::Day = 1872::'December'::24
-        
-        Cnp = '8701102123194' Region = 'Cluj' 
-        Year::Month::Day = 1970::'November'::2
-        
-        Cnp = '3471023273151' Region = 'Neamt' 
-        Year::Month::Day = 1847::'October'::23
-        
-        Cnp = '1740418253491' Region = 'Mehedinti' 
-        Year::Month::Day = 1974::'April'::18
-        
-        Cnp = '1521119463555' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1952::'November'::19
-        
-        Cnp = '7580407444295' Region = 'Bucuresti S.4' 
-        Year::Month::Day = 1958::'April'::7
-        
-        Cnp = '7361017513862' Region = 'Calarasi' 
-        Year::Month::Day = 1936::'October'::17
-        
-        Cnp = '2121008087141' Region = 'Brasov' 
-        Year::Month::Day = 1912::'October'::8
-        
-        Cnp = '3970501094039' Region = 'Braila' 
-        Year::Month::Day = 1897::'May'::1
-        
-        Cnp = '7280520149828' Region = 'Covasna' 
-        Year::Month::Day = 1928::'May'::20
-        
-        Cnp = '6190115221376' Region = 'Iasi' 
-        Year::Month::Day = 2019::'January'::15
-        
-        Cnp = '4330718463361' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1833::'July'::18
-        
-        Cnp = '8711117427109' Region = 'Bucuresti S.2' 
-        Year::Month::Day = 1971::'November'::17
-        
-        Cnp = '9590311340241' Region = 'Teleorman' 
-        Year::Month::Day = 1959::'March'::11
-        
-        Cnp = '1120814168513' Region = 'Dolj' 
-        Year::Month::Day = 1912::'August'::14
-        
-        Cnp = '2470326103558' Region = 'Buzau' 
-        Year::Month::Day = 1947::'March'::26
-        
-        Cnp = '8290608512051' Region = 'Calarasi' 
-        Year::Month::Day = 1929::'June'::8
-        
-        Cnp = '3460908375543' Region = 'Vaslui' 
-        Year::Month::Day = 1846::'September'::8
-        
-        Cnp = '9550124354221' Region = 'Timis' 
-        Year::Month::Day = 1955::'January'::24
-        
-        Cnp = '4180131522021' Region = 'Giurgiu' 
-        Year::Month::Day = 1818::'January'::31
-        
-        Cnp = '2090219100974' Region = 'Buzau' 
-        Year::Month::Day = 1909::'February'::19
-        
-        Cnp = '9281028298577' Region = 'Prahova' 
-        Year::Month::Day = 1928::'October'::28
-        
-        Cnp = '2421224257645' Region = 'Mehedinti' 
-        Year::Month::Day = 1942::'December'::24
-        
-        Cnp = '2880927039212' Region = 'Arges' 
-        Year::Month::Day = 1988::'September'::27
-        
-        Cnp = '9330618356799' Region = 'Timis' 
-        Year::Month::Day = 1933::'June'::18
-        
-        Cnp = '2870809154450' Region = 'Dambovita' 
-        Year::Month::Day = 1987::'August'::9
-        
-        Cnp = '1521002074881' Region = 'Botosani' 
-        Year::Month::Day = 1952::'October'::2
-        
-        Cnp = '3260705013608' Region = 'Alba' 
-        Year::Month::Day = 1826::'July'::5
-        
-        Cnp = '8980116097589' Region = 'Braila' 
-        Year::Month::Day = 1998::'January'::16
-        
-        Cnp = '1610603404020' Region = 'Bucuresti' 
-        Year::Month::Day = 1961::'June'::3
-        
-        Cnp = '7870719143444' Region = 'Covasna' 
-        Year::Month::Day = 1987::'July'::19
-        
-        Cnp = '2820726018014' Region = 'Alba' 
-        Year::Month::Day = 1982::'July'::26
-        
-        Cnp = '9411005227546' Region = 'Iasi' 
-        Year::Month::Day = 1941::'October'::5
-        
-        Cnp = '7020704032503' Region = 'Arges' 
-        Year::Month::Day = 1902::'July'::4
-        
-        Cnp = '1380122053009' Region = 'Bihor' 
-        Year::Month::Day = 1938::'January'::22
-        
-        Cnp = '2540102378170' Region = 'Vaslui' 
-        Year::Month::Day = 1954::'January'::2
-        
-        Cnp = '2810209438747' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1981::'February'::9
-        
-        Cnp = '3190824433256' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1819::'August'::24
-        
-        Cnp = '1190511428681' Region = 'Bucuresti S.2' 
-        Year::Month::Day = 1919::'May'::11
-        
-        Cnp = '7180510212121' Region = 'Ialomita' 
-        Year::Month::Day = 1918::'May'::10
-        
-        Cnp = '4320812381365' Region = 'Valcea' 
-        Year::Month::Day = 1832::'August'::12
-        
-        Cnp = '2371004145611' Region = 'Covasna' 
-        Year::Month::Day = 1937::'October'::4
-        
-        Cnp = '4150706433264' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1815::'July'::6
-        
-        Cnp = '3341223017187' Region = 'Alba' 
-        Year::Month::Day = 1834::'December'::23
-        
-        Cnp = '2300218052200' Region = 'Bihor' 
-        Year::Month::Day = 1930::'February'::18
-        
-        Cnp = '9980228147348' Region = 'Covasna' 
-        Year::Month::Day = 1998::'February'::28
-        
-        Cnp = '7090414259210' Region = 'Mehedinti' 
-        Year::Month::Day = 1909::'April'::14
-        
-        Cnp = '2490325205779' Region = 'Hunedoara' 
-        Year::Month::Day = 1949::'March'::25
-        
-        Cnp = '5200706406513' Region = 'Bucuresti' 
-        Year::Month::Day = 2020::'July'::6
-        
-        Cnp = '8891209136376' Region = 'Constanta' 
-        Year::Month::Day = 1989::'December'::9
-        
-        Cnp = '9390614435971' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1939::'June'::14
-        
-        Cnp = '4230703180896' Region = 'Gorj' 
-        Year::Month::Day = 1823::'July'::3
-        
-        Cnp = '9310201250511' Region = 'Mehedinti' 
-        Year::Month::Day = 1931::'February'::1
-        
-        Cnp = '8860730217188' Region = 'Ialomita' 
-        Year::Month::Day = 1986::'July'::30
-        
-        Cnp = '3680816012773' Region = 'Alba' 
-        Year::Month::Day = 1868::'August'::16
-        
-        Cnp = '8131016513637' Region = 'Calarasi' 
-        Year::Month::Day = 1913::'October'::16
-        
-        Cnp = '9860708362814' Region = 'Tulcea' 
-        Year::Month::Day = 1986::'July'::8
-        
-        Cnp = '5100215101658' Region = 'Buzau' 
-        Year::Month::Day = 2010::'February'::15
-        
-        Cnp = '7350410080845' Region = 'Brasov' 
-        Year::Month::Day = 1935::'April'::10
-        
-        Cnp = '8551122330768' Region = 'Suceava' 
-        Year::Month::Day = 1955::'November'::22
-        
-        Cnp = '3550112264185' Region = 'Mures' 
-        Year::Month::Day = 1855::'January'::12
-        
-        Cnp = '9630501448002' Region = 'Bucuresti S.4' 
-        Year::Month::Day = 1963::'May'::1
-        
-        Cnp = '1370607285508' Region = 'Olt' 
-        Year::Month::Day = 1937::'June'::7
-        
-        Cnp = '9500729085891' Region = 'Brasov' 
-        Year::Month::Day = 1950::'July'::29
-        
-        Cnp = '3731216310903' Region = 'Salaj' 
-        Year::Month::Day = 1873::'December'::16
-        
-        Cnp = '2620830436822' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1962::'August'::30
-        
-        Cnp = '4630114046211' Region = 'Bacau' 
-        Year::Month::Day = 1863::'January'::14
-        
-        Cnp = '9941209397706' Region = 'Vrancea' 
-        Year::Month::Day = 1994::'December'::9
-        
-        Cnp = '1750819364060' Region = 'Tulcea' 
-        Year::Month::Day = 1975::'August'::19
-        
-        Cnp = '2261121191380' Region = 'Harghita' 
-        Year::Month::Day = 1926::'November'::21
-        
-        Cnp = '2760523313909' Region = 'Salaj' 
-        Year::Month::Day = 1976::'May'::23
-        
-        Cnp = '1221102289427' Region = 'Olt' 
-        Year::Month::Day = 1922::'November'::2
-        
-        Cnp = '3931110328731' Region = 'Sibiu' 
-        Year::Month::Day = 1893::'November'::10
-        
-        Cnp = '8230915059672' Region = 'Bihor' 
-        Year::Month::Day = 1923::'September'::15
-        
-        Cnp = '2430618285691' Region = 'Olt' 
-        Year::Month::Day = 1943::'June'::18
-        
-        Cnp = '4730923022234' Region = 'Arad' 
-        Year::Month::Day = 1873::'September'::23
-        
-        Cnp = '1760621277856' Region = 'Neamt' 
-        Year::Month::Day = 1976::'June'::21
-        
-        Cnp = '9390510451114' Region = 'Bucuresti S.5' 
-        Year::Month::Day = 1939::'May'::10
-        
-        Cnp = '8771216388716' Region = 'Valcea' 
-        Year::Month::Day = 1977::'December'::16
-        
-        Cnp = '3010815249912' Region = 'Maramures' 
-        Year::Month::Day = 1801::'August'::15
-        
-        Cnp = '3251007046341' Region = 'Bacau' 
-        Year::Month::Day = 1825::'October'::7
-        
-        Cnp = '1361218192560' Region = 'Harghita' 
-        Year::Month::Day = 1936::'December'::18
-        
-        Cnp = '2250112468850' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1925::'January'::12
-        
-        Cnp = '5170819244673' Region = 'Maramures' 
-        Year::Month::Day = 2017::'August'::19
-        
-        Cnp = '2690214312469' Region = 'Salaj' 
-        Year::Month::Day = 1969::'February'::14
-        
-        Cnp = '3490623465391' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1849::'June'::23
-        
-        Cnp = '9031006248976' Region = 'Maramures' 
-        Year::Month::Day = 1903::'October'::6
-        
-        Cnp = '6040228045854' Region = 'Bacau' 
-        Year::Month::Day = 2004::'February'::28
-        
-        Cnp = '3780607220780' Region = 'Iasi' 
-        Year::Month::Day = 1878::'June'::7
-        
-        Cnp = '1200909460831' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1920::'September'::9
-        
-        Cnp = '7971010309231' Region = 'Satu Mare' 
-        Year::Month::Day = 1997::'October'::10
-        
-        Cnp = '7030720169455' Region = 'Dolj' 
-        Year::Month::Day = 1903::'July'::20
-        
-        Cnp = '4410320118173' Region = 'Caras-Severin' 
-        Year::Month::Day = 1841::'March'::20
-        
-        Cnp = '3211109517754' Region = 'Calarasi' 
-        Year::Month::Day = 1821::'November'::9
-        
-        Cnp = '6090221445539' Region = 'Bucuresti S.4' 
-        Year::Month::Day = 2009::'February'::21
-        
-        Cnp = '4960921526367' Region = 'Giurgiu' 
-        Year::Month::Day = 1896::'September'::21
-        
-        Cnp = '9111012218071' Region = 'Ialomita' 
-        Year::Month::Day = 1911::'October'::12
-        
-        Cnp = '3800221174190' Region = 'Galati' 
-        Year::Month::Day = 1880::'February'::21
-        
-        Cnp = '8780817204267' Region = 'Hunedoara' 
-        Year::Month::Day = 1978::'August'::17
-        
-        Cnp = '2390807247532' Region = 'Maramures' 
-        Year::Month::Day = 1939::'August'::7
-        
-        Cnp = '7461221341231' Region = 'Teleorman' 
-        Year::Month::Day = 1946::'December'::21
-        
-        Cnp = '8160415245802' Region = 'Maramures' 
-        Year::Month::Day = 1916::'April'::15
-        
-        Cnp = '7110424084894' Region = 'Brasov' 
-        Year::Month::Day = 1911::'April'::24
-        
-        Cnp = '2590724132728' Region = 'Constanta' 
-        Year::Month::Day = 1959::'July'::24
-        
-        Cnp = '6131208155088' Region = 'Dambovita' 
-        Year::Month::Day = 2013::'December'::8
-        
-        Cnp = '9420312234674' Region = 'Ilfov' 
-        Year::Month::Day = 1942::'March'::12
-        
-        Cnp = '9700226381755' Region = 'Valcea' 
-        Year::Month::Day = 1970::'February'::26
-        
-        Cnp = '4150726084812' Region = 'Brasov' 
-        Year::Month::Day = 1815::'July'::26
-        
-        Cnp = '5140312048872' Region = 'Bacau' 
-        Year::Month::Day = 2014::'March'::12
-        
-        Cnp = '4290107258306' Region = 'Mehedinti' 
-        Year::Month::Day = 1829::'January'::7
-        
-        Cnp = '2371002438546' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1937::'October'::2
-        
-        Cnp = '2720706366662' Region = 'Tulcea' 
-        Year::Month::Day = 1972::'July'::6
-        
-        Cnp = '2070514462482' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1907::'May'::14
-        
-        Cnp = '3480507529251' Region = 'Giurgiu' 
-        Year::Month::Day = 1848::'May'::7
-        
-        Cnp = '7150806345024' Region = 'Teleorman' 
-        Year::Month::Day = 1915::'August'::6
-        
-        Cnp = '3690701469450' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1869::'July'::1
-        
-        Cnp = '9830415435689' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1983::'April'::15
-        
-        Cnp = '1560713092845' Region = 'Braila' 
-        Year::Month::Day = 1956::'July'::13
-        
-        Cnp = '9441026308909' Region = 'Satu Mare' 
-        Year::Month::Day = 1944::'October'::26
-        
-        Cnp = '7071230041559' Region = 'Bacau' 
-        Year::Month::Day = 1907::'December'::30
-        
-        Cnp = '8491004269806' Region = 'Mures' 
-        Year::Month::Day = 1949::'October'::4
-        
-        Cnp = '7440126060559' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 1944::'January'::26
-        
-        Cnp = '8561004342039' Region = 'Teleorman' 
-        Year::Month::Day = 1956::'October'::4
-        
-        Cnp = '4070931184285' Region = 'Gorj' 
-        Year::Month::Day = 1807::'September'::31
-        
-        Cnp = '4391006310148' Region = 'Salaj' 
-        Year::Month::Day = 1839::'October'::6
-        
-        Cnp = '2290201054944' Region = 'Bihor' 
-        Year::Month::Day = 1929::'February'::1
-        
-        Cnp = '3790713148511' Region = 'Covasna' 
-        Year::Month::Day = 1879::'July'::13
-        
-        Cnp = '3280828455421' Region = 'Bucuresti S.5' 
-        Year::Month::Day = 1828::'August'::28
-        
-        Cnp = '7720417012768' Region = 'Alba' 
-        Year::Month::Day = 1972::'April'::17
-        
-        Cnp = '4421002381106' Region = 'Valcea' 
-        Year::Month::Day = 1842::'October'::2
-        
-        Cnp = '3070525269806' Region = 'Mures' 
-        Year::Month::Day = 1807::'May'::25
-        
-        Cnp = '5130430279200' Region = 'Neamt' 
-        Year::Month::Day = 2013::'April'::30
-        
-        Cnp = '3480910286353' Region = 'Olt' 
-        Year::Month::Day = 1848::'September'::10
-        
-        Cnp = '3300105219574' Region = 'Ialomita' 
-        Year::Month::Day = 1830::'January'::5
-        
-        Cnp = '8230601358300' Region = 'Timis' 
-        Year::Month::Day = 1923::'June'::1
-        
-        Cnp = '5020719119296' Region = 'Caras-Severin' 
-        Year::Month::Day = 2002::'July'::19
-        
-        Cnp = '3190802254611' Region = 'Mehedinti' 
-        Year::Month::Day = 1819::'August'::2
-        
-        Cnp = '4430623434292' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1843::'June'::23
-        
-        Cnp = '7040720166896' Region = 'Dolj' 
-        Year::Month::Day = 1904::'July'::20
-        
-        Cnp = '9880108357167' Region = 'Timis' 
-        Year::Month::Day = 1988::'January'::8
-        
-        Cnp = '7250815368568' Region = 'Tulcea' 
-        Year::Month::Day = 1925::'August'::15
-        
-        Cnp = '4700211038880' Region = 'Arges' 
-        Year::Month::Day = 1870::'February'::11
-        
-        Cnp = '3891018145791' Region = 'Covasna' 
-        Year::Month::Day = 1889::'October'::18
-        
-        Cnp = '2280710385081' Region = 'Valcea' 
-        Year::Month::Day = 1928::'July'::10
-        
-        Cnp = '1370708351403' Region = 'Timis' 
-        Year::Month::Day = 1937::'July'::8
-        
-        Cnp = '1041108464529' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1904::'November'::8
-        
-        Cnp = '9090804053547' Region = 'Bihor' 
-        Year::Month::Day = 1909::'August'::4
-        
-        Cnp = '8381204362771' Region = 'Tulcea' 
-        Year::Month::Day = 1938::'December'::4
-        
-        Cnp = '8280604206399' Region = 'Hunedoara' 
-        Year::Month::Day = 1928::'June'::4
-        
-        Cnp = '2550620084136' Region = 'Brasov' 
-        Year::Month::Day = 1955::'June'::20
-        
-        Cnp = '9611205385794' Region = 'Valcea' 
-        Year::Month::Day = 1961::'December'::5
-        
-        Cnp = '9460818054791' Region = 'Bihor' 
-        Year::Month::Day = 1946::'August'::18
-        
-        Cnp = '4701119046584' Region = 'Bacau' 
-        Year::Month::Day = 1870::'November'::19
-        
-        Cnp = '9950112202942' Region = 'Hunedoara' 
-        Year::Month::Day = 1995::'January'::12
-        
-        Cnp = '8420210375353' Region = 'Vaslui' 
-        Year::Month::Day = 1942::'February'::10
-        
-        Cnp = '3970922269869' Region = 'Mures' 
-        Year::Month::Day = 1897::'September'::22
-        
-        Cnp = '9631123140015' Region = 'Covasna' 
-        Year::Month::Day = 1963::'November'::23
-        
-        Cnp = '9290917151847' Region = 'Dambovita' 
-        Year::Month::Day = 1929::'September'::17
-        
-        Cnp = '6010629073177' Region = 'Botosani' 
-        Year::Month::Day = 2001::'June'::29
-        
-        Cnp = '3030307293297' Region = 'Prahova' 
-        Year::Month::Day = 1803::'March'::7
-        
-        Cnp = '1951005406936' Region = 'Bucuresti' 
-        Year::Month::Day = 1995::'October'::5
-        
-        Cnp = '2940610019347' Region = 'Alba' 
-        Year::Month::Day = 1994::'June'::10
-        
-        Cnp = '3930223069477' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 1893::'February'::23
-        
-        Cnp = '1300904389548' Region = 'Valcea' 
-        Year::Month::Day = 1930::'September'::4
-        
-        Cnp = '5070709025491' Region = 'Arad' 
-        Year::Month::Day = 2007::'July'::9
-        
-        Cnp = '1001211342531' Region = 'Teleorman' 
-        Year::Month::Day = 1900::'December'::11
-        
-        Cnp = '6080627376311' Region = 'Vaslui' 
-        Year::Month::Day = 2008::'June'::27
-        
-        Cnp = '1071214234037' Region = 'Ilfov' 
-        Year::Month::Day = 1907::'December'::14
-        
-        Cnp = '2440824338732' Region = 'Suceava' 
-        Year::Month::Day = 1944::'August'::24
-        
-        Cnp = '7361208049357' Region = 'Bacau' 
-        Year::Month::Day = 1936::'December'::8
-        
-        Cnp = '2811131160822' Region = 'Dolj' 
-        Year::Month::Day = 1981::'November'::31
-        
-        Cnp = '4961129427798' Region = 'Bucuresti S.2' 
-        Year::Month::Day = 1896::'November'::29
-        
-        Cnp = '7580931347200' Region = 'Teleorman' 
-        Year::Month::Day = 1958::'September'::31
-        
-        Cnp = '3510218250171' Region = 'Mehedinti' 
-        Year::Month::Day = 1851::'February'::18
-        
-        Cnp = '1760326314723' Region = 'Salaj' 
-        Year::Month::Day = 1976::'March'::26
-        
-        Cnp = '2360317073282' Region = 'Botosani' 
-        Year::Month::Day = 1936::'March'::17
-        
-        Cnp = '9571202514680' Region = 'Calarasi' 
-        Year::Month::Day = 1957::'December'::2
-        
-        Cnp = '1240928436223' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1924::'September'::28
-        
-        Cnp = '2450714065857' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 1945::'July'::14
-        
-        Cnp = '3660811069141' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 1866::'August'::11
-        
-        Cnp = '7420923403799' Region = 'Bucuresti' 
-        Year::Month::Day = 1942::'September'::23
-        
-        Cnp = '1830108319924' Region = 'Salaj' 
-        Year::Month::Day = 1983::'January'::8
-        
-        Cnp = '3421004415266' Region = 'Bucuresti S.1' 
-        Year::Month::Day = 1842::'October'::4
-        
-        Cnp = '2130414378726' Region = 'Vaslui' 
-        Year::Month::Day = 1913::'April'::14
-        
-        Cnp = '4691021263109' Region = 'Mures' 
-        Year::Month::Day = 1869::'October'::21
-        
-        Cnp = '9060804098954' Region = 'Braila' 
-        Year::Month::Day = 1906::'August'::4
-        
-        Cnp = '7790403341914' Region = 'Teleorman' 
-        Year::Month::Day = 1979::'April'::3
-        
-        Cnp = '1890629515070' Region = 'Calarasi' 
-        Year::Month::Day = 1989::'June'::29
-        
-        Cnp = '6150629467051' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 2015::'June'::29
-        
-        Cnp = '8671106227251' Region = 'Iasi' 
-        Year::Month::Day = 1967::'November'::6
-        
-        Cnp = '4590316230971' Region = 'Ilfov' 
-        Year::Month::Day = 1859::'March'::16
-        
-        Cnp = '2451131153641' Region = 'Dambovita' 
-        Year::Month::Day = 1945::'November'::31
-        
-        Cnp = '4830103058495' Region = 'Bihor' 
-        Year::Month::Day = 1883::'January'::3
-        
-        Cnp = '4810616401510' Region = 'Bucuresti' 
-        Year::Month::Day = 1881::'June'::16
-        
-        Cnp = '2741220518494' Region = 'Calarasi' 
-        Year::Month::Day = 1974::'December'::20
-        
-        Cnp = '8970928044343' Region = 'Bacau' 
-        Year::Month::Day = 1997::'September'::28
-        
-        Cnp = '3240624142862' Region = 'Covasna' 
-        Year::Month::Day = 1824::'June'::24
-        
-        Cnp = '3330514399624' Region = 'Vrancea' 
-        Year::Month::Day = 1833::'May'::14
-        
-        Cnp = '9610811090110' Region = 'Braila' 
-        Year::Month::Day = 1961::'August'::11
-        
-        Cnp = '2051109467711' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1905::'November'::9
-        
-        Cnp = '3250206129260' Region = 'Cluj' 
-        Year::Month::Day = 1825::'February'::6
-        
-        Cnp = '5040206085273' Region = 'Brasov' 
-        Year::Month::Day = 2004::'February'::6
-        
-        Cnp = '1630621094062' Region = 'Braila' 
-        Year::Month::Day = 1963::'June'::21
-        
-        Cnp = '8930114267993' Region = 'Mures' 
-        Year::Month::Day = 1993::'January'::14
-        
-        Cnp = '8051128072681' Region = 'Botosani' 
-        Year::Month::Day = 1905::'November'::28
-        
-        Cnp = '7091126208221' Region = 'Hunedoara' 
-        Year::Month::Day = 1909::'November'::26
-        
-        Cnp = '3790201102741' Region = 'Buzau' 
-        Year::Month::Day = 1879::'February'::1
-        
-        Cnp = '3830116357616' Region = 'Timis' 
-        Year::Month::Day = 1883::'January'::16
-        
-        Cnp = '1780403449244' Region = 'Bucuresti S.4' 
-        Year::Month::Day = 1978::'April'::3
-        
-        Cnp = '3010502263014' Region = 'Mures' 
-        Year::Month::Day = 1801::'May'::2
-        
-        Cnp = '1040306204092' Region = 'Hunedoara' 
-        Year::Month::Day = 1904::'March'::6
-        
-        Cnp = '9370717404607' Region = 'Bucuresti' 
-        Year::Month::Day = 1937::'July'::17
-        
-        Cnp = '7290801388673' Region = 'Valcea' 
-        Year::Month::Day = 1929::'August'::1
-        
-        Cnp = '1200507373539' Region = 'Vaslui' 
-        Year::Month::Day = 1920::'May'::7
-        
-        Cnp = '2780404136680' Region = 'Constanta' 
-        Year::Month::Day = 1978::'April'::4
-        
-        Cnp = '5201220010447' Region = 'Alba' 
-        Year::Month::Day = 2020::'December'::20
-        
-        Cnp = '3280113104118' Region = 'Buzau' 
-        Year::Month::Day = 1828::'January'::13
-        
-        Cnp = '1230119026279' Region = 'Arad' 
-        Year::Month::Day = 1923::'January'::19
-        
-        Cnp = '2540225308211' Region = 'Satu Mare' 
-        Year::Month::Day = 1954::'February'::25
-        
-        Cnp = '9830531093035' Region = 'Braila' 
-        Year::Month::Day = 1983::'May'::31
-        
-        Cnp = '9130208321631' Region = 'Sibiu' 
-        Year::Month::Day = 1913::'February'::8
-        
-        Cnp = '3400403133681' Region = 'Constanta' 
-        Year::Month::Day = 1840::'April'::3
-        
-        Cnp = '1730112246937' Region = 'Maramures' 
-        Year::Month::Day = 1973::'January'::12
-        
-        Cnp = '7591126343236' Region = 'Teleorman' 
-        Year::Month::Day = 1959::'November'::26
-        
-        Cnp = '1620125442331' Region = 'Bucuresti S.4' 
-        Year::Month::Day = 1962::'January'::25
-        
-        Cnp = '9900407452161' Region = 'Bucuresti S.5' 
-        Year::Month::Day = 1990::'April'::7
-        
-        Cnp = '2010611214268' Region = 'Ialomita' 
-        Year::Month::Day = 1901::'June'::11
-        
-        Cnp = '7401211393333' Region = 'Vrancea' 
-        Year::Month::Day = 1940::'December'::11
-        
-        Cnp = '3060219130973' Region = 'Constanta' 
-        Year::Month::Day = 1806::'February'::19
-        
-        Cnp = '6020207033714' Region = 'Arges' 
-        Year::Month::Day = 2002::'February'::7
-        
-        Cnp = '1321009013831' Region = 'Alba' 
-        Year::Month::Day = 1932::'October'::9
-        
-        Cnp = '2370103075424' Region = 'Botosani' 
-        Year::Month::Day = 1937::'January'::3
-        
-        Cnp = '7970422121536' Region = 'Cluj' 
-        Year::Month::Day = 1997::'April'::22
-        
-        Cnp = '4210305451261' Region = 'Bucuresti S.5' 
-        Year::Month::Day = 1821::'March'::5
-        
-        Cnp = '8640110021386' Region = 'Arad' 
-        Year::Month::Day = 1964::'January'::10
-        
-        Cnp = '2260729107610' Region = 'Buzau' 
-        Year::Month::Day = 1926::'July'::29
-        
-        Cnp = '3650322268640' Region = 'Mures' 
-        Year::Month::Day = 1865::'March'::22
-        
-        Cnp = '7610407517380' Region = 'Calarasi' 
-        Year::Month::Day = 1961::'April'::7
-        
-        Cnp = '5180708384200' Region = 'Valcea' 
-        Year::Month::Day = 2018::'July'::8
-        
-        Cnp = '4130512205567' Region = 'Hunedoara' 
-        Year::Month::Day = 1813::'May'::12
-        
-        Cnp = '2920122156632' Region = 'Dambovita' 
-        Year::Month::Day = 1992::'January'::22
-        
-        Cnp = '8891025072210' Region = 'Botosani' 
-        Year::Month::Day = 1989::'October'::25
-        
-        Cnp = '2040704331449' Region = 'Suceava' 
-        Year::Month::Day = 1904::'July'::4
-        
-        Cnp = '7690814154586' Region = 'Dambovita' 
-        Year::Month::Day = 1969::'August'::14
-        
-        Cnp = '3740429166942' Region = 'Dolj' 
-        Year::Month::Day = 1874::'April'::29
-        
-        Cnp = '8660409246529' Region = 'Maramures' 
-        Year::Month::Day = 1966::'April'::9
-        
-        Cnp = '3720321104927' Region = 'Buzau' 
-        Year::Month::Day = 1872::'March'::21
-        
-        Cnp = '2230628021045' Region = 'Arad' 
-        Year::Month::Day = 1923::'June'::28
-        
-        Cnp = '1960715277348' Region = 'Neamt' 
-        Year::Month::Day = 1996::'July'::15
-        
-        Cnp = '8480327367277' Region = 'Tulcea' 
-        Year::Month::Day = 1948::'March'::27
-        
-        Cnp = '6190906014988' Region = 'Alba' 
-        Year::Month::Day = 2019::'September'::6
-        
-        Cnp = '4420304208320' Region = 'Hunedoara' 
-        Year::Month::Day = 1842::'March'::4
-        
-        Cnp = '7520210177774' Region = 'Galati' 
-        Year::Month::Day = 1952::'February'::10
-        
-        Cnp = '1830609442347' Region = 'Bucuresti S.4' 
-        Year::Month::Day = 1983::'June'::9
-        
-        Cnp = '7370522117068' Region = 'Caras-Severin' 
-        Year::Month::Day = 1937::'May'::22
-        
-        Cnp = '4980929170671' Region = 'Galati' 
-        Year::Month::Day = 1898::'September'::29
-        
-        Cnp = '4050422133327' Region = 'Constanta' 
-        Year::Month::Day = 1805::'April'::22
-        
-        Cnp = '3620228391626' Region = 'Vrancea' 
-        Year::Month::Day = 1862::'February'::28
-        
-        Cnp = '5180406385820' Region = 'Valcea' 
-        Year::Month::Day = 2018::'April'::6
-        
-        Cnp = '3080601116113' Region = 'Caras-Severin' 
-        Year::Month::Day = 1808::'June'::1
-        
-        Cnp = '9860823019199' Region = 'Alba' 
-        Year::Month::Day = 1986::'August'::23
-        
-        Cnp = '8241129269915' Region = 'Mures' 
-        Year::Month::Day = 1924::'November'::29
-        
-        Cnp = '1031025035371' Region = 'Arges' 
-        Year::Month::Day = 1903::'October'::25
-        
-        Cnp = '9070330344335' Region = 'Teleorman' 
-        Year::Month::Day = 1907::'March'::30
-        
-        Cnp = '3120328212520' Region = 'Ialomita' 
-        Year::Month::Day = 1812::'March'::28
-        
-        Cnp = '2331126365698' Region = 'Tulcea' 
-        Year::Month::Day = 1933::'November'::26
-        
-        Cnp = '4340617166179' Region = 'Dolj' 
-        Year::Month::Day = 1834::'June'::17
-        
-        Cnp = '8990501021812' Region = 'Arad' 
-        Year::Month::Day = 1999::'May'::1
-        
-        Cnp = '8270311443015' Region = 'Bucuresti S.4' 
-        Year::Month::Day = 1927::'March'::11
-        
-        Cnp = '9460227055241' Region = 'Bihor' 
-        Year::Month::Day = 1946::'February'::27
-        
-        Cnp = '4930513299661' Region = 'Prahova' 
-        Year::Month::Day = 1893::'May'::13
-        
-        Cnp = '2910331112021' Region = 'Caras-Severin' 
-        Year::Month::Day = 1991::'March'::31
-        
-        Cnp = '1440506192801' Region = 'Harghita' 
-        Year::Month::Day = 1944::'May'::6
-        
-        Cnp = '7680613122814' Region = 'Cluj' 
-        Year::Month::Day = 1968::'June'::13
-        
-        Cnp = '8760714269800' Region = 'Mures' 
-        Year::Month::Day = 1976::'July'::14
-        
-        Cnp = '3891126468164' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1889::'November'::26
-        
-        Cnp = '7650317296185' Region = 'Prahova' 
-        Year::Month::Day = 1965::'March'::17
-        
-        Cnp = '8080302247501' Region = 'Maramures' 
-        Year::Month::Day = 1908::'March'::2
-        
-        Cnp = '9330804273997' Region = 'Neamt' 
-        Year::Month::Day = 1933::'August'::4
-        
-        Cnp = '2861014183149' Region = 'Gorj' 
-        Year::Month::Day = 1986::'October'::14
-        
-        Cnp = '8460205252720' Region = 'Mehedinti' 
-        Year::Month::Day = 1946::'February'::5
-        
-        Cnp = '9330904270864' Region = 'Neamt' 
-        Year::Month::Day = 1933::'September'::4
-        
-        Cnp = '5090215083310' Region = 'Brasov' 
-        Year::Month::Day = 2009::'February'::15
-        
-        Cnp = '1790227200832' Region = 'Hunedoara' 
-        Year::Month::Day = 1979::'February'::27
-        
-        Cnp = '3260124302811' Region = 'Satu Mare' 
-        Year::Month::Day = 1826::'January'::24
-        
-        Cnp = '1090714314921' Region = 'Salaj' 
-        Year::Month::Day = 1909::'July'::14
-        
-        Cnp = '9200208294537' Region = 'Prahova' 
-        Year::Month::Day = 1920::'February'::8
-        
-        Cnp = '3961128029502' Region = 'Arad' 
-        Year::Month::Day = 1896::'November'::28
-        
-        Cnp = '3420226183123' Region = 'Gorj' 
-        Year::Month::Day = 1842::'February'::26
-        
-        Cnp = '5161221248501' Region = 'Maramures' 
-        Year::Month::Day = 2016::'December'::21
-        
-        Cnp = '1970627429771' Region = 'Bucuresti S.2' 
-        Year::Month::Day = 1997::'June'::27
-        
-        Cnp = '9151111428979' Region = 'Bucuresti S.2' 
-        Year::Month::Day = 1915::'November'::11
-        
-        Cnp = '1980922129431' Region = 'Cluj' 
-        Year::Month::Day = 1998::'September'::22
-        
-        Cnp = '3961228165879' Region = 'Dolj' 
-        Year::Month::Day = 1896::'December'::28
-        
-        Cnp = '8220128136999' Region = 'Constanta' 
-        Year::Month::Day = 1922::'January'::28
-        
-        Cnp = '9510725328050' Region = 'Sibiu' 
-        Year::Month::Day = 1951::'July'::25
-        
-        Cnp = '9990905122533' Region = 'Cluj' 
-        Year::Month::Day = 1999::'September'::5
-        
-        Cnp = '3110401099069' Region = 'Braila' 
-        Year::Month::Day = 1811::'April'::1
-        
-        Cnp = '9591010158401' Region = 'Dambovita' 
-        Year::Month::Day = 1959::'October'::10
-        
-        Cnp = '7510604075188' Region = 'Botosani' 
-        Year::Month::Day = 1951::'June'::4
-        
-        Cnp = '4071209035721' Region = 'Arges' 
-        Year::Month::Day = 1807::'December'::9
-        
-        Cnp = '2871123160047' Region = 'Dolj' 
-        Year::Month::Day = 1987::'November'::23
-        
-        Cnp = '2721110255827' Region = 'Mehedinti' 
-        Year::Month::Day = 1972::'November'::10
-        
-        Cnp = '9841116371371' Region = 'Vaslui' 
-        Year::Month::Day = 1984::'November'::16
-        
-        Cnp = '9530304339453' Region = 'Suceava' 
-        Year::Month::Day = 1953::'March'::4
-        
-        Cnp = '2241103378992' Region = 'Vaslui' 
-        Year::Month::Day = 1924::'November'::3
-        
-        Cnp = '9551127101676' Region = 'Buzau' 
-        Year::Month::Day = 1955::'November'::27
-        
-        Cnp = '4240702024815' Region = 'Arad' 
-        Year::Month::Day = 1824::'July'::2
-        
-        Cnp = '9770120186314' Region = 'Gorj' 
-        Year::Month::Day = 1977::'January'::20
-        
-        Cnp = '7450808355755' Region = 'Timis' 
-        Year::Month::Day = 1945::'August'::8
-        
-        Cnp = '4641131039852' Region = 'Arges' 
-        Year::Month::Day = 1864::'November'::31
-        
-        Cnp = '3850813139783' Region = 'Constanta' 
-        Year::Month::Day = 1885::'August'::13
-        
-        Cnp = '7270414275089' Region = 'Neamt' 
-        Year::Month::Day = 1927::'April'::14
-        
-        Cnp = '9390226396688' Region = 'Vrancea' 
-        Year::Month::Day = 1939::'February'::26
-        
-        Cnp = '8251228104167' Region = 'Buzau' 
-        Year::Month::Day = 1925::'December'::28
-        
-        Cnp = '7170416019201' Region = 'Alba' 
-        Year::Month::Day = 1917::'April'::16
-        
-        Cnp = '8920129430542' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1992::'January'::29
-        
-        Cnp = '9941028331518' Region = 'Suceava' 
-        Year::Month::Day = 1994::'October'::28
-        
-        Cnp = '9541111443998' Region = 'Bucuresti S.4' 
-        Year::Month::Day = 1954::'November'::11
-        
-        Cnp = '1871025458347' Region = 'Bucuresti S.5' 
-        Year::Month::Day = 1987::'October'::25
-        
-        Cnp = '9700728150811' Region = 'Dambovita' 
-        Year::Month::Day = 1970::'July'::28
-        
-        Cnp = '4990915396609' Region = 'Vrancea' 
-        Year::Month::Day = 1899::'September'::15
-        
-        Cnp = '7660704264234' Region = 'Mures' 
-        Year::Month::Day = 1966::'July'::4
-        
-        Cnp = '7840606298081' Region = 'Prahova' 
-        Year::Month::Day = 1984::'June'::6
-        
-        Cnp = '3320722454187' Region = 'Bucuresti S.5' 
-        Year::Month::Day = 1832::'July'::22
-        
-        Cnp = '8300911374701' Region = 'Vaslui' 
-        Year::Month::Day = 1930::'September'::11
-        
-        Cnp = '2020929108729' Region = 'Buzau' 
-        Year::Month::Day = 1902::'September'::29
-        
-        Cnp = '2470905277225' Region = 'Neamt' 
-        Year::Month::Day = 1947::'September'::5
-        
-        Cnp = '1090328365954' Region = 'Tulcea' 
-        Year::Month::Day = 1909::'March'::28
-        
-        Cnp = '9300414315058' Region = 'Salaj' 
-        Year::Month::Day = 1930::'April'::14
-        
-        Cnp = '4520319256206' Region = 'Mehedinti' 
-        Year::Month::Day = 1852::'March'::19
-        
-        Cnp = '1170412451261' Region = 'Bucuresti S.5' 
-        Year::Month::Day = 1917::'April'::12
-        
-        Cnp = '7230523292428' Region = 'Prahova' 
-        Year::Month::Day = 1923::'May'::23
-        
-        Cnp = '8941123029720' Region = 'Arad' 
-        Year::Month::Day = 1994::'November'::23
-        
-        Cnp = '2091217395535' Region = 'Vrancea' 
-        Year::Month::Day = 1909::'December'::17
-        
-        Cnp = '2850815011451' Region = 'Alba' 
-        Year::Month::Day = 1985::'August'::15
-        
-        Cnp = '4391207399652' Region = 'Vrancea' 
-        Year::Month::Day = 1839::'December'::7
-        
-        Cnp = '8470929229559' Region = 'Iasi' 
-        Year::Month::Day = 1947::'September'::29
-        
-        Cnp = '7280103431701' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1928::'January'::3
-        
-        Cnp = '9480531207074' Region = 'Hunedoara' 
-        Year::Month::Day = 1948::'May'::31
-        
-        Cnp = '8341205265377' Region = 'Mures' 
-        Year::Month::Day = 1934::'December'::5
-        
-        Cnp = '4390121270331' Region = 'Neamt' 
-        Year::Month::Day = 1839::'January'::21
-        
-        Cnp = '1860204069991' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 1986::'February'::4
-        
-        Cnp = '9880403138584' Region = 'Constanta' 
-        Year::Month::Day = 1988::'April'::3
-        
-        Cnp = '3520813332380' Region = 'Suceava' 
-        Year::Month::Day = 1852::'August'::13
-        
-        Cnp = '4601115068729' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 1860::'November'::15
-        
-        Cnp = '4760504450128' Region = 'Bucuresti S.5' 
-        Year::Month::Day = 1876::'May'::4
-        
-        Cnp = '7650402190901' Region = 'Harghita' 
-        Year::Month::Day = 1965::'April'::2
-        
-        Cnp = '4810827445766' Region = 'Bucuresti S.4' 
-        Year::Month::Day = 1881::'August'::27
-        
-        Cnp = '1800708187911' Region = 'Gorj' 
-        Year::Month::Day = 1980::'July'::8
-        
-        Cnp = '2580206377862' Region = 'Vaslui' 
-        Year::Month::Day = 1958::'February'::6
-        
-        Cnp = '8911203196104' Region = 'Harghita' 
-        Year::Month::Day = 1991::'December'::3
-        
-        Cnp = '3451216196003' Region = 'Harghita' 
-        Year::Month::Day = 1845::'December'::16
-        
-        Cnp = '9960519016261' Region = 'Alba' 
-        Year::Month::Day = 1996::'May'::19
-        
-        Cnp = '1010519250792' Region = 'Mehedinti' 
-        Year::Month::Day = 1901::'May'::19
-        
-        Cnp = '6140822429750' Region = 'Bucuresti S.2' 
-        Year::Month::Day = 2014::'August'::22
-        
-        Cnp = '8461128425703' Region = 'Bucuresti S.2' 
-        Year::Month::Day = 1946::'November'::28
-        
-        Cnp = '2790317298728' Region = 'Prahova' 
-        Year::Month::Day = 1979::'March'::17
-        
-        Cnp = '1090426406365' Region = 'Bucuresti' 
-        Year::Month::Day = 1909::'April'::26
-        
-        Cnp = '9141119298587' Region = 'Prahova' 
-        Year::Month::Day = 1914::'November'::19
-        
-        Cnp = '9950523084497' Region = 'Brasov' 
-        Year::Month::Day = 1995::'May'::23
-        
-        Cnp = '8310501211378' Region = 'Ialomita' 
-        Year::Month::Day = 1931::'May'::1
-        
-        Cnp = '6021121191278' Region = 'Harghita' 
-        Year::Month::Day = 2002::'November'::21
-        
-        Cnp = '8291126046345' Region = 'Bacau' 
-        Year::Month::Day = 1929::'November'::26
-        
-        Cnp = '8650512065364' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 1965::'May'::12
-        
-        Cnp = '9610513272607' Region = 'Neamt' 
-        Year::Month::Day = 1961::'May'::13
-        
-        Cnp = '9361114072571' Region = 'Botosani' 
-        Year::Month::Day = 1936::'November'::14
-        
-        Cnp = '8750228398864' Region = 'Vrancea' 
-        Year::Month::Day = 1975::'February'::28
-        
-        Cnp = '2160815071940' Region = 'Botosani' 
-        Year::Month::Day = 1916::'August'::15
-        
-        Cnp = '8740917216971' Region = 'Ialomita' 
-        Year::Month::Day = 1974::'September'::17
-        
-        Cnp = '9520714142645' Region = 'Covasna' 
-        Year::Month::Day = 1952::'July'::14
-        
-        Cnp = '7261118396226' Region = 'Vrancea' 
-        Year::Month::Day = 1926::'November'::18
-        
-        Cnp = '6020316022789' Region = 'Arad' 
-        Year::Month::Day = 2002::'March'::16
-        
-        Cnp = '1560303070601' Region = 'Botosani' 
-        Year::Month::Day = 1956::'March'::3
-        
-        Cnp = '3000717364061' Region = 'Tulcea' 
-        Year::Month::Day = 1800::'July'::17
-        
-        Cnp = '5020417321734' Region = 'Sibiu' 
-        Year::Month::Day = 2002::'April'::17
-        
-        Cnp = '6140804436044' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 2014::'August'::4
-        
-        Cnp = '2780703434005' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1978::'July'::3
-        
-        Cnp = '9401102044914' Region = 'Bacau' 
-        Year::Month::Day = 1940::'November'::2
-        
-        Cnp = '8260111148664' Region = 'Covasna' 
-        Year::Month::Day = 1926::'January'::11
-        
-        Cnp = '7611107353260' Region = 'Timis' 
-        Year::Month::Day = 1961::'November'::7
-        
-        Cnp = '7190131260017' Region = 'Mures' 
-        Year::Month::Day = 1919::'January'::31
-        
-        Cnp = '7471125290309' Region = 'Prahova' 
-        Year::Month::Day = 1947::'November'::25
-        
-        Cnp = '2690326367987' Region = 'Tulcea' 
-        Year::Month::Day = 1969::'March'::26
-        
-        Cnp = '4770930367826' Region = 'Tulcea' 
-        Year::Month::Day = 1877::'September'::30
-        
-        Cnp = '9581126378111' Region = 'Vaslui' 
-        Year::Month::Day = 1958::'November'::26
-        
-        Cnp = '6121210170767' Region = 'Galati' 
-        Year::Month::Day = 2012::'December'::10
-        
-        Cnp = '9651007289587' Region = 'Olt' 
-        Year::Month::Day = 1965::'October'::7
-        
-        Cnp = '3310905250718' Region = 'Mehedinti' 
-        Year::Month::Day = 1831::'September'::5
-        
-        Cnp = '2190710221967' Region = 'Iasi' 
-        Year::Month::Day = 1919::'July'::10
-        
-        Cnp = '3271022055211' Region = 'Bihor' 
-        Year::Month::Day = 1827::'October'::22
-        
-        Cnp = '7781028200364' Region = 'Hunedoara' 
-        Year::Month::Day = 1978::'October'::28
-        
-        Cnp = '2970722187268' Region = 'Gorj' 
-        Year::Month::Day = 1997::'July'::22
-        
-        Cnp = '7190601513484' Region = 'Calarasi' 
-        Year::Month::Day = 1919::'June'::1
-        
-        Cnp = '6170824095983' Region = 'Braila' 
-        Year::Month::Day = 2017::'August'::24
-        
-        Cnp = '7570418236241' Region = 'Ilfov' 
-        Year::Month::Day = 1957::'April'::18
-        
-        Cnp = '1240722278733' Region = 'Neamt' 
-        Year::Month::Day = 1924::'July'::22
-        
-        Cnp = '3520826141495' Region = 'Covasna' 
-        Year::Month::Day = 1852::'August'::26
-        
-        Cnp = '8910129340264' Region = 'Teleorman' 
-        Year::Month::Day = 1991::'January'::29
-        
-        Cnp = '2740511012404' Region = 'Alba' 
-        Year::Month::Day = 1974::'May'::11
-        
-        Cnp = '7570912315583' Region = 'Salaj' 
-        Year::Month::Day = 1957::'September'::12
-        
-        Cnp = '7740821126310' Region = 'Cluj' 
-        Year::Month::Day = 1974::'August'::21
-        
-        Cnp = '2041208338121' Region = 'Suceava' 
-        Year::Month::Day = 1904::'December'::8
-        
-        Cnp = '7411115339301' Region = 'Suceava' 
-        Year::Month::Day = 1941::'November'::15
-        
-        Cnp = '6140915345389' Region = 'Teleorman' 
-        Year::Month::Day = 2014::'September'::15
-        
-        Cnp = '8460526464071' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1946::'May'::26
-        
-        Cnp = '9120814437227' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1912::'August'::14
-        
-        Cnp = '4940622399247' Region = 'Vrancea' 
-        Year::Month::Day = 1894::'June'::22
-        
-        Cnp = '2530930141750' Region = 'Covasna' 
-        Year::Month::Day = 1953::'September'::30
-        
-        Cnp = '2860418279901' Region = 'Neamt' 
-        Year::Month::Day = 1986::'April'::18
-        
-        Cnp = '1951223242640' Region = 'Maramures' 
-        Year::Month::Day = 1995::'December'::23
-        
-        Cnp = '1611016424212' Region = 'Bucuresti S.2' 
-        Year::Month::Day = 1961::'October'::16
-        
-        Cnp = '9350608456647' Region = 'Bucuresti S.5' 
-        Year::Month::Day = 1935::'June'::8
-        
-        Cnp = '1180827251254' Region = 'Mehedinti' 
-        Year::Month::Day = 1918::'August'::27
-        
-        Cnp = '9910826112223' Region = 'Caras-Severin' 
-        Year::Month::Day = 1991::'August'::26
-        
-        Cnp = '1710422349136' Region = 'Teleorman' 
-        Year::Month::Day = 1971::'April'::22
-        
-        Cnp = '6160803096342' Region = 'Braila' 
-        Year::Month::Day = 2016::'August'::3
-        
-        Cnp = '9920917334676' Region = 'Suceava' 
-        Year::Month::Day = 1992::'September'::17
-        
-        Cnp = '1500103463927' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1950::'January'::3
-        
-        Cnp = '3511201251194' Region = 'Mehedinti' 
-        Year::Month::Day = 1851::'December'::1
-        
-        Cnp = '1940509328341' Region = 'Sibiu' 
-        Year::Month::Day = 1994::'May'::9
-        
-        Cnp = '9341228170240' Region = 'Galati' 
-        Year::Month::Day = 1934::'December'::28
-        
-        Cnp = '8230320071672' Region = 'Botosani' 
-        Year::Month::Day = 1923::'March'::20
-        
-        Cnp = '9630205296532' Region = 'Prahova' 
-        Year::Month::Day = 1963::'February'::5
-        
-        Cnp = '4490511275723' Region = 'Neamt' 
-        Year::Month::Day = 1849::'May'::11
-        
-        Cnp = '3890913323553' Region = 'Sibiu' 
-        Year::Month::Day = 1889::'September'::13
-        
-        Cnp = '7281020423791' Region = 'Bucuresti S.2' 
-        Year::Month::Day = 1928::'October'::20
-        
-        Cnp = '8490221276321' Region = 'Neamt' 
-        Year::Month::Day = 1949::'February'::21
-        
-        Cnp = '2240501345360' Region = 'Teleorman' 
-        Year::Month::Day = 1924::'May'::1
-        
-        Cnp = '9510715256286' Region = 'Mehedinti' 
-        Year::Month::Day = 1951::'July'::15
-        
-        Cnp = '1170524284115' Region = 'Olt' 
-        Year::Month::Day = 1917::'May'::24
-        
-        Cnp = '7430603368435' Region = 'Tulcea' 
-        Year::Month::Day = 1943::'June'::3
-        
-        Cnp = '5000319293887' Region = 'Prahova' 
-        Year::Month::Day = 2000::'March'::19
-        
-        Cnp = '3380909028496' Region = 'Arad' 
-        Year::Month::Day = 1838::'September'::9
-        
-        Cnp = '9150601427119' Region = 'Bucuresti S.2' 
-        Year::Month::Day = 1915::'June'::1
-        
-        Cnp = '4210520056873' Region = 'Bihor' 
-        Year::Month::Day = 1821::'May'::20
-        
-        Cnp = '3570415017826' Region = 'Alba' 
-        Year::Month::Day = 1857::'April'::15
-        
-        Cnp = '9360629358391' Region = 'Timis' 
-        Year::Month::Day = 1936::'June'::29
-        
-        Cnp = '4080619151470' Region = 'Dambovita' 
-        Year::Month::Day = 1808::'June'::19
-        
-        Cnp = '8650226275833' Region = 'Neamt' 
-        Year::Month::Day = 1965::'February'::26
-        
-        Cnp = '2300628164767' Region = 'Dolj' 
-        Year::Month::Day = 1930::'June'::28
-        
-        Cnp = '3290911465442' Region = 'Bucuresti S.6' 
-        Year::Month::Day = 1829::'September'::11
-        
-        Cnp = '1461126055143' Region = 'Bihor' 
-        Year::Month::Day = 1946::'November'::26
-        
-        Cnp = '4090601201824' Region = 'Hunedoara' 
-        Year::Month::Day = 1809::'June'::1
-        
-        Cnp = '1141204047184' Region = 'Bacau' 
-        Year::Month::Day = 1914::'December'::4
-        
-        Cnp = '4141209414483' Region = 'Bucuresti S.1' 
-        Year::Month::Day = 1814::'December'::9
-        
-        Cnp = '4200924082461' Region = 'Brasov' 
-        Year::Month::Day = 1820::'September'::24
-        
-        Cnp = '4730818234466' Region = 'Ilfov' 
-        Year::Month::Day = 1873::'August'::18
-        
-        Cnp = '1110919378607' Region = 'Vaslui' 
-        Year::Month::Day = 1911::'September'::19
-        
-        Cnp = '3220425406054' Region = 'Bucuresti' 
-        Year::Month::Day = 1822::'April'::25
-        
-        Cnp = '4070117382172' Region = 'Valcea' 
-        Year::Month::Day = 1807::'January'::17
-        
-        Cnp = '7690528080418' Region = 'Brasov' 
-        Year::Month::Day = 1969::'May'::28
-        
-        Cnp = '1620223343791' Region = 'Teleorman' 
-        Year::Month::Day = 1962::'February'::23
-        
-        Cnp = '7881002384224' Region = 'Valcea' 
-        Year::Month::Day = 1988::'October'::2
-        
-        Cnp = '7381122170311' Region = 'Galati' 
-        Year::Month::Day = 1938::'November'::22
-        
-        Cnp = '7431121303158' Region = 'Satu Mare' 
-        Year::Month::Day = 1943::'November'::21
-        
-        Cnp = '4820527134461' Region = 'Constanta' 
-        Year::Month::Day = 1882::'May'::27
-        
-        Cnp = '4400818413860' Region = 'Bucuresti S.1' 
-        Year::Month::Day = 1840::'August'::18
-        
-        Cnp = '5170404206869' Region = 'Hunedoara' 
-        Year::Month::Day = 2017::'April'::4
-        
-        Cnp = '8700508350907' Region = 'Timis' 
-        Year::Month::Day = 1970::'May'::8
-        
-        Cnp = '7620115240690' Region = 'Maramures' 
-        Year::Month::Day = 1962::'January'::15
-        
-        Cnp = '2840911259684' Region = 'Mehedinti' 
-        Year::Month::Day = 1984::'September'::11
-        
-        Cnp = '3000402323480' Region = 'Sibiu' 
-        Year::Month::Day = 1800::'April'::2
-        
-        Cnp = '4951014254153' Region = 'Mehedinti' 
-        Year::Month::Day = 1895::'October'::14
-        
-        Cnp = '2790420014918' Region = 'Alba' 
-        Year::Month::Day = 1979::'April'::20
-        
-        Cnp = '2440212103940' Region = 'Buzau' 
-        Year::Month::Day = 1944::'February'::12
-        
-        Cnp = '5140506373767' Region = 'Vaslui' 
-        Year::Month::Day = 2014::'May'::6
-        
-        Cnp = '9701024279908' Region = 'Neamt' 
-        Year::Month::Day = 1970::'October'::24
-        
-        Cnp = '2570416330646' Region = 'Suceava' 
-        Year::Month::Day = 1957::'April'::16
-        
-        Cnp = '2321223048811' Region = 'Bacau' 
-        Year::Month::Day = 1932::'December'::23
-        
-        Cnp = '3301112365314' Region = 'Tulcea' 
-        Year::Month::Day = 1830::'November'::12
-        
-        Cnp = '3120904185848' Region = 'Gorj' 
-        Year::Month::Day = 1812::'September'::4
-        
-        Cnp = '2720215253221' Region = 'Mehedinti' 
-        Year::Month::Day = 1972::'February'::15
-        
-        Cnp = '7581215168414' Region = 'Dolj' 
-        Year::Month::Day = 1958::'December'::15
-        
-        Cnp = '8530504029028' Region = 'Arad' 
-        Year::Month::Day = 1953::'May'::4
-        
-        Cnp = '1181214372365' Region = 'Vaslui' 
-        Year::Month::Day = 1918::'December'::14
-        
-        Cnp = '1470217378559' Region = 'Vaslui' 
-        Year::Month::Day = 1947::'February'::17
-        
-        Cnp = '5190518167831' Region = 'Dolj' 
-        Year::Month::Day = 2019::'May'::18
-        
-        Cnp = '6080802233251' Region = 'Ilfov' 
-        Year::Month::Day = 2008::'August'::2
-        
-        Cnp = '8800423450549' Region = 'Bucuresti S.5' 
-        Year::Month::Day = 1980::'April'::23
-        
-        Cnp = '7851001435841' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1985::'October'::1
-        
-        Cnp = '8800310366991' Region = 'Tulcea' 
-        Year::Month::Day = 1980::'March'::10
-        
-        Cnp = '3271123212480' Region = 'Ialomita' 
-        Year::Month::Day = 1827::'November'::23
-        
-        Cnp = '9670812278541' Region = 'Neamt' 
-        Year::Month::Day = 1967::'August'::12
-        
-        Cnp = '3140912243467' Region = 'Maramures' 
-        Year::Month::Day = 1814::'September'::12
-        
-        Cnp = '3860512317594' Region = 'Salaj' 
-        Year::Month::Day = 1886::'May'::12
-        
-        Cnp = '1390313285946' Region = 'Olt' 
-        Year::Month::Day = 1939::'March'::13
-        
-        Cnp = '1640610343623' Region = 'Teleorman' 
-        Year::Month::Day = 1964::'June'::10
-        
-        Cnp = '8181016445807' Region = 'Bucuresti S.4' 
-        Year::Month::Day = 1918::'October'::16
-        
-        Cnp = '4150514159631' Region = 'Dambovita' 
-        Year::Month::Day = 1815::'May'::14
-        
-        Cnp = '1211127257954' Region = 'Mehedinti' 
-        Year::Month::Day = 1921::'November'::27
-        
-        Cnp = '7260825353784' Region = 'Timis' 
-        Year::Month::Day = 1926::'August'::25
-        
-        Cnp = '1030803364801' Region = 'Tulcea' 
-        Year::Month::Day = 1903::'August'::3
-        
-        Cnp = '8810626349071' Region = 'Teleorman' 
-        Year::Month::Day = 1981::'June'::26
-        
-        Cnp = '4720825162186' Region = 'Dolj' 
-        Year::Month::Day = 1872::'August'::25
-        
-        Cnp = '7720103051696' Region = 'Bihor' 
-        Year::Month::Day = 1972::'January'::3
-        
-        Cnp = '3840318407914' Region = 'Bucuresti' 
-        Year::Month::Day = 1884::'March'::18
-        
-        Cnp = '4371229177751' Region = 'Galati' 
-        Year::Month::Day = 1837::'December'::29
-        
-        Cnp = '8170611193901' Region = 'Harghita' 
-        Year::Month::Day = 1917::'June'::11
-        
-        Cnp = '3490729100625' Region = 'Buzau' 
-        Year::Month::Day = 1849::'July'::29
-        
-        Cnp = '4271202457877' Region = 'Bucuresti S.5' 
-        Year::Month::Day = 1827::'December'::2
-        
-        Cnp = '2410518248751' Region = 'Maramures' 
-        Year::Month::Day = 1941::'May'::18
-        
-        Cnp = '2530619142333' Region = 'Covasna' 
-        Year::Month::Day = 1953::'June'::19
-        
-        Cnp = '3710201320998' Region = 'Sibiu' 
-        Year::Month::Day = 1871::'February'::1
-        
-        Cnp = '8110909205621' Region = 'Hunedoara' 
-        Year::Month::Day = 1911::'September'::9
-        
-        Cnp = '3821117036891' Region = 'Arges' 
-        Year::Month::Day = 1882::'November'::17
-        
-        Cnp = '9470702087951' Region = 'Brasov' 
-        Year::Month::Day = 1947::'July'::2
-        
-        Cnp = '3770606268222' Region = 'Mures' 
-        Year::Month::Day = 1877::'June'::6
-        
-        Cnp = '8481121268722' Region = 'Mures' 
-        Year::Month::Day = 1948::'November'::21
-        
-        Cnp = '4820613433401' Region = 'Bucuresti S.3' 
-        Year::Month::Day = 1882::'June'::13
-        
-        Cnp = '3750428333122' Region = 'Suceava' 
-        Year::Month::Day = 1875::'April'::28
-        
-        Cnp = '1420726076481' Region = 'Botosani' 
-        Year::Month::Day = 1942::'July'::26
-        
-        Cnp = '9920630034438' Region = 'Arges' 
-        Year::Month::Day = 1992::'June'::30
-        
-        Cnp = '1980523167556' Region = 'Dolj' 
-        Year::Month::Day = 1998::'May'::23
-        
-        Cnp = '3710109346967' Region = 'Teleorman' 
-        Year::Month::Day = 1871::'January'::9
-        
-        Cnp = '7570922401220' Region = 'Bucuresti' 
-        Year::Month::Day = 1957::'September'::22
-        
-        Cnp = '9920213347631' Region = 'Teleorman' 
-        Year::Month::Day = 1992::'February'::13
-        
-        Cnp = '4830909371779' Region = 'Vaslui' 
-        Year::Month::Day = 1883::'September'::9
-        
-        Cnp = '1990520269490' Region = 'Mures' 
-        Year::Month::Day = 1999::'May'::20
-        
-        Cnp = '2770423087238' Region = 'Brasov' 
-        Year::Month::Day = 1977::'April'::23
-        
-        Cnp = '4891210066270' Region = 'Bistrita-Nasaud' 
-        Year::Month::Day = 1889::'December'::10
-        
-        Cnp = '9111125101701' Region = 'Buzau' 
-        Year::Month::Day = 1911::'November'::25
-        
-        Cnp = '8000817285371' Region = 'Olt' 
-        Year::Month::Day = 1900::'August'::17
-        
-        Cnp = '7911027359276' Region = 'Timis' 
-        Year::Month::Day = 1991::'October'::27
-        
-        Cnp = '1370114164161' Region = 'Dolj' 
-        Year::Month::Day = 1937::'January'::14
-        
-        Cnp = '4620306338544' Region = 'Suceava' 
-        Year::Month::Day = 1862::'March'::6
-        
-        Cnp = '4701116300598' Region = 'Satu Mare' 
-        Year::Month::Day = 1870::'November'::16
-        
-        Cnp = '4780112418459' Region = 'Bucuresti S.1' 
-        Year::Month::Day = 1878::'January'::12
-        
-        Cnp = '2660111195723' Region = 'Harghita' 
-        Year::Month::Day = 1966::'January'::11
-        
-        Cnp = '4090512078057' Region = 'Botosani' 
-        Year::Month::Day = 1809::'May'::12
-        
-        Cnp = '4160506219571' Region = 'Ialomita' 
-        Year::Month::Day = 1816::'May'::6
-        
-        Cnp = '3330710288512' Region = 'Olt' 
-        Year::Month::Day = 1833::'July'::10
-        
+CNP(cnp='7751007462522')
+CNP(cnp='3090502466575')
+CNP(cnp='7270428052326')
+CNP(cnp='3830722418644')
+CNP(cnp='9641030172362')
+CNP(cnp='4150720390473')
+CNP(cnp='7880914349622')
+CNP(cnp='4900611039396')
+CNP(cnp='4970522044150')
+CNP(cnp='2870512266267')
+CNP(cnp='8440627397779')
+CNP(cnp='9850726106648')
+CNP(cnp='2610524418676')
+CNP(cnp='1560123037625')
+CNP(cnp='1360715521241')
+CNP(cnp='8640531248639')
+CNP(cnp='1420628088407')
+CNP(cnp='4001019024473')
+CNP(cnp='5080120049291')
+CNP(cnp='8151214158950')
+CNP(cnp='8380613239141')
+CNP(cnp='4990103524048')
+CNP(cnp='7931010250437')
+CNP(cnp='9721108356195')
+CNP(cnp='8120604364216')
+CNP(cnp='3120427317066')
+CNP(cnp='3830907191582')
+CNP(cnp='8870505241558')
+CNP(cnp='6030815331351')
+CNP(cnp='1301119292081')
+CNP(cnp='7620325349643')
+CNP(cnp='7611019045885')
+CNP(cnp='1550708250403')
+CNP(cnp='4000731277558')
+CNP(cnp='2330609433173')
+CNP(cnp='4360923148268')
+CNP(cnp='2180522346055')
+CNP(cnp='7410824433388')
+CNP(cnp='8960518323692')
+CNP(cnp='9590908344170')
+CNP(cnp='2670420358042')
+CNP(cnp='8141115122000')
+CNP(cnp='8150816099662')
+CNP(cnp='7270914089963')
+CNP(cnp='4330717221664')
+CNP(cnp='3201103029467')
+CNP(cnp='4480118204719')
+CNP(cnp='9310606176965')
+CNP(cnp='3480913123315')
+CNP(cnp='9390306389320')
+CNP(cnp='7520712303904')
+CNP(cnp='9850704237826')
+CNP(cnp='8951131018869')
+CNP(cnp='9300416303220')
+CNP(cnp='7361001235670')
+CNP(cnp='9920827264843')
+CNP(cnp='1990312280803')
+CNP(cnp='4730407148316')
+CNP(cnp='4800307326341')
+CNP(cnp='8270819352876')
+CNP(cnp='7590812075051')
+CNP(cnp='2310915204181')
+CNP(cnp='3131016378914')
+CNP(cnp='1280413238346')
+CNP(cnp='1010406188121')
+CNP(cnp='7370212442674')
+CNP(cnp='3300324243626')
+CNP(cnp='8610612528524')
+CNP(cnp='9921029118505')
+CNP(cnp='2390829237734')
+CNP(cnp='3921110331699')
+CNP(cnp='4110315178803')
+CNP(cnp='9000420345661')
+CNP(cnp='8760419237605')
+CNP(cnp='2070128154073')
+CNP(cnp='4310211240236')
+CNP(cnp='8700213243231')
+CNP(cnp='3930215081805')
+CNP(cnp='4010706386545')
+CNP(cnp='4760205121724')
+CNP(cnp='7380517229924')
+CNP(cnp='7480113326940')
+CNP(cnp='1020618315323')
+CNP(cnp='6030827185007')
+CNP(cnp='7210703126075')
+CNP(cnp='8280601048263')
+CNP(cnp='3250331405170')
+CNP(cnp='4210621105905')
+CNP(cnp='2280517402840')
+CNP(cnp='7350120389532')
+CNP(cnp='7560702377168')
+CNP(cnp='6210507133589')
+CNP(cnp='9791209425149')
+CNP(cnp='1310925152714')
+CNP(cnp='8150606054004')
+CNP(cnp='2260530364750')
+CNP(cnp='1330606286096')
+CNP(cnp='2661112043503')
+CNP(cnp='8820704368414')
+CNP(cnp='2580128114357')
+CNP(cnp='7100618108286')
+CNP(cnp='9901218235974')
+CNP(cnp='6170914137310')
+CNP(cnp='3220527449007')
+CNP(cnp='3100114083946')
+CNP(cnp='5000115441634')
+CNP(cnp='7150218030760')
+CNP(cnp='1270223100679')
+CNP(cnp='3160426237197')
+CNP(cnp='8180617267674')
+CNP(cnp='4830102208452')
+CNP(cnp='2400217457332')
+CNP(cnp='8310616358748')
+CNP(cnp='7031019363271')
+CNP(cnp='4870423090381')
+CNP(cnp='9060420454185')
+CNP(cnp='8030904021034')
+CNP(cnp='2060616213543')
+CNP(cnp='2030330265593')
+CNP(cnp='8201209150183')
+CNP(cnp='8341124465602')
+CNP(cnp='1370210261700')
+CNP(cnp='3670704357940')
+CNP(cnp='3830607010384')
+CNP(cnp='7890209387426')
+CNP(cnp='3490826331324')
+CNP(cnp='8760107458756')
+CNP(cnp='8010115432093')
+CNP(cnp='4460801141990')
+CNP(cnp='7080422424587')
+CNP(cnp='3191117379225')
+CNP(cnp='8361023037382')
+CNP(cnp='1800102426524')
+CNP(cnp='9820212015383')
+CNP(cnp='8860109094858')
+CNP(cnp='3430315075866')
+CNP(cnp='9000828180992')
+CNP(cnp='3551228228761')
+CNP(cnp='4980114148965')
+CNP(cnp='9030302281883')
+CNP(cnp='1431020219541')
+CNP(cnp='1761028440947')
+CNP(cnp='7541005344741')
+CNP(cnp='4580802303631')
+CNP(cnp='3711112135464')
+CNP(cnp='3650911126938')
+CNP(cnp='3700813295234')
+CNP(cnp='3070801316242')
+CNP(cnp='8501224307206')
+CNP(cnp='9921205372860')
+CNP(cnp='1810430362644')
+CNP(cnp='9731021527491')
+CNP(cnp='4361103112020')
+CNP(cnp='1121129066528')
+CNP(cnp='1250627383814')
+CNP(cnp='9100911097352')
+CNP(cnp='2041218369321')
+CNP(cnp='5100518198962')
+CNP(cnp='7990202128377')
+CNP(cnp='4300416229556')
+CNP(cnp='1611107171595')
+CNP(cnp='3131224385390')
+CNP(cnp='9960325452883')
+CNP(cnp='7791120300297')
+CNP(cnp='1091030109450')
+CNP(cnp='7790303237485')
+CNP(cnp='3280912358459')
+CNP(cnp='8440611113051')
+CNP(cnp='7480221262116')
+CNP(cnp='4130323286471')
+CNP(cnp='9410806136804')
+CNP(cnp='8670815328554')
+CNP(cnp='3450418510831')
+CNP(cnp='3390226099304')
+CNP(cnp='2790604414622')
+CNP(cnp='2270731467505')
+CNP(cnp='2760622351649')
+CNP(cnp='4920705182920')
+CNP(cnp='9400522200145')
+CNP(cnp='1460917427528')
+CNP(cnp='1450627438769')
+CNP(cnp='1750721351084')
+CNP(cnp='7510916064279')
+CNP(cnp='1070320063414')
+CNP(cnp='1810524326529')
+CNP(cnp='9990929055423')
+CNP(cnp='5140630224403')
+CNP(cnp='3060920355630')
+CNP(cnp='3951205081102')
+CNP(cnp='7730221106754')
+CNP(cnp='7520725032103')
+CNP(cnp='2240806306202')
+CNP(cnp='8701018375255')
+CNP(cnp='8780226182217')
+CNP(cnp='9480303176433')
+CNP(cnp='4540513149899')
+CNP(cnp='7810614014461')
+CNP(cnp='4430803296684')
+CNP(cnp='3950707254343')
+CNP(cnp='1970112064512')
+CNP(cnp='1040904322086')
+CNP(cnp='9800211446298')
+CNP(cnp='7640819110769')
+CNP(cnp='4271211121013')
+CNP(cnp='7420515448899')
+CNP(cnp='9390211245061')
+CNP(cnp='4060514201168')
+CNP(cnp='2120113284033')
+CNP(cnp='9530223360250')
+CNP(cnp='3930204513116')
+CNP(cnp='8431224134041')
+CNP(cnp='4871024466933')
+CNP(cnp='7370601033634')
+CNP(cnp='9050426308913')
+CNP(cnp='4961012247170')
+CNP(cnp='2320510284796')
+CNP(cnp='9290703269575')
+CNP(cnp='4390309216492')
+CNP(cnp='1210103260761')
+CNP(cnp='9470323126739')
+CNP(cnp='7710812347466')
+CNP(cnp='9150430428581')
+CNP(cnp='9301001292139')
+CNP(cnp='4780912357223')
+CNP(cnp='8730911020413')
+CNP(cnp='7370828125587')
+CNP(cnp='2790403123157')
+CNP(cnp='9040222520000')
+CNP(cnp='3210614398519')
+CNP(cnp='7671210514480')
+CNP(cnp='9380924462183')
+CNP(cnp='2520819207628')
+CNP(cnp='1390509352466')
+CNP(cnp='1440626188437')
+CNP(cnp='7010208415953')
+CNP(cnp='2280505357883')
+CNP(cnp='4020421046272')
+CNP(cnp='3750822041083')
+CNP(cnp='4600511063837')
+CNP(cnp='3040526101908')
+CNP(cnp='9750106410390')
+CNP(cnp='8790507056112')
+CNP(cnp='2651202036114')
+CNP(cnp='2321207189911')
+CNP(cnp='2560922414189')
+CNP(cnp='4881025017026')
+CNP(cnp='2740601026183')
+CNP(cnp='8950502061301')
+CNP(cnp='2470731381541')
+CNP(cnp='2970403066532')
+CNP(cnp='7650103426032')
+CNP(cnp='9471219138922')
+CNP(cnp='2270730347781')
+CNP(cnp='8780225101724')
+CNP(cnp='7260128465985')
+CNP(cnp='4180506194378')
+CNP(cnp='4210612030361')
+CNP(cnp='8381129029350')
+CNP(cnp='8180903077984')
+CNP(cnp='4520125420170')
+CNP(cnp='2510331336094')
+CNP(cnp='8000511141007')
+CNP(cnp='5000530123463')
+CNP(cnp='1900412169640')
+CNP(cnp='3360125242418')
+CNP(cnp='3210908306823')
+CNP(cnp='7141225346594')
+CNP(cnp='3060909224601')
+CNP(cnp='9511011240223')
+CNP(cnp='3720520275111')
+CNP(cnp='3250907213142')
+CNP(cnp='5080420430078')
+CNP(cnp='7131106086303')
+CNP(cnp='2640104151248')
+CNP(cnp='1450721426247')
+CNP(cnp='8280305514726')
+CNP(cnp='8321216177172')
+CNP(cnp='2010708101807')
+CNP(cnp='3580824229751')
+CNP(cnp='8650807461217')
+CNP(cnp='7811118203498')
+CNP(cnp='9930714055559')
+CNP(cnp='4100830427013')
+CNP(cnp='8080512366534')
+CNP(cnp='9020814324397')
+CNP(cnp='2730909377358')
+CNP(cnp='8800108456445')
+CNP(cnp='9110111034045')
+CNP(cnp='4790521247893')
+CNP(cnp='4510415074288')
+CNP(cnp='3910526098007')
+CNP(cnp='8420827391007')
+CNP(cnp='2880728252745')
+CNP(cnp='9081116364628')
+CNP(cnp='8500119028001')
+CNP(cnp='2140109330584')
+CNP(cnp='1730923422253')
+CNP(cnp='9100926417466')
+CNP(cnp='4101104151109')
+CNP(cnp='2530606525101')
+CNP(cnp='4720318362999')
+CNP(cnp='9380918164453')
+CNP(cnp='8390304320497')
+CNP(cnp='3171202046636')
+CNP(cnp='2960222275636')
+CNP(cnp='8930719187315')
+CNP(cnp='7990915227838')
+CNP(cnp='8110317136547')
+CNP(cnp='1430427266537')
+CNP(cnp='4890614387461')
+CNP(cnp='2470905218979')
+CNP(cnp='2630617211319')
+CNP(cnp='4750610369784')
+CNP(cnp='2321215042050')
+CNP(cnp='1490523400322')
+CNP(cnp='5051002266975')
+CNP(cnp='8650823256420')
+CNP(cnp='7390421421922')
+CNP(cnp='2370102369556')
+CNP(cnp='4940205077133')
+CNP(cnp='2761117072044')
+CNP(cnp='1181107028592')
+CNP(cnp='3780713059286')
+CNP(cnp='1080425087470')
+CNP(cnp='2771120139039')
+CNP(cnp='7550615112547')
+CNP(cnp='8720628126772')
+CNP(cnp='1130628401462')
+CNP(cnp='3410727369199')
+CNP(cnp='2180501287891')
+CNP(cnp='3480312078081')
+CNP(cnp='4031212019654')
+CNP(cnp='9720221439208')
+CNP(cnp='3640413520037')
+CNP(cnp='8380217158349')
+CNP(cnp='9080516108351')
+CNP(cnp='2980629204481')
+CNP(cnp='7300602162933')
+CNP(cnp='7460302186833')
+CNP(cnp='8501026404713')
+CNP(cnp='8590331254476')
+CNP(cnp='7970906205179')
+CNP(cnp='8870805337055')
+CNP(cnp='4110822447139')
+CNP(cnp='3910801460988')
+CNP(cnp='1250128221948')
+CNP(cnp='7881027072419')
+CNP(cnp='8541216241333')
+CNP(cnp='6030221433934')
+CNP(cnp='9690130187389')
+CNP(cnp='4350224433408')
+CNP(cnp='4080902307649')
+CNP(cnp='8470620399401')
+CNP(cnp='7650121167633')
+CNP(cnp='1540903445901')
+CNP(cnp='3571023440117')
+CNP(cnp='2300817345498')
+CNP(cnp='6050220526850')
+CNP(cnp='4500126523468')
+CNP(cnp='4070517280486')
+CNP(cnp='3170614084433')
+CNP(cnp='8560328254766')
+CNP(cnp='1570103166141')
+CNP(cnp='9830926137466')
+CNP(cnp='4700923465689')
+CNP(cnp='4370327449375')
+CNP(cnp='7731120300140')
+CNP(cnp='1300202251407')
+CNP(cnp='1990212021630')
+CNP(cnp='3191112523602')
+CNP(cnp='1571117148420')
+CNP(cnp='3620418346890')
+CNP(cnp='2721113432728')
+CNP(cnp='4801113229883')
+CNP(cnp='8130214137439')
+CNP(cnp='8641005177551')
+CNP(cnp='7230406022122')
+CNP(cnp='9830513331087')
+CNP(cnp='1511011426111')
+CNP(cnp='1241008050031')
+CNP(cnp='1850725123148')
+CNP(cnp='1530218061850')
+CNP(cnp='7990822074163')
+CNP(cnp='8290213349773')
+CNP(cnp='1710726170599')
+CNP(cnp='9491009018451')
+CNP(cnp='1681002363541')
+CNP(cnp='6060107348043')
+CNP(cnp='9790901275464')
+CNP(cnp='2701210449911')
+CNP(cnp='1871203113370')
+CNP(cnp='8010411135361')
+CNP(cnp='7290127217328')
+CNP(cnp='9061113010441')
+CNP(cnp='4510827514063')
+CNP(cnp='3100114402231')
+CNP(cnp='8510731229456')
+CNP(cnp='7391202220513')
+CNP(cnp='9350625011184')
+CNP(cnp='7351203057463')
+CNP(cnp='4311113402048')
+CNP(cnp='4240508057512')
+CNP(cnp='4111204040369')
+CNP(cnp='4641118176090')
+CNP(cnp='4020411205910')
+CNP(cnp='7551018058822')
+CNP(cnp='7921212015846')
+CNP(cnp='1700317355263')
+CNP(cnp='9821124514542')
+CNP(cnp='8090617170887')
+CNP(cnp='7540327055944')
+CNP(cnp='8600716339037')
+CNP(cnp='2580912186561')
+CNP(cnp='3961103281135')
+CNP(cnp='2420930334403')
+CNP(cnp='4090924056978')
+CNP(cnp='8660522462280')
+CNP(cnp='3890531194072')
+CNP(cnp='4520416411448')
+CNP(cnp='2200611408173')
+CNP(cnp='1580825401038')
+CNP(cnp='3351003379217')
+CNP(cnp='2670315202555')
+CNP(cnp='1461124271187')
+CNP(cnp='4091116097444')
+CNP(cnp='7440518047391')
+CNP(cnp='4810320200112')
+CNP(cnp='8011221225454')
+CNP(cnp='3481101207399')
+CNP(cnp='1101015054942')
+CNP(cnp='7140424042335')
+CNP(cnp='1470318344724')
+CNP(cnp='7361122190311')
+CNP(cnp='8920327463760')
+CNP(cnp='3480227317710')
+CNP(cnp='7481119454369')
+CNP(cnp='5190530393324')
+CNP(cnp='8731001310981')
+CNP(cnp='7800105046693')
+CNP(cnp='1961105215803')
+CNP(cnp='4850504303569')
+CNP(cnp='9580429201312')
+CNP(cnp='9210223513431')
+CNP(cnp='8210906162648')
+CNP(cnp='3241021276711')
+CNP(cnp='9170412104294')
+CNP(cnp='4110308189143')
+CNP(cnp='1831108517226')
+CNP(cnp='3090413314209')
+CNP(cnp='7220926098758')
+CNP(cnp='5151012011411')
+CNP(cnp='2801203128208')
+CNP(cnp='3070328138390')
+CNP(cnp='9410425064342')
+CNP(cnp='2480420033526')
+CNP(cnp='2661023018580')
+CNP(cnp='1151014429970')
+CNP(cnp='9090306281189')
+CNP(cnp='8501230267189')
+CNP(cnp='4961130135289')
+CNP(cnp='9870625137051')
+CNP(cnp='3681121153485')
+CNP(cnp='9540903184581')
+CNP(cnp='9160623052273')
+CNP(cnp='5201120513265')
+CNP(cnp='2741217363373')
+CNP(cnp='9120316134583')
+CNP(cnp='3940315369667')
+CNP(cnp='7811210464793')
+CNP(cnp='2751120023646')
+CNP(cnp='7340601218035')
+CNP(cnp='4720913027782')
+CNP(cnp='7510701193154')
+CNP(cnp='8980913283226')
+CNP(cnp='2131221322746')
+CNP(cnp='3540418442273')
+CNP(cnp='3900207458721')
+CNP(cnp='1570930307162')
+CNP(cnp='1360530050976')
+CNP(cnp='6070331327341')
+CNP(cnp='4090809290923')
+CNP(cnp='5210515422813')
+CNP(cnp='4091225042496')
+CNP(cnp='2641101312330')
+CNP(cnp='8020428018123')
+CNP(cnp='7730929521941')
+CNP(cnp='2580211456790')
+CNP(cnp='3500127270028')
+CNP(cnp='9671129031196')
+CNP(cnp='7110312378324')
+CNP(cnp='2020404319101')
+CNP(cnp='2241118306022')
+CNP(cnp='7200813528668')
+CNP(cnp='2470530101286')
+CNP(cnp='4291125335261')
+CNP(cnp='3870226116829')
+CNP(cnp='4150410229701')
+CNP(cnp='1911226511152')
+CNP(cnp='8510521093753')
+CNP(cnp='2540313119441')
+CNP(cnp='9860703467072')
+CNP(cnp='5041126138064')
+CNP(cnp='2360518146790')
+CNP(cnp='4630724353855')
+CNP(cnp='8321106043073')
+CNP(cnp='4480815524669')
+CNP(cnp='4261224441535')
+CNP(cnp='3580530153784')
+CNP(cnp='3900923346033')
+CNP(cnp='8930430083132')
+CNP(cnp='7260821102508')
+CNP(cnp='4710121294480')
+CNP(cnp='2750219465331')
+CNP(cnp='9580118384831')
+CNP(cnp='4240718355152')
+CNP(cnp='2931014272488')
+CNP(cnp='2490325275980')
+CNP(cnp='8620528451576')
+CNP(cnp='1260401282811')
+CNP(cnp='7671004061620')
+CNP(cnp='2800123144092')
+CNP(cnp='5160424075951')
+CNP(cnp='9590823196239')
+CNP(cnp='1901107414567')
+CNP(cnp='7341116469376')
+CNP(cnp='9050829117584')
+CNP(cnp='8540323396763')
+CNP(cnp='3980622040575')
+CNP(cnp='2260314391039')
+CNP(cnp='9010317390781')
+CNP(cnp='3780421031534')
+CNP(cnp='4080909397053')
+CNP(cnp='2200830285762')
+CNP(cnp='3030901068987')
+CNP(cnp='1210515426936')
+CNP(cnp='7520324104559')
+CNP(cnp='9190218032197')
+CNP(cnp='8631228276106')
+CNP(cnp='1280318408546')
+CNP(cnp='4251030097170')
+CNP(cnp='8301210516738')
+CNP(cnp='9750928030210')
+CNP(cnp='4611211291576')
+CNP(cnp='3571215330817')
+CNP(cnp='3730708050131')
+CNP(cnp='9820819018988')
+CNP(cnp='1421112292542')
+CNP(cnp='2660429302834')
+CNP(cnp='1080829414478')
+CNP(cnp='3970210333321')
+CNP(cnp='8030724448922')
+CNP(cnp='5110119380421')
+CNP(cnp='8090210308683')
+CNP(cnp='7060529394109')
+CNP(cnp='3170410525639')
+CNP(cnp='7081107049868')
+CNP(cnp='7620507083738')
+CNP(cnp='7830607347494')
+CNP(cnp='4710921076721')
+CNP(cnp='1141030042597')
+CNP(cnp='9510620080884')
+CNP(cnp='4120604220269')
+CNP(cnp='2370222395512')
+CNP(cnp='7451030403131')
+CNP(cnp='6020523192607')
+CNP(cnp='4140222183447')
+CNP(cnp='8040102346713')
+CNP(cnp='9200112200636')
+CNP(cnp='9970319372449')
+CNP(cnp='4180601510661')
+CNP(cnp='1300728149755')
+CNP(cnp='3300514466133')
+CNP(cnp='3231101318233')
+CNP(cnp='8561113234432')
+CNP(cnp='4521107385545')
+CNP(cnp='8711221289505')
+CNP(cnp='1861021447971')
+CNP(cnp='8090501512185')
+CNP(cnp='7790320273631')
+CNP(cnp='5170523079657')
+CNP(cnp='6111125101917')
+CNP(cnp='4241120048109')
+CNP(cnp='2820122120801')
+CNP(cnp='8220930382068')
+CNP(cnp='2670412144364')
+CNP(cnp='8520726094922')
+CNP(cnp='1780929175701')
+CNP(cnp='8480105110638')
+CNP(cnp='1440317353300')
+CNP(cnp='4960728396811')
+CNP(cnp='1380815454349')
+CNP(cnp='3960727198184')
+CNP(cnp='7340912083985')
+CNP(cnp='2421108143917')
+CNP(cnp='8481101188086')
+CNP(cnp='3090605070073')
+CNP(cnp='7900703454022')
+CNP(cnp='3261228042319')
+CNP(cnp='8780608268938')
+CNP(cnp='7040423353187')
+CNP(cnp='1431008055721')
+CNP(cnp='9910302052447')
+CNP(cnp='9170621202965')
+CNP(cnp='7810204365410')
+CNP(cnp='1800803171181')
+CNP(cnp='9050422102672')
+CNP(cnp='1780505463626')
+CNP(cnp='6080830119828')
+CNP(cnp='7260305146979')
+CNP(cnp='4981024166563')
+CNP(cnp='4181228086704')
+CNP(cnp='9590327375656')
+CNP(cnp='2160701251005')
+CNP(cnp='2770909522741')
+CNP(cnp='4290727188998')
+CNP(cnp='1630819187480')
+CNP(cnp='4511213317417')
+CNP(cnp='7901208423201')
+CNP(cnp='5061103167926')
+CNP(cnp='1100914011349')
+CNP(cnp='2800120299916')
+CNP(cnp='1020617281848')
+CNP(cnp='9510422463101')
+CNP(cnp='9050915453050')
+CNP(cnp='7371012057811')
+CNP(cnp='4350607020337')
+CNP(cnp='9530914082591')
+CNP(cnp='4680727356497')
+CNP(cnp='7900212109106')
+CNP(cnp='1730806231173')
+CNP(cnp='8040213523829')
+CNP(cnp='7621103084276')
+CNP(cnp='7680930417215')
+CNP(cnp='4860502373079')
+CNP(cnp='2440920348150')
+CNP(cnp='1310918172850')
+CNP(cnp='3090420314919')
+CNP(cnp='8020124385526')
+CNP(cnp='2610510250528')
+CNP(cnp='8010504338581')
+CNP(cnp='2190603358965')
+CNP(cnp='1670406371400')
+CNP(cnp='9410226105682')
+CNP(cnp='1750731466621')
+CNP(cnp='1540613186786')
+CNP(cnp='9491018527127')
+CNP(cnp='1460730265174')
+CNP(cnp='1951209200352')
+CNP(cnp='4410326402011')
+CNP(cnp='8331102040771')
+CNP(cnp='8290421192396')
+CNP(cnp='7260401220583')
+CNP(cnp='2520829103314')
+CNP(cnp='7690406226369')
+CNP(cnp='7151111361600')
+CNP(cnp='8240313061684')
+CNP(cnp='4190201352810')
+CNP(cnp='1470726298189')
+CNP(cnp='2191004137128')
+CNP(cnp='9721114324899')
+CNP(cnp='4050227080821')
+CNP(cnp='8860720029504')
+CNP(cnp='1830418013424')
+CNP(cnp='9671114359384')
+CNP(cnp='1651102370727')
+CNP(cnp='4920126203170')
+CNP(cnp='7660906321974')
+CNP(cnp='2771119436394')
+CNP(cnp='3670624345904')
+CNP(cnp='8600625049208')
+CNP(cnp='8331008280009')
+CNP(cnp='3470914195090')
+CNP(cnp='5011121057427')
+CNP(cnp='7030915378463')
+CNP(cnp='9460514102671')
+CNP(cnp='3800511525931')
+CNP(cnp='4650621411122')
+CNP(cnp='9301224384224')
+CNP(cnp='8990812248199')
+CNP(cnp='4791124255496')
+CNP(cnp='3840630126446')
+CNP(cnp='9480329041777')
+CNP(cnp='2071005376853')
+CNP(cnp='9950517206884')
+CNP(cnp='4321111299808')
+CNP(cnp='6151224516552')
+CNP(cnp='8830713233639')
+CNP(cnp='8140825429322')
+CNP(cnp='8340407118461')
+CNP(cnp='9050316289063')
+CNP(cnp='3060430152141')
+CNP(cnp='3420805516714')
+CNP(cnp='2741008043527')
+CNP(cnp='9250123371747')
+CNP(cnp='3780608378991')
+CNP(cnp='6051009175151')
+CNP(cnp='4991116448023')
+CNP(cnp='2450913054491')
+CNP(cnp='3810718401892')
+CNP(cnp='5061207336723')
+CNP(cnp='4680729228094')
+CNP(cnp='7540616102341')
+CNP(cnp='7810525343599')
+CNP(cnp='2960830416723')
+CNP(cnp='9660307179348')
+CNP(cnp='1860604272412')
+CNP(cnp='1820614422901')
+CNP(cnp='7671227252479')
+CNP(cnp='8321208231951')
+CNP(cnp='9070623434926')
+CNP(cnp='8400724091769')
+CNP(cnp='1670522437988')
+CNP(cnp='9310827399674')
+CNP(cnp='7961114292324')
+CNP(cnp='1190326093079')
+CNP(cnp='1640720214070')
+CNP(cnp='1230622420166')
+CNP(cnp='1450502399307')
+CNP(cnp='4520320055492')
+CNP(cnp='3781101137408')
+CNP(cnp='9780429397412')
+CNP(cnp='9721112413928')
+CNP(cnp='2740626272389')
+CNP(cnp='9070829073160')
+CNP(cnp='2080212273572')
+CNP(cnp='3790126426340')
+CNP(cnp='8130702344920')
+CNP(cnp='9680706224134')
+CNP(cnp='2110811385250')
+CNP(cnp='1400218010130')
+CNP(cnp='9400211463611')
+CNP(cnp='2280630299706')
+CNP(cnp='1781129032665')
+CNP(cnp='7960703082128')
+CNP(cnp='9261126224909')
+CNP(cnp='8510112114543')
+CNP(cnp='3281202096696')
+CNP(cnp='9371005343171')
+CNP(cnp='4590314177922')
+CNP(cnp='7480730231834')
+CNP(cnp='3900808047073')
+CNP(cnp='8130604311482')
+CNP(cnp='4621013046023')
+CNP(cnp='7530419430522')
+CNP(cnp='9290302139395')
+CNP(cnp='4240202160661')
+CNP(cnp='1500627352456')
+CNP(cnp='9940624014128')
+CNP(cnp='8170513200851')
+CNP(cnp='1491029308233')
+CNP(cnp='9641102425781')
+CNP(cnp='2270226243379')
+CNP(cnp='9890921116115')
+CNP(cnp='5091225254770')
+CNP(cnp='7190621058229')
+CNP(cnp='3350423457074')
+CNP(cnp='9661120289986')
+CNP(cnp='7020321166791')
+CNP(cnp='1160116052021')
+CNP(cnp='9710514079335')
+CNP(cnp='6180515198929')
+CNP(cnp='1520725206780')
+CNP(cnp='7910401359993')
+CNP(cnp='2520114404489')
+CNP(cnp='1550613128493')
+CNP(cnp='1010724050565')
+CNP(cnp='8790322322985')
+CNP(cnp='4471230269901')
+CNP(cnp='7910402192686')
+CNP(cnp='3650722033303')
+CNP(cnp='7510122269264')
+CNP(cnp='5150621044180')
+CNP(cnp='3781212032061')
+CNP(cnp='7630220107706')
+CNP(cnp='1160818222562')
+CNP(cnp='3060201046160')
+CNP(cnp='3370815158356')
+CNP(cnp='9531021314321')
+CNP(cnp='5000206522081')
+CNP(cnp='8321009124311')
+CNP(cnp='4221016309413')
+CNP(cnp='2791117292309')
+CNP(cnp='1320410121148')
+CNP(cnp='8580602165154')
+CNP(cnp='4640512164548')
+CNP(cnp='2450903436483')
+CNP(cnp='4160202138234')
+CNP(cnp='9410525268473')
+CNP(cnp='4890505257088')
+CNP(cnp='1560212527618')
+CNP(cnp='9660506337859')
+CNP(cnp='3750125243724')
+CNP(cnp='2020925188013')
+CNP(cnp='7971102178181')
+CNP(cnp='6090707157097')
+CNP(cnp='2680616522897')
+CNP(cnp='8210819414956')
+CNP(cnp='5180815059571')
+CNP(cnp='1250113258740')
+CNP(cnp='2410910427423')
+CNP(cnp='2290120337679')
+CNP(cnp='8690428420314')
+CNP(cnp='2410404521707')
+CNP(cnp='8810713307712')
+CNP(cnp='8730308081605')
+CNP(cnp='8690319028322')
+CNP(cnp='9871020045339')
+CNP(cnp='8790924385412')
+CNP(cnp='4200909398394')
+CNP(cnp='8390310198869')
+CNP(cnp='9091102425280')
+CNP(cnp='8220704416330')
+CNP(cnp='1140827393339')
+CNP(cnp='4070422075030')
+CNP(cnp='2861221138154')
+CNP(cnp='1610201092438')
+CNP(cnp='7201030521993')
+CNP(cnp='7870304114901')
+CNP(cnp='4200614181345')
+CNP(cnp='4891101056760')
+CNP(cnp='4580603444106')
+CNP(cnp='8891003459288')
+CNP(cnp='1500411415247')
+CNP(cnp='8361223153509')
+CNP(cnp='4560816291890')
+CNP(cnp='7940912460981')
+CNP(cnp='2900217289429')
+CNP(cnp='1030214424510')
+CNP(cnp='3710411279421')
+CNP(cnp='8270822211481')
+CNP(cnp='7480216119281')
+CNP(cnp='4661119119534')
+CNP(cnp='2830226437517')
+CNP(cnp='3730211416162')
+CNP(cnp='4240628362826')
+CNP(cnp='4390321024840')
+CNP(cnp='2510125158892')
+CNP(cnp='7531029162964')
+CNP(cnp='3000823114708')
+CNP(cnp='7790210120118')
+CNP(cnp='4130608215577')
+CNP(cnp='3440731393881')
+CNP(cnp='6120620160785')
+CNP(cnp='3401224456648')
+CNP(cnp='9191013206159')
+CNP(cnp='9270813111062')
+CNP(cnp='8430929343511')
+CNP(cnp='9640407212829')
+CNP(cnp='3020830097356')
+CNP(cnp='3640504089297')
+CNP(cnp='1770905124349')
+CNP(cnp='7330506384342')
+CNP(cnp='7660511284044')
+CNP(cnp='4300510087634')
+CNP(cnp='6031208205362')
+CNP(cnp='4990123401011')
+CNP(cnp='2150817153327')
+CNP(cnp='8320220258201')
+CNP(cnp='4190715186735')
+CNP(cnp='4040112141393')
+CNP(cnp='1580725365014')
+CNP(cnp='1110816031503')
+CNP(cnp='1410309319578')
+CNP(cnp='3951104140943')
+CNP(cnp='3670814251469')
+CNP(cnp='4741220302650')
+CNP(cnp='3710814456771')
+CNP(cnp='7660416025916')
+CNP(cnp='7160813037436')
+CNP(cnp='7571009220984')
+CNP(cnp='2270522246341')
+CNP(cnp='9470602225034')
+CNP(cnp='1760711325883')
+CNP(cnp='8190809157520')
+CNP(cnp='1911012135689')
+CNP(cnp='9160409391416')
+CNP(cnp='8670414324277')
+CNP(cnp='4840625446110')
+CNP(cnp='1941021521858')
+CNP(cnp='2430217448796')
+CNP(cnp='1680127180192')
+CNP(cnp='3611019264193')
+CNP(cnp='4030922278049')
+CNP(cnp='9851015180650')
+CNP(cnp='8590618294941')
+CNP(cnp='7860108219642')
+CNP(cnp='7520313203270')
+CNP(cnp='9941122442236')
+CNP(cnp='8970716400355')
+CNP(cnp='8761004177594')
+CNP(cnp='4250729217909')
+CNP(cnp='9501130248360')
+CNP(cnp='3840826013359')
+CNP(cnp='8010727245681')
+CNP(cnp='9620515296549')
+CNP(cnp='9951104441376')
+CNP(cnp='7140210518392')
+CNP(cnp='9411228514447')
+CNP(cnp='8720526175698')
+CNP(cnp='9580627346464')
+CNP(cnp='4791102275275')
+CNP(cnp='4770124386606')
+CNP(cnp='2620714360112')
+CNP(cnp='2590219130337')
+CNP(cnp='7360410293642')
+CNP(cnp='1660520235113')
+CNP(cnp='2600321281284')
+CNP(cnp='6130321307425')
+CNP(cnp='4540330310086')
+CNP(cnp='3280501056301')
+CNP(cnp='4880826291066')
+CNP(cnp='1090222179458')
+CNP(cnp='4311025305484')
+CNP(cnp='4830627236146')
+CNP(cnp='8750216434234')
+CNP(cnp='2030113335684')
+CNP(cnp='3070809013747')
+CNP(cnp='2320813305953')
+CNP(cnp='6000918185740')
+CNP(cnp='9360806420580')
+CNP(cnp='4240511292008')
+CNP(cnp='8290220290741')
+CNP(cnp='9890822042431')
+CNP(cnp='4560524035149')
+CNP(cnp='7480507516168')
+CNP(cnp='4630703514298')
+CNP(cnp='7440704468661')
+CNP(cnp='9721004169671')
+CNP(cnp='7130322162611')
+CNP(cnp='5120524310919')
+CNP(cnp='2940904372778')
+CNP(cnp='3080309092620')
+CNP(cnp='5080403437061')
+CNP(cnp='1640315466508')
+CNP(cnp='1800221062829')
+CNP(cnp='4851230423192')
+CNP(cnp='3470718182091')
+CNP(cnp='4240409246327')
+CNP(cnp='9220503426411')
+CNP(cnp='2341204298434')
+CNP(cnp='9201103387189')
+CNP(cnp='9240610231985')
+CNP(cnp='7961216202213')
+CNP(cnp='7350917248919')
+CNP(cnp='2060523466556')
+CNP(cnp='7371017369893')
+CNP(cnp='8090604151751')
+CNP(cnp='9630531068320')
+CNP(cnp='9900913354163')
+CNP(cnp='9300629387745')
+CNP(cnp='1930523405818')
+CNP(cnp='5041202352034')
+CNP(cnp='1940611190870')
+CNP(cnp='4791124024522')
+CNP(cnp='9540927064830')
+CNP(cnp='4540502112757')
+CNP(cnp='4700601187205')
+CNP(cnp='9410102400155')
+CNP(cnp='4530614419717')
+CNP(cnp='3930822377510')
+CNP(cnp='9850406027250')
+CNP(cnp='4530725058187')
+CNP(cnp='5080312241752')
+CNP(cnp='7840730454190')
+CNP(cnp='4531029011034')
+CNP(cnp='1130908159961')
+CNP(cnp='3261123286667')
+CNP(cnp='7301122303504')
+CNP(cnp='9760604269475')
+CNP(cnp='8960604061755')
+CNP(cnp='3381208221663')
+CNP(cnp='3630928071250')
+CNP(cnp='8600329437117')
+CNP(cnp='9590804251288')
+CNP(cnp='3970601217135')
+CNP(cnp='4601204174913')
+CNP(cnp='7981016410055')
+CNP(cnp='1970712205060')
+CNP(cnp='9191125041656')
+CNP(cnp='1051108135822')
+CNP(cnp='3061119144182')
+CNP(cnp='2211015518552')
+CNP(cnp='4361213332293')
+CNP(cnp='9450120279557')
+CNP(cnp='2331012030361')
+CNP(cnp='1000927510769')
+CNP(cnp='3620703352323')
+CNP(cnp='6000406380872')
+CNP(cnp='3340221454502')
+CNP(cnp='1090309018521')
+CNP(cnp='2640821085814')
+CNP(cnp='1490604151201')
+CNP(cnp='5011117016857')
+CNP(cnp='2150528382235')
+CNP(cnp='3000919529301')
+CNP(cnp='6200220189124')
+CNP(cnp='7360615381663')
+CNP(cnp='1881222466305')
+CNP(cnp='7320406072880')
+CNP(cnp='9850103100590')
+CNP(cnp='7760111355534')
+CNP(cnp='7750103141938')
+CNP(cnp='3290129213388')
+CNP(cnp='4420905414797')
+CNP(cnp='1150729468453')
+CNP(cnp='6031026333080')
+CNP(cnp='2091201467687')
+CNP(cnp='2050119231650')
+CNP(cnp='1530206159886')
+CNP(cnp='9900521145308')
+CNP(cnp='2050117035637')
+CNP(cnp='4561018308136')
+CNP(cnp='4300319253877')
+CNP(cnp='8940702325978')
+CNP(cnp='2860205020296')
+CNP(cnp='8790420388611')
+CNP(cnp='3760210285754')
+CNP(cnp='9090214353018')
+CNP(cnp='2821208527490')
+CNP(cnp='8000325355093')
+CNP(cnp='1990603024988')
+CNP(cnp='1410905125609')
+CNP(cnp='3320621121374')
+CNP(cnp='1420217164781')
+CNP(cnp='9081131373962')
+CNP(cnp='4440924347761')
+CNP(cnp='8051109430427')
+CNP(cnp='7330817173378')
+CNP(cnp='1921216386981')
+CNP(cnp='2040616098449')
+CNP(cnp='8020504268788')
+CNP(cnp='5141216372664')
+CNP(cnp='7810227299799')
+CNP(cnp='2251006463555')
+CNP(cnp='4300204018234')
+CNP(cnp='4240203348698')
+CNP(cnp='7040527041072')
+CNP(cnp='2970520330611')
+CNP(cnp='8510111371863')
+CNP(cnp='9440802218983')
+CNP(cnp='2610312114175')
+CNP(cnp='4190804021792')
+CNP(cnp='8811012052313')
+CNP(cnp='7091028160025')
+CNP(cnp='9500529396387')
+CNP(cnp='7350516156654')
+CNP(cnp='3471213405227')
+CNP(cnp='3210620244929')
+CNP(cnp='2131109278615')
+CNP(cnp='7241219525257')
+CNP(cnp='3450922233892')
+CNP(cnp='8540115519439')
+CNP(cnp='7670222116005')
+CNP(cnp='4380117107788')
+CNP(cnp='8060811321810')
+CNP(cnp='6090630452281')
+CNP(cnp='7801222434479')
+CNP(cnp='8261116434828')
+CNP(cnp='2091119268835')
+CNP(cnp='9270711133248')
+CNP(cnp='8660728430684')
+CNP(cnp='4770211298751')
+CNP(cnp='4590715387600')
+CNP(cnp='7440305314442')
+CNP(cnp='1701017110899')
+CNP(cnp='9700219255193')
+CNP(cnp='3221026129834')
+CNP(cnp='1810104181326')
+CNP(cnp='2771218400114')
+CNP(cnp='8090224525303')
+CNP(cnp='7161227248173')
+CNP(cnp='3451019367371')
+CNP(cnp='1190521170640')
+CNP(cnp='4610614217861')
+CNP(cnp='6180419397511')
+CNP(cnp='2800621093749')
+CNP(cnp='6210718083324')
+CNP(cnp='3940216103830')
+CNP(cnp='1750410526137')
+CNP(cnp='4531206464851')
+CNP(cnp='9800920431302')
+CNP(cnp='3510808417486')
+CNP(cnp='2151219329899')
+CNP(cnp='1570616452118')
+CNP(cnp='9060418515277')
+CNP(cnp='7760308035457')
+CNP(cnp='9551223095132')
+CNP(cnp='8780129235784')
+CNP(cnp='7130408397854')
+CNP(cnp='3200421524319')
+CNP(cnp='4211209028182')
+CNP(cnp='1241123327504')
+CNP(cnp='4221012061143')
+CNP(cnp='1060716191473')
+CNP(cnp='6140401384103')
+CNP(cnp='4840510152712')
+CNP(cnp='6081013348391')
+CNP(cnp='9920713140636')
+CNP(cnp='4341119441468')
+CNP(cnp='9590609252809')
+CNP(cnp='2880417103501')
+CNP(cnp='4100421303976')
+CNP(cnp='3981004075588')
+CNP(cnp='4390910242141')
+CNP(cnp='2080815377048')
+CNP(cnp='4261228038728')
+CNP(cnp='8010409407611')
+CNP(cnp='8030614315163')
+CNP(cnp='2611225034651')
+CNP(cnp='6190520037304')
+CNP(cnp='2530518222417')
+CNP(cnp='9990926423700')
+CNP(cnp='9480105386753')
+CNP(cnp='7431225248922')
+CNP(cnp='2201023370634')
+CNP(cnp='9171225163816')
+CNP(cnp='8420808200082')
+CNP(cnp='3010411276585')
+CNP(cnp='9240924162973')
+CNP(cnp='9690914435613')
+CNP(cnp='2351024042085')
+CNP(cnp='8701209275888')
+CNP(cnp='3770506023846')
+CNP(cnp='9081102191004')
+CNP(cnp='7770803414232')
+CNP(cnp='3491215442881')
+CNP(cnp='4970629087369')
+CNP(cnp='9250828064371')
+CNP(cnp='8860817250274')
+CNP(cnp='8091230156507')
+CNP(cnp='4730803016029')
+CNP(cnp='8640329194640')
+CNP(cnp='3870728417916')
+CNP(cnp='3311206442180')
+CNP(cnp='3211228020520')
+CNP(cnp='5161201442584')
+CNP(cnp='7590628221041')
+CNP(cnp='6061226090183')
+CNP(cnp='9110804340303')
+CNP(cnp='1670125301271')
+CNP(cnp='5040610418413')
+CNP(cnp='8700904179486')
+CNP(cnp='9220903448842')
+CNP(cnp='4161201335180')
+CNP(cnp='8770806336164')
+CNP(cnp='4130102360419')
+CNP(cnp='3661113223731')
+CNP(cnp='1060621065966')
+CNP(cnp='2800807195168')
+CNP(cnp='7030924069264')
+CNP(cnp='1380504467651')
+CNP(cnp='3970305424891')
+CNP(cnp='4901016103931')
+CNP(cnp='8490429126768')
+CNP(cnp='8940731363133')
+CNP(cnp='4760906011288')
+CNP(cnp='8240416112248')
+CNP(cnp='4990314080282')
+CNP(cnp='3630929100298')
+CNP(cnp='7690719315086')
+CNP(cnp='9400527020814')
+CNP(cnp='4010629412918')
+CNP(cnp='7870426413434')
+CNP(cnp='3001014053830')
+CNP(cnp='9270914139412')
+CNP(cnp='2400118392978')
+CNP(cnp='8070426430194')
+CNP(cnp='3880420313776')
+CNP(cnp='8300125405990')
+CNP(cnp='9610126359369')
+CNP(cnp='8931127294628')
+CNP(cnp='7091001127686')
+CNP(cnp='1441019061621')
+CNP(cnp='7090713318281')
+CNP(cnp='1131121230151')
+CNP(cnp='3010816289527')
+CNP(cnp='2680302367952')
+CNP(cnp='4720310346455')
+CNP(cnp='9290602252341')
+CNP(cnp='6150707067974')
+CNP(cnp='4680830284319')
+CNP(cnp='3130916124550')
+CNP(cnp='4130415072699')
+CNP(cnp='1101030341406')
+CNP(cnp='1580118369717')
+CNP(cnp='3310206525371')
+CNP(cnp='6141223124338')
+CNP(cnp='7310203197594')
+CNP(cnp='9111218421933')
+CNP(cnp='4641128419315')
+CNP(cnp='1650409176711')
+CNP(cnp='6201113012441')
+CNP(cnp='2320118378835')
+CNP(cnp='1490301100050')
+CNP(cnp='8970209012301')
+CNP(cnp='3890306374333')
+CNP(cnp='9130514415904')
+CNP(cnp='9300131239532')
+CNP(cnp='1220128017931')
+CNP(cnp='7921228285370')
+CNP(cnp='1600604176499')
+CNP(cnp='1941222092091')
+CNP(cnp='2630608030336')
+CNP(cnp='9030322212850')
+CNP(cnp='2700920197662')
+CNP(cnp='2850814403742')
+CNP(cnp='8020122272152')
+CNP(cnp='3950715224536')
+CNP(cnp='4111125422024')
+CNP(cnp='2910616345697')
+CNP(cnp='8300530232281')
+CNP(cnp='1490509519571')
+CNP(cnp='1730328360440')
+CNP(cnp='2051213147249')
+CNP(cnp='2580924061108')
+CNP(cnp='1060211446638')
+CNP(cnp='3670204031353')
+CNP(cnp='7940216345856')
+CNP(cnp='8870502253235')
+CNP(cnp='4340123244614')
+CNP(cnp='3331225440122')
+CNP(cnp='7260206422427')
+CNP(cnp='8610402052239')
+CNP(cnp='3320802192034')
+CNP(cnp='9400403112924')
+CNP(cnp='2420526130331')
+CNP(cnp='7390715141620')
+CNP(cnp='1121121094161')
+CNP(cnp='3800812352414')
+CNP(cnp='1460915439056')
+CNP(cnp='7110910265454')
+CNP(cnp='4690228222314')
+CNP(cnp='2520412321710')
+CNP(cnp='5051107463810')
+CNP(cnp='1580706055699')
+CNP(cnp='9280616427899')
+CNP(cnp='1020830298222')
+CNP(cnp='4140914370051')
+CNP(cnp='9141202467768')
+CNP(cnp='2310313048931')
+CNP(cnp='4270729446242')
+CNP(cnp='4130102016065')
+CNP(cnp='4390320452043')
+CNP(cnp='8230911237103')
+CNP(cnp='3980916042006')
+CNP(cnp='2301119301291')
+CNP(cnp='1730521054138')
+CNP(cnp='9411019021614')
+CNP(cnp='7070327521182')
+CNP(cnp='8640129211451')
+CNP(cnp='3880122284250')
+CNP(cnp='4950218355800')
+CNP(cnp='1030924090859')
+CNP(cnp='7480326214890')
+CNP(cnp='7691027458830')
+CNP(cnp='8680710393362')
+CNP(cnp='1980605034448')
+CNP(cnp='8390817265388')
+CNP(cnp='4260320168418')
+CNP(cnp='2670902420182')
+CNP(cnp='7300404120592')
+CNP(cnp='2461207342141')
+CNP(cnp='3170310257591')
+CNP(cnp='2861012185585')
+CNP(cnp='8690109392649')
+CNP(cnp='3581227399517')
+CNP(cnp='2421107255004')
+CNP(cnp='1500726440231')
+CNP(cnp='2770728169180')
+CNP(cnp='8680931299108')
+CNP(cnp='3230711447859')
+CNP(cnp='3800316419247')
+CNP(cnp='6150309336000')
+CNP(cnp='9820405312605')
+CNP(cnp='8110620160625')
+CNP(cnp='3570212423765')
+CNP(cnp='9800702049848')
+CNP(cnp='9380610044726')
+CNP(cnp='7780408140441')
+CNP(cnp='9560404284147')
+CNP(cnp='9800108438323')

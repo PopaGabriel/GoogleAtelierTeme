@@ -1,20 +1,8 @@
 import random as rd
 from datetime import date
+from collections import namedtuple
 
-
-class Human:
-    def __init__(self, cnp: str):
-        self.region = regions.get(cnp[region])
-        self.day = int(cnp[day])
-        self.year = build_year(int(cnp[0]), int(cnp[year]))
-        self.cnp = cnp
-        self.month = months.get(cnp[month])[0]
-
-    def __repr__(self):
-        return f"""
-        Cnp = {repr(self.cnp)} Region = {repr(self.region)} 
-        Year::Month::Day = {repr(self.year)}::{repr(self.month)}::{repr(self.day)}
-        """
+CNP = namedtuple("CNP", 'cnp')
 
 
 def build_year(s: int, year_last_digits: int) -> int:
@@ -93,7 +81,7 @@ def stress_test(number: int) -> [str]:
     :param number: Number of random dnp to create and verify
     :return: a list of good cnp
     """
-    good_cnps = (Human(_) for _ in (create_cnp() for _ in range(number)) if validation(cnp=_) == "Good CNP")
+    good_cnps = (CNP(_) for _ in (create_cnp() for _ in range(number)) if validation(cnp=_) == "Good CNP")
     return good_cnps
 
 
@@ -121,7 +109,7 @@ if __name__ == "__main__":
 
     output = open("output.txt", "w+")
     for x in stress_test(number=int(input("number of cnps to test\n"))):
-        output.write(repr(x))
+        output.write(repr(x) + '\n')
     output.close()
 
     # CNP_to_Test = input("Introduce a CNP\n")
